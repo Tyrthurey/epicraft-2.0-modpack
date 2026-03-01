@@ -29,11 +29,8 @@ jobs:
       - name: Configure Pakku credentials
         run: java -jar pakku.jar credentials set --cf-api-key '${{ secrets.CURSEFORGE_API_KEY }}'
 
-      - name: Export for CurseForge
-        run: java -jar pakku.jar export curseforge
-
-      - name: Export for Modrinth
-        run: java -jar pakku.jar export modrinth
+      - name: Pakku Export
+        run: java -jar pakku.jar export
 
       - name: Publish to all platforms
         uses: Kir-Antipov/mc-publish@v3.3
