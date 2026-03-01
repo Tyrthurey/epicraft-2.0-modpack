@@ -14,25 +14,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
           java-version: '21'
           distribution: 'temurin'
 
-      - name: Install Pakku
+      - name: Download Pakku JAR
         run: |
-          curl -L -o pakku https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku
-          chmod +x pakku
+          curl -L -o pakku.jar https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
+          java -jar pakku.jar --version
 
       - name: Configure Pakku credentials
-        run: ./pakku credentials add curseforge ${{ secrets.CURSEFORGE_API_KEY }}
+        run: java -jar pakku.jar credentials set --cf-api-key '${{ secrets.CURSEFORGE_API_KEY }}'
 
       - name: Export for CurseForge
-        run: ./pakku export curseforge
+        run: java -jar pakku.jar export curseforge
 
       - name: Export for Modrinth
-        run: ./pakku export modrinth
+        run: java -jar pakku.jar export modrinth
 
       - name: Publish to all platforms
         uses: Kir-Antipov/mc-publish@v3.3
