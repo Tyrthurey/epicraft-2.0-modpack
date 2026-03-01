@@ -4807,42 +4807,6 @@
             ]
         },
         {
-            "pakku_id": "5eIZXpWTCm5AXbTh",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "the-twilight-forest"
-            },
-            "name": {
-                "curseforge": "The Twilight Forest"
-            },
-            "id": {
-                "curseforge": "227639"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "twilightforest-1.21.1-4.8.3287-universal.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7398/100/twilightforest-1.21.1-4.8.3287-universal.jar",
-                    "id": "7398100",
-                    "parent_id": "227639",
-                    "hashes": {
-                        "sha1": "bd9102af8374a971b8f66cd0751de0c17a29f598",
-                        "md5": "3d8c3e550637d4daba2d290647fc8db5"
-                    },
-                    "required_dependencies": [],
-                    "size": 27088062,
-                    "date_published": "2025-12-30T22:36:11.943Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "2QddkV38LAhxzbhr",
             "type": "MOD",
             "side": "BOTH",
@@ -4963,45 +4927,6 @@
                     "required_dependencies": [],
                     "size": 130605,
                     "date_published": "2025-11-08T00:52:16.398667Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "c8zYUfaUziIGyFaB",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "twilights-flavors-delight"
-            },
-            "name": {
-                "curseforge": "Twilight's Flavors & Delight"
-            },
-            "id": {
-                "curseforge": "871735"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "twilightdelight-3.1.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7592/990/twilightdelight-3.1.0.jar",
-                    "id": "7592990",
-                    "parent_id": "871735",
-                    "hashes": {
-                        "sha1": "8afa2c448fab94e453670bea45da8e0fc4342d26",
-                        "md5": "89223b982ebce3f0fde6e871a7e96658"
-                    },
-                    "required_dependencies": [
-                        "227639",
-                        "398521"
-                    ],
-                    "size": 1322136,
-                    "date_published": "2026-02-08T07:59:51.627Z"
                 }
             ]
         },
