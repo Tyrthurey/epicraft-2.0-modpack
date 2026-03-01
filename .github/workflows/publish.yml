@@ -37,15 +37,15 @@ jobs:
       - name: Publish to all platforms
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          # Modrinth - only gets .mrpack
-          modrinth-id: ${{ secrets.MODRINTH_PROJECT_ID }}
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          modrinth-files: build/modrinth/*.mrpack
+          # # Modrinth - only gets .mrpack
+          # modrinth-id: ${{ secrets.MODRINTH_PROJECT_ID }}
+          # modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          # modrinth-files: build/modrinth/*.mrpack
 
-          # CurseForge - only gets .zip
-          curseforge-id: ${{ secrets.CURSEFORGE_PROJECT_ID }}
-          curseforge-token: ${{ secrets.CURSEFORGE_API_KEY }}
-          curseforge-files: build/curseforge/*.zip
+          # # CurseForge - only gets .zip
+          # curseforge-id: ${{ secrets.CURSEFORGE_PROJECT_ID }}
+          # curseforge-token: ${{ secrets.CURSEFORGE_API_KEY }}
+          # curseforge-files: build/curseforge/*.zip
 
           # GitHub release
           github-token: ${{ secrets.GITHUB_TOKEN }}
