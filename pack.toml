@@ -1,0 +1,13 @@
+name = "Epicraft 2.0"
+author = "Jinko, Tyr, Jura, Cobweb"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "63d70fdddb9095ed44c7fa5d14f71e6d9914aee407681a0a214dc70338283b89"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

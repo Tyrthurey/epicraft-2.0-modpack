@@ -4,7 +4,7 @@
         "1.21.1"
     ],
     "loaders": {
-        "neoforge": "latest"
+        "neoforge": "21.1.219"
     },
     "projects": [
         {
@@ -775,10 +775,10 @@
             ]
         },
         {
-            "pakku_id": "JtKis22PMg27q1ws",
+            "pakku_id": "c78iFoJdhvJ44Pl9",
             "pakku_links": [
-                "7FbYyLbXsyiwfEdN",
-                "mvOrSHyiS0Da7lAb"
+                "tsa3ZCrBC8QKlQhr",
+                "hBqU1EEf21jwXmTd"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -813,8 +813,8 @@
                         "sha1": "e277fba0c94fea3c3f58d23bfa53d2eb457555f6"
                     },
                     "required_dependencies": [
-                        "s3dmwKy5",
-                        "kkmrDlKT"
+                        "kkmrDlKT",
+                        "s3dmwKy5"
                     ],
                     "size": 22338082,
                     "date_published": "2025-11-23T04:05:48.266528Z"
@@ -2598,7 +2598,7 @@
             ]
         },
         {
-            "pakku_id": "7FbYyLbXsyiwfEdN",
+            "pakku_id": "tsa3ZCrBC8QKlQhr",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -3824,7 +3824,7 @@
             "pakku_id": "mnWunwisvIykw6ZW",
             "pakku_links": [
                 "f9ptY0mV588yZOR1",
-                "mvOrSHyiS0Da7lAb"
+                "hBqU1EEf21jwXmTd"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -5023,7 +5023,7 @@
             ]
         },
         {
-            "pakku_id": "mvOrSHyiS0Da7lAb",
+            "pakku_id": "hBqU1EEf21jwXmTd",
             "type": "MOD",
             "side": "BOTH",
             "slug": {

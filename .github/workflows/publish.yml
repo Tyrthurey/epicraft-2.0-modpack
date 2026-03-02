@@ -14,12 +14,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
-          java-version: '21'
-          distribution: 'temurin'
+          java-version: "21"
+          distribution: "temurin"
 
       - name: Download Pakku JAR
         run: |
@@ -31,6 +30,64 @@ jobs:
 
       - name: Pakku Export
         run: java -jar pakku.jar export
+
+      # --- Packwiz Setup and Import ---
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.21"
+
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Import CurseForge zip to Packwiz
+        run: |
+          # Create temp directory to avoid conflicts with existing packwiz files
+          mkdir -p /tmp/packwiz-import
+          cd /tmp/packwiz-import
+
+          # Copy .packwizignore to temp directory
+          cp "$GITHUB_WORKSPACE/.packwizignore" .
+
+          # Get the exported CurseForge zip
+          ZIP_FILE=$(ls "$GITHUB_WORKSPACE/build/curseforge"/*.zip | head -n 1)
+          echo "Importing CurseForge zip: $ZIP_FILE"
+
+          # Run packwiz import
+          "$HOME/go/bin/packwiz" curseforge import "$ZIP_FILE"
+
+      # --- Prepare and Upload to Cloudflare R2 ---
+      - name: Prepare filtered directory for R2
+        run: |
+          mkdir -p /tmp/r2-staging
+          cd /tmp/packwiz-import
+
+          # Sync files respecting .packwizignore
+          rsync -av --delete --exclude-from=.packwizignore . /tmp/r2-staging/
+
+          # Remove .packwizignore itself from staging
+          rm -f /tmp/r2-staging/.packwizignore
+
+      - name: Install rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone for Cloudflare R2
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          region = auto
+          endpoint = ${{ secrets.R2_ENDPOINT }}
+          EOF
+
+      - name: Sync to Cloudflare R2 (root, delete extraneous)
+        run: |
+          rclone sync /tmp/r2-staging r2:${{ secrets.R2_BUCKET }} --progress --delete-excluded
 
       - name: Publish to all platforms
         uses: Kir-Antipov/mc-publish@v3.3
