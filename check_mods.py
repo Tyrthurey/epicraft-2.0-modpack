@@ -65,15 +65,11 @@ def check_mod_platforms(filepath):
     return incomplete_mods
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python check_mods.py <path_to_pakku-lock.json>")
-        sys.exit(1)
-
-    filepath = Path(sys.argv[1])
+    filepath = Path("./pakku-lock.json")
 
     if not filepath.exists():
         print(f"Error: File not found: {filepath}")
-        sys.exit(1)
+        
 
     incomplete = check_mod_platforms(filepath)
 
