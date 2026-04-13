@@ -6,5 +6,437 @@
     "loaders": {
         "neoforge": "21.1.219"
     },
+    "projects": [
+        {
+            "pakku_id": "pbu7iYRQ9ykvsQ00",
+            "pakku_links": [
+                "xfDTf44LfdX9hSUP",
+                "rPhhd8AdzguieeZK"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aces-spell-utils",
+                "modrinth": "aces-spell-utils"
+            },
+            "name": {
+                "curseforge": "Ace's Spell Utils",
+                "modrinth": "Ace's Spell Utils"
+            },
+            "id": {
+                "curseforge": "1299492",
+                "modrinth": "7Jy4rK9m"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aces_spell_utils-1.2.5-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7787/705/aces_spell_utils-1.2.5-1.21.1.jar",
+                    "id": "7787705",
+                    "parent_id": "1299492",
+                    "hashes": {
+                        "sha1": "1fb8825946420800aa7e52ff286e034146c79377",
+                        "md5": "cb3c6addd07cb86c9b94e24ce47905bd"
+                    },
+                    "required_dependencies": [
+                        "855414"
+                    ],
+                    "size": 237026,
+                    "date_published": "2026-03-21T02:13:58.900Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aces_spell_utils-1.2.5-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7Jy4rK9m/versions/ren4z6IN/aces_spell_utils-1.2.5-1.21.1.jar",
+                    "id": "ren4z6IN",
+                    "parent_id": "7Jy4rK9m",
+                    "hashes": {
+                        "sha512": "fff1818320f800609f6838a7bda136710ef9fb1ac625ee6ccb9c36fa77fbf7b93530b88b57db13d5bfd2e253596841feea532ffcbfaba774d3a6be72cc104b2b",
+                        "sha1": "1fb8825946420800aa7e52ff286e034146c79377"
+                    },
+                    "required_dependencies": [
+                        "s4OWxYQQ"
+                    ],
+                    "size": 237026,
+                    "date_published": "2026-03-21T02:14:03.965543Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bHwIOACYQmzMXgkX",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "curios",
+                "modrinth": "curios"
+            },
+            "name": {
+                "curseforge": "Curios API (Forge/NeoForge)",
+                "modrinth": "Curios API"
+            },
+            "id": {
+                "curseforge": "309927",
+                "modrinth": "vvuO3ImH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1+1.21.1.jar",
+                    "id": "6529130",
+                    "parent_id": "309927",
+                    "hashes": {
+                        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+                        "md5": "e8f0a3574264bb202c153b90293dc84c"
+                    },
+                    "required_dependencies": [],
+                    "size": 410690,
+                    "date_published": "2025-05-14T13:34:49.793Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1+1.21.1.jar",
+                    "id": "yohfFbgD",
+                    "parent_id": "vvuO3ImH",
+                    "hashes": {
+                        "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+                        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+                    },
+                    "required_dependencies": [],
+                    "size": 410690,
+                    "date_published": "2025-05-14T13:34:47.415840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DGTUx57SDzXaqdR2",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "emi",
+                "modrinth": "emi"
+            },
+            "name": {
+                "curseforge": "EMI",
+                "modrinth": "EMI"
+            },
+            "id": {
+                "curseforge": "580555",
+                "modrinth": "fRiHVvU7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emi-1.1.22+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6420/931/emi-1.1.22+1.21.1+neoforge.jar",
+                    "id": "6420931",
+                    "parent_id": "580555",
+                    "hashes": {
+                        "sha1": "cbbd038194cd63249db185c53b1d50a1767f80a3",
+                        "md5": "ca9775a6f300989cb4d2063e1833579b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1038248,
+                    "date_published": "2025-04-14T03:34:37.090Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emi-1.1.22+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/ouSj7NfF/emi-1.1.22+1.21.1+neoforge.jar",
+                    "id": "ouSj7NfF",
+                    "parent_id": "fRiHVvU7",
+                    "hashes": {
+                        "sha512": "6b4f2b93ccd40bbbf3d1f368a9d92b43777543c44243a76ed4010bd563a7f9658decdd58a3d79a3cdc04a288bf98e327a1cce93a5a9d2b8840306578fe633bca",
+                        "sha1": "cbbd038194cd63249db185c53b1d50a1767f80a3"
+                    },
+                    "required_dependencies": [],
+                    "size": 1038248,
+                    "date_published": "2025-04-14T03:34:26.836424Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SFnH6HnI5RWYzW8r",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "geckolib",
+                "modrinth": "geckolib"
+            },
+            "name": {
+                "curseforge": "GeckoLib",
+                "modrinth": "Geckolib"
+            },
+            "id": {
+                "curseforge": "388172",
+                "modrinth": "8BmcQJ2H"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
+                    "id": "7707149",
+                    "parent_id": "388172",
+                    "hashes": {
+                        "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
+                        "md5": "f68322025b603faaaaa5a1b3c52dc2ae"
+                    },
+                    "required_dependencies": [],
+                    "size": 622582,
+                    "date_published": "2026-03-03T20:06:19.730Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+                    "id": "gFmrC8Ru",
+                    "parent_id": "8BmcQJ2H",
+                    "hashes": {
+                        "sha512": "340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0",
+                        "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+                    },
+                    "required_dependencies": [],
+                    "size": 622582,
+                    "date_published": "2026-03-03T20:06:25.035771Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xhjaD6EceO13JTV4",
+            "pakku_links": [
+                "h3RgQwAp5CnKMq3H",
+                "SFnH6HnI5RWYzW8r"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "irons-lib"
+            },
+            "name": {
+                "curseforge": "Iron's Lib"
+            },
+            "id": {
+                "curseforge": "1492763"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "irons_lib-1.21.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7907/336/irons_lib-1.21.1-1.0.2.jar",
+                    "id": "7907336",
+                    "parent_id": "1492763",
+                    "hashes": {
+                        "sha1": "ef92f362a352a30f927c30c2be72a2d843c41342",
+                        "md5": "e721286ef6096e6789252c208c8d333e"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 374610,
+                    "date_published": "2026-04-10T22:54:39.877Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rPhhd8AdzguieeZK",
+            "pakku_links": [
+                "bHwIOACYQmzMXgkX",
+                "SFnH6HnI5RWYzW8r",
+                "1jDmQ7hpoeOhrGuF",
+                "xhjaD6EceO13JTV4",
+                "ZrEXPpHR8aA8PUFk"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "irons-spells-n-spellbooks",
+                "modrinth": "irons-spells-n-spellbooks"
+            },
+            "name": {
+                "curseforge": "Iron's Spells 'n Spellbooks",
+                "modrinth": "Iron's Spells 'n Spellbooks"
+            },
+            "id": {
+                "curseforge": "855414",
+                "modrinth": "s4OWxYQQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "irons_spellbooks-1.21.1-3.15.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7907/341/irons_spellbooks-1.21.1-3.15.6.jar",
+                    "id": "7907341",
+                    "parent_id": "855414",
+                    "hashes": {
+                        "sha1": "c9fea9c9b38376af74b7a7da68dc8a7671f4b961",
+                        "md5": "4cd2e7e050a03e33d85e17d6d120f4ab"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "388172",
+                        "658587",
+                        "1492763"
+                    ],
+                    "size": 13559913,
+                    "date_published": "2026-04-10T22:56:10.110Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "irons_spellbooks-1.21.1-3.15.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/GpAw0Y4D/irons_spellbooks-1.21.1-3.15.6.jar",
+                    "id": "GpAw0Y4D",
+                    "parent_id": "s4OWxYQQ",
+                    "hashes": {
+                        "sha512": "8832eba72342c85db7463021ebe8514c2221512cd10592cd09784b9090bbd73af1d90dfa684b38a1ee458f11f40ca87cc182e6ce32052099c32e51608b1f9fc0",
+                        "sha1": "c9fea9c9b38376af74b7a7da68dc8a7671f4b961"
+                    },
+                    "required_dependencies": [],
+                    "size": 13559913,
+                    "date_published": "2026-04-12T15:59:58.224850Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZrEXPpHR8aA8PUFk",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "playeranimator",
+                "modrinth": "playeranimator"
+            },
+            "name": {
+                "curseforge": "playerAnimator",
+                "modrinth": "playerAnimator"
+            },
+            "id": {
+                "curseforge": "658587",
+                "modrinth": "gedNE4y2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "id": "7389814",
+                    "parent_id": "658587",
+                    "hashes": {
+                        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+                        "md5": "ecb81c9479605db12a77bea774b88406"
+                    },
+                    "required_dependencies": [],
+                    "size": 203149,
+                    "date_published": "2025-12-28T21:00:20.250Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "id": "HJZB6bmA",
+                    "parent_id": "gedNE4y2",
+                    "hashes": {
+                        "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f",
+                        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+                    },
+                    "required_dependencies": [],
+                    "size": 203149,
+                    "date_published": "2025-12-28T21:00:18.426451Z"
+                }
+            ]
+        }
+    ],
     "lockfile_version": 1
 }
