@@ -9,3 +9,7 @@ shaderpacks
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+.env
+pakku.jar
+__pycache__
