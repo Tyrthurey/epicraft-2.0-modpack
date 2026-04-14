@@ -6261,7 +6261,73 @@
             ]
         },
         {
+            "pakku_id": "VewEx6ZI8vAlodOL",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gravestone-mod",
+                "modrinth": "gravestone-mod"
+            },
+            "name": {
+                "curseforge": "GraveStone Mod",
+                "modrinth": "GraveStone Mod"
+            },
+            "id": {
+                "curseforge": "238551",
+                "modrinth": "RYtXKJPr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gravestone-neoforge-1.21.1-1.0.35.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7099/728/gravestone-neoforge-1.21.1-1.0.35.jar",
+                    "id": "7099728",
+                    "parent_id": "238551",
+                    "hashes": {
+                        "sha1": "4859c0166263b15a08f0ae0d7df5d6278a58e71d",
+                        "md5": "89dfe8df6395582db162a517198b53a8"
+                    },
+                    "required_dependencies": [],
+                    "size": 318685,
+                    "date_published": "2025-10-12T17:07:29.750Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gravestone-neoforge-1.21.1-1.0.35.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/AZm51eX1/gravestone-neoforge-1.21.1-1.0.35.jar",
+                    "id": "AZm51eX1",
+                    "parent_id": "RYtXKJPr",
+                    "hashes": {
+                        "sha512": "4fac4b141df81161177fb0882335e27d1259d05ffd3f3795a0258e3471f4e72840cfa5b73fb1bc1ad8cdca255b83dc46f713f81fea533e4fb1e72834e1724886",
+                        "sha1": "91f5e2395081ac5f5034ce05f83bcbfca1e3fd5c"
+                    },
+                    "required_dependencies": [],
+                    "size": 318685,
+                    "date_published": "2025-10-12T17:07:37.958958Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QxP1OprVCKEsklyN",
+            "pakku_links": [
+                "VewEx6ZI8vAlodOL"
+            ],
             "type": "MOD",
             "side": "SERVER",
             "slug": {
