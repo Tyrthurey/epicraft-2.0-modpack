@@ -11992,23 +11992,19 @@
             ]
         },
         {
-            "pakku_id": "Dlu1XJhTBZUezAv7",
+            "pakku_id": "oO7KHYfdQ1boc4q3",
             "pakku_links": [
                 "vm7whLV6C6hkDOBK"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "supplementaries",
-                "modrinth": "supplementaries"
+                "curseforge": "supplementaries"
             },
             "name": {
-                "curseforge": "Supplementaries",
-                "modrinth": "Supplementaries"
+                "curseforge": "Supplementaries"
             },
             "id": {
-                "curseforge": "412082",
-                "modrinth": "fFEIiSDQ"
+                "curseforge": "412082"
             },
             "files": [
                 {
@@ -12033,29 +12029,6 @@
                     ],
                     "size": 13355642,
                     "date_published": "2026-03-07T09:32:52.490Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "supplementaries-1.21-3.5.34-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/NuQNqCLy/supplementaries-1.21-3.5.34-neoforge.jar",
-                    "id": "NuQNqCLy",
-                    "parent_id": "fFEIiSDQ",
-                    "hashes": {
-                        "sha512": "914057d5b4a1a6a1fe5413ee1a3e92867bb34dc877a934a3691b9c3b7e4aee00cb74ccae709d60353ec3db1d586f7e55583e3b71a6b5e949cfaeb950563f018a",
-                        "sha1": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
-                    },
-                    "required_dependencies": [
-                        "twkfQtEc"
-                    ],
-                    "size": 13366044,
-                    "date_published": "2026-04-07T22:52:20.121999Z"
                 }
             ]
         },
