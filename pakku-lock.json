@@ -357,7 +357,8 @@
         {
             "pakku_id": "clGoWXANC1WvRSWH",
             "pakku_links": [
-                "NjrxN8RrhmVqLNeH"
+                "NjrxN8RrhmVqLNeH",
+                "x0BEdUdbBhyQ5XUA"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -3043,7 +3044,7 @@
             ]
         },
         {
-            "pakku_id": "NjrxN8RrhmVqLNeH",
+            "pakku_id": "x0BEdUdbBhyQ5XUA",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -3082,7 +3083,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+                    "file_name": "CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -3090,16 +3091,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/tXZudQfR/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
-                    "id": "tXZudQfR",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/s5OIqWEA/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
+                    "id": "s5OIqWEA",
                     "parent_id": "OsZiaDHq",
                     "hashes": {
-                        "sha512": "654ba22a2bed66dfd95ca4ecd38db11649ca41495b9283554a795c433c9508f6f515a02594d7ab68c45ed1e3b99b124010c936227206bd67e85aa2247ce250bf",
-                        "sha1": "83af278fd8da376480d7847204c3e124bda94add"
+                        "sha512": "2f38d094d407756e71c66b19ebc339431e920b4f054d7a26ae6f1cd8d5cf7dc728b42d6c07f5fe829192220657108afc955679118e15ec47af413040ef27b0bf",
+                        "sha1": "3abdeae43ee5b743ffcf76a4f365dd4326452b90"
                     },
                     "required_dependencies": [],
-                    "size": 1213893,
-                    "date_published": "2026-03-24T15:27:17.653547Z"
+                    "size": 1212692,
+                    "date_published": "2026-03-07T11:56:55.201270Z"
                 }
             ]
         },
