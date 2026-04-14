@@ -620,7 +620,7 @@
             ]
         },
         {
-            "pakku_id": "AeZ9YY6faCjNqqq1",
+            "pakku_id": "8wNmUASXfwoufgja",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -659,7 +659,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Aquaculture-1.21.1-2.7.21.jar",
+                    "file_name": "Aquaculture-1.21.1-2.7.18.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -667,21 +667,24 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/5pbz0ETj/Aquaculture-1.21.1-2.7.21.jar",
-                    "id": "5pbz0ETj",
+                    "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/HXc939mo/Aquaculture-1.21.1-2.7.18.jar",
+                    "id": "HXc939mo",
                     "parent_id": "Vl1uNAuy",
                     "hashes": {
-                        "sha512": "532571f9a9d336d7da4b175f482c2d99c31f440841f9d20dd58137e1df3218180badd54d178559fdc0ac3e08ff94eaf3f1c4d133b9e60c66775971c0a557386d",
-                        "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
+                        "sha512": "52e41b0b71d72844bc5d22a65489f9da9fc61afdd57ceb92e7032862a382c8b7faae911eae30fcec56c874bd56cd00eac056b5c86a0b64d6e3bdedf394370e6a",
+                        "sha1": "756f51ba1e103202d6634544420b77de293a0dd1"
                     },
                     "required_dependencies": [],
-                    "size": 605949,
-                    "date_published": "2026-04-09T21:20:17.665063Z"
+                    "size": 605678,
+                    "date_published": "2026-01-25T01:09:48.899051Z"
                 }
             ]
         },
         {
             "pakku_id": "AzXr6Tpdsi2OIn43",
+            "pakku_links": [
+                "8wNmUASXfwoufgja"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
