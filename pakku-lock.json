@@ -2744,7 +2744,7 @@
             ]
         },
         {
-            "pakku_id": "12a9PbkIQr2VxOFF",
+            "pakku_id": "74EGOdOSDQqzwG5J",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2783,7 +2783,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+                    "file_name": "Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2791,16 +2791,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
-                    "id": "nqrTa84r",
+                    "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/nQqU8c1K/Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+                    "id": "nQqU8c1K",
                     "parent_id": "ziOp6EO8",
                     "hashes": {
-                        "sha512": "d5461d5fab247fe2d30ba5578c7768cf3c4c8758b155acb5c901913c22c43ddd6af6e7dbd5ae4cca8b106f7e2953b4427c0a97e53869861d64b0266c825d178b",
-                        "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
+                        "sha512": "f614e06f2871cdaddd6eb526ee831a661e2818243e310f3087ca89ab989c25a6140d4b4305fd5537a80960c00047d7b3e86bf177dd7605ff8e963f0f644e7fc0",
+                        "sha1": "a84b16272a6cd1b3fec0ff0e2ffdd05cf92dc02a"
                     },
                     "required_dependencies": [],
-                    "size": 309763,
-                    "date_published": "2026-03-17T21:19:34.921195Z"
+                    "size": 310185,
+                    "date_published": "2025-07-24T21:44:54.291589Z"
                 }
             ]
         },
@@ -9418,7 +9418,8 @@
             "pakku_links": [
                 "B8acnnh1PdZ54hwX",
                 "d9w9GATFdZtfpGfN",
-                "Du4lBqMavm6VBIEJ"
+                "Du4lBqMavm6VBIEJ",
+                "74EGOdOSDQqzwG5J"
             ],
             "type": "MOD",
             "side": "BOTH",
