@@ -684,7 +684,8 @@
         {
             "pakku_id": "AzXr6Tpdsi2OIn43",
             "pakku_links": [
-                "8wNmUASXfwoufgja"
+                "8wNmUASXfwoufgja",
+                "qIKmzxQ6JIaI8PVr"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -4934,6 +4935,9 @@
         },
         {
             "pakku_id": "gL2BvQ6F6mpAWNBu",
+            "pakku_links": [
+                "qIKmzxQ6JIaI8PVr"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5356,7 +5360,7 @@
             ]
         },
         {
-            "pakku_id": "Z1ZlqnBVnwWUCE1H",
+            "pakku_id": "qIKmzxQ6JIaI8PVr",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5395,7 +5399,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "FarmersDelight-1.21.1-1.2.11.jar",
+                    "file_name": "FarmersDelight-1.21.1-1.2.10.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -5403,16 +5407,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/cYqC3svy/FarmersDelight-1.21.1-1.2.11.jar",
-                    "id": "cYqC3svy",
+                    "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/EVaDSbPj/FarmersDelight-1.21.1-1.2.10.jar",
+                    "id": "EVaDSbPj",
                     "parent_id": "R2OftAxM",
                     "hashes": {
-                        "sha512": "0af142f085dbb3178bdb521b80bcbf6fd0d0d767df2a899df9066f0fe5641240da15343fe5ed7441d1e44aeff72e402fe17157f2003932ae03761788417e0332",
-                        "sha1": "2415b91d6437977e676985b4a2ef877208d202e1"
+                        "sha512": "9c7bf1df38efe6167622938ecd9fcc9d2fb38de7457f3ef4ec189409a2268fd783c2e4a64c3da80ba67a463bb72c841f6510a57eadc88a078e44a085c299fa62",
+                        "sha1": "93f4de62fce2b90ee8c87e4f6d9b82edb132003d"
                     },
                     "required_dependencies": [],
-                    "size": 2941573,
-                    "date_published": "2026-03-23T20:53:30.208345Z"
+                    "size": 2935025,
+                    "date_published": "2026-02-08T21:14:34.383958Z"
                 }
             ]
         },
@@ -9351,6 +9355,9 @@
         },
         {
             "pakku_id": "1yk6HgcwuCTM5Gk8",
+            "pakku_links": [
+                "qIKmzxQ6JIaI8PVr"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12257,6 +12264,9 @@
         },
         {
             "pakku_id": "TSZ9kgBiWH3uu4oN",
+            "pakku_links": [
+                "qIKmzxQ6JIaI8PVr"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
