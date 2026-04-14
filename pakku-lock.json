@@ -930,20 +930,20 @@
             ]
         },
         {
-            "pakku_id": "no9OwpIPlqPLkvkH",
+            "pakku_id": "wG3P2asgERTItPVJ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "athena",
-                "modrinth": "athena"
+                "modrinth": "athena-ctm",
+                "curseforge": "athena"
             },
             "name": {
-                "curseforge": "Athena",
-                "modrinth": "ATHENA"
+                "modrinth": "Athena",
+                "curseforge": "Athena"
             },
             "id": {
-                "curseforge": "841890",
-                "modrinth": "LN9hexaa"
+                "modrinth": "b1ZV3DIJ",
+                "curseforge": "841890"
             },
             "files": [
                 {
@@ -967,6 +967,28 @@
                     "required_dependencies": [],
                     "size": 92698,
                     "date_published": "2025-06-19T03:54:08.690Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "athena-neoforge-1.21-4.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/SVhR1m5N/athena-neoforge-1.21-4.0.2.jar",
+                    "id": "SVhR1m5N",
+                    "parent_id": "b1ZV3DIJ",
+                    "hashes": {
+                        "sha512": "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88",
+                        "sha1": "069f397f1b3a30b3d5f5a98cac76304dfe345d76"
+                    },
+                    "required_dependencies": [],
+                    "size": 92698,
+                    "date_published": "2025-06-19T03:54:10.282958Z"
                 }
             ]
         },
