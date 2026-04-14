@@ -11026,16 +11026,20 @@
             ]
         },
         {
-            "pakku_id": "PpuPtrlV5FHc84Jo",
+            "pakku_id": "xHJy9YgeqlgNYGKt",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "skin-layers-3d"
+                "curseforge": "skin-layers-3d",
+                "modrinth": "3dskinlayers"
             },
             "name": {
-                "curseforge": "Skin Layers 3D"
+                "curseforge": "Skin Layers 3D",
+                "modrinth": "3D Skin Layers"
             },
             "id": {
-                "curseforge": "521480"
+                "curseforge": "521480",
+                "modrinth": "zV5r3pPn"
             },
             "redistributable": false,
             "files": [
@@ -11059,6 +11063,27 @@
                     "required_dependencies": [],
                     "size": 1967305,
                     "date_published": "2026-02-23T18:54:21.427Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/vj8UV3SS/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
+                    "id": "vj8UV3SS",
+                    "parent_id": "zV5r3pPn",
+                    "hashes": {
+                        "sha512": "f520d93a336b835e90da1667a2a14aa32dccd38544a2f0aaf382927b9521afb0df6d9fa909404dae9c63dc53657ed79ce8fbe0309064b1831beed74db3ca35c8",
+                        "sha1": "0a4fede95e0369bd54c45c6e1b8ceb90071315f6"
+                    },
+                    "required_dependencies": [],
+                    "size": 1967305,
+                    "date_published": "2026-02-23T18:54:23.269075Z"
                 }
             ]
         },
