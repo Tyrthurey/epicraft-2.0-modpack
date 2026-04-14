@@ -7197,6 +7197,72 @@
             ]
         },
         {
+            "pakku_id": "09I6Hyky5GPwJb2N",
+            "pakku_links": [
+                "Du4lBqMavm6VBIEJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "irons-lib",
+                "modrinth": "irons-lib"
+            },
+            "name": {
+                "curseforge": "Iron's Lib",
+                "modrinth": "Iron's Lib"
+            },
+            "id": {
+                "curseforge": "1492763",
+                "modrinth": "9nfaJPtX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "irons_lib-1.21.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7907/336/irons_lib-1.21.1-1.0.2.jar",
+                    "id": "7907336",
+                    "parent_id": "1492763",
+                    "hashes": {
+                        "sha1": "ef92f362a352a30f927c30c2be72a2d843c41342",
+                        "md5": "e721286ef6096e6789252c208c8d333e"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 374610,
+                    "date_published": "2026-04-10T22:54:39.877Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "irons_lib-1.21.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar",
+                    "id": "sRMMFgei",
+                    "parent_id": "9nfaJPtX",
+                    "hashes": {
+                        "sha512": "41aaf569abdfa6947ce72c076242b7d794307f37696350a3967e46a7d7390fc3569ce41335497d92e897d555be02c8b878ca43a0a7de039d262d26aedafd013e",
+                        "sha1": "ef92f362a352a30f927c30c2be72a2d843c41342"
+                    },
+                    "required_dependencies": [],
+                    "size": 374610,
+                    "date_published": "2026-04-12T15:57:24.438892Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JsvzObWzwjNvhNX5",
             "pakku_links": [
                 "zRlv0vfOqxvWZEOL"
