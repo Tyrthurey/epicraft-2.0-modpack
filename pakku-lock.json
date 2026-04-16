@@ -142,7 +142,8 @@
                 "R61UicyXmxN7rKms",
                 "UgbPmvkTUfymm0Gf",
                 "Du4lBqMavm6VBIEJ",
-                "d8qEfS8jPpfzneYi"
+                "d8qEfS8jPpfzneYi",
+                "njT19g1bjdHpTJAi"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -4979,6 +4980,9 @@
         },
         {
             "pakku_id": "xsne0ZfE0svucnpC",
+            "pakku_links": [
+                "njT19g1bjdHpTJAi"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "enigmatic-legacy-plus"
@@ -9851,7 +9855,7 @@
             ]
         },
         {
-            "pakku_id": "caLrgkSMmBS2gzJg",
+            "pakku_id": "njT19g1bjdHpTJAi",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -9890,7 +9894,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Patchouli-1.21.1-93-NEOFORGE.jar",
+                    "file_name": "Patchouli-1.21.1-92-NEOFORGE.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9898,16 +9902,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
-                    "id": "BIogJv2D",
+                    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar",
+                    "id": "h6hKI2ob",
                     "parent_id": "nU0bVIaL",
                     "hashes": {
-                        "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f",
-                        "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+                        "sha512": "36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f",
+                        "sha1": "97ae42096ee4a0a242cd8468dde293017f3cc39c"
                     },
                     "required_dependencies": [],
-                    "size": 646777,
-                    "date_published": "2026-03-08T20:49:51.469086Z"
+                    "size": 646486,
+                    "date_published": "2025-08-03T09:32:32.462449Z"
                 }
             ]
         },
