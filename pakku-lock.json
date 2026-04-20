@@ -279,20 +279,23 @@
             ]
         },
         {
-            "pakku_id": "AwlOtrqJlzBRlhEe",
+            "pakku_id": "SRAYYTwtY0FNFr8C",
             "pakku_links": [
-                "mp0uf7IUhSGXyOFI",
                 "ZCHZBplOAMUTvzSJ"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "alexs-mobs-1-21-1-port"
+                "curseforge": "alexs-mobs-1-21-1-port",
+                "modrinth": "alexs-mobs(1.21.1)"
             },
             "name": {
-                "curseforge": "Alex's Mobs (Unofficial Port)"
+                "curseforge": "Alex's Mobs (Unofficial Port)",
+                "modrinth": "Alex's Mobs (Unofficial Port)"
             },
             "id": {
-                "curseforge": "1415721"
+                "curseforge": "1415721",
+                "modrinth": "EmNhnNnt"
             },
             "files": [
                 {
@@ -317,6 +320,29 @@
                     ],
                     "size": 26620546,
                     "date_published": "2026-01-26T01:53:08.140Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "alexsmobs-1.22.17.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EmNhnNnt/versions/KSgki4uc/alexsmobs-1.22.17.jar",
+                    "id": "KSgki4uc",
+                    "parent_id": "EmNhnNnt",
+                    "hashes": {
+                        "sha512": "9f57f20693bb187c54f6d68dc34592b87d0e55a5a4628ad097b0aa39afe165f4a834b83b6590d803e64bac0b1230a8f46369bfe45851a3cc964cf3d88f235277",
+                        "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259"
+                    },
+                    "required_dependencies": [
+                        "XjY0RcQj"
+                    ],
+                    "size": 26620546,
+                    "date_published": "2026-01-26T01:51:31.514034Z"
                 }
             ]
         },
