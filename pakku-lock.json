@@ -1914,7 +1914,7 @@
             ]
         },
         {
-            "pakku_id": "LO7CsDBMz9364BII",
+            "pakku_id": "FHo3GlwGZegMRUqI",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -1932,24 +1932,24 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "champions-neoforge-1.21.1-2.1.11.3.jar",
+                    "file_name": "champions-neoforge-1.21.1-2.1.10.3.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6923/189/champions-neoforge-1.21.1-2.1.11.3.jar",
-                    "id": "6923189",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6156/698/champions-neoforge-1.21.1-2.1.10.3.jar",
+                    "id": "6156698",
                     "parent_id": "1074990",
                     "hashes": {
-                        "sha1": "74172f99c239a4e9bf3afae49f9f2edebebd8510",
-                        "md5": "ac3258de4f78267739ddba483b497531"
+                        "sha1": "8ea7012c736c32828348a035dcc71b6e0fe50d03",
+                        "md5": "719a38d49f6205d5c6f705de5150678f"
                     },
                     "required_dependencies": [],
-                    "size": 401075,
-                    "date_published": "2025-08-24T16:03:03.640Z"
+                    "size": 358907,
+                    "date_published": "2025-02-04T09:04:55.593Z"
                 },
                 {
                     "type": "modrinth",
