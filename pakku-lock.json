@@ -2986,20 +2986,24 @@
             ]
         },
         {
-            "pakku_id": "bt8yUbTQw6JQms5i",
+            "pakku_id": "3slXJeDrHlmPzZPW",
             "pakku_links": [
                 "SxeM3dac1hCPryAH",
                 "0clACmZ3jTMdZO18"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "create-o-plenty"
+                "curseforge": "create-o-plenty",
+                "modrinth": "createoplenty"
             },
             "name": {
-                "curseforge": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)"
+                "curseforge": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)",
+                "modrinth": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)"
             },
             "id": {
-                "curseforge": "1351997"
+                "curseforge": "1351997",
+                "modrinth": "HgWaxodv"
             },
             "files": [
                 {
@@ -3025,6 +3029,27 @@
                     ],
                     "size": 45837,
                     "date_published": "2026-01-17T16:25:50.883Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HgWaxodv/versions/k7AAVyW3/CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
+                    "id": "k7AAVyW3",
+                    "parent_id": "HgWaxodv",
+                    "hashes": {
+                        "sha512": "758ef597ea2f1767d6f7a17bc6ea43c3a441b15fb8ff48d2bdcf71a7168f28e903d19c47547ac7fda3a02cd7c324ea7baab8ead18593b17a3799ae15642d77ec",
+                        "sha1": "9c636f52e9354fdccc0b53201c22dfb5887f0589"
+                    },
+                    "required_dependencies": [],
+                    "size": 45837,
+                    "date_published": "2026-01-17T17:48:36.621302Z"
                 }
             ]
         },
