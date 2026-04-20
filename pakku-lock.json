@@ -4770,7 +4770,8 @@
         {
             "pakku_id": "lzKVtGiTsRumYCh0",
             "pakku_links": [
-                "gXAdHEmitDIZtEKQ"
+                "gXAdHEmitDIZtEKQ",
+                "aaxY5kWSCkv510IT"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -4839,16 +4840,20 @@
             ]
         },
         {
-            "pakku_id": "RKy0QvYSyZR0ZR06",
+            "pakku_id": "aaxY5kWSCkv510IT",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "emotecraft-forge"
+                "curseforge": "emotecraft-forge",
+                "modrinth": "emotecraft"
             },
             "name": {
-                "curseforge": "Emotecraft (Forge)"
+                "curseforge": "Emotecraft (Forge)",
+                "modrinth": "Emotecraft"
             },
             "id": {
-                "curseforge": "403422"
+                "curseforge": "403422",
+                "modrinth": "pZ2wrerK"
             },
             "files": [
                 {
@@ -4871,6 +4876,27 @@
                     "required_dependencies": [],
                     "size": 861829,
                     "date_published": "2025-08-29T17:34:45.433Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/fu6N0NgM/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+                    "id": "fu6N0NgM",
+                    "parent_id": "pZ2wrerK",
+                    "hashes": {
+                        "sha512": "b9e59249f1fd2ad33c042561bdcebad74b3c1c82de86e4e11d0066e500c0c231ddf79487685367b47386370c8f7c763138ab5ba3f84d03e3b87667ecd2576dd1",
+                        "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4"
+                    },
+                    "required_dependencies": [],
+                    "size": 861829,
+                    "date_published": "2025-08-29T17:34:45.244213Z"
                 }
             ]
         },
