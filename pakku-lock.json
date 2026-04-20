@@ -5162,24 +5162,25 @@
             ]
         },
         {
-            "pakku_id": "xsne0ZfE0svucnpC",
-            "pakku_links": [
-                "njT19g1bjdHpTJAi"
-            ],
+            "pakku_id": "s0WxnCH4ZAvqMgvj",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "enigmatic-legacy-plus"
+                "curseforge": "enigmatic-legacy-plus",
+                "modrinth": "enigmaticlegacy+"
             },
             "name": {
-                "curseforge": "Enigmatic Legacy Plus"
+                "curseforge": "Enigmatic Legacy Plus",
+                "modrinth": "Enigmatic Legacy+"
             },
             "id": {
-                "curseforge": "1391021"
+                "curseforge": "1391021",
+                "modrinth": "oIjj1Fan"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "enigmaticlegacyplus-1.21.1-0.5.0.jar",
+                    "file_name": "enigmaticlegacyplus-1.21.1-0.6.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -5187,20 +5188,37 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7256/777/enigmaticlegacyplus-1.21.1-0.5.0.jar",
-                    "id": "7256777",
+                    "url": "https://edge.forgecdn.net/files/7754/452/enigmaticlegacyplus-1.21.1-0.6.0.jar",
+                    "id": "7754452",
                     "parent_id": "1391021",
                     "hashes": {
-                        "sha1": "704b597b9436b8d05d44221f9b4c542707a026eb",
-                        "md5": "81946d9a1b935d2394643c858f90948a"
+                        "sha1": "48c26d3e49fc2695cc9927042d0b981518a6e580",
+                        "md5": "e427124f1a5d590f8260354bd01bdafa"
                     },
-                    "required_dependencies": [
-                        "308989",
-                        "309927",
-                        "306770"
+                    "required_dependencies": [],
+                    "size": 6814864,
+                    "date_published": "2026-03-14T03:58:42.230Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "enigmaticlegacyplus-1.21.1-0.6.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
                     ],
-                    "size": 1755432,
-                    "date_published": "2025-11-24T08:42:48.040Z"
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/oIjj1Fan/versions/ErPhQo57/enigmaticlegacyplus-1.21.1-0.6.0.jar",
+                    "id": "ErPhQo57",
+                    "parent_id": "oIjj1Fan",
+                    "hashes": {
+                        "sha512": "ecc69bbc4cdb722af2ea6ccd56e0c3821754b8019288f0a608fd953f8257a5c7ccbaaaf8d3e5a946086ea20e336ec05933caa1a4a5a9aec58a7b988ca7fdedc6",
+                        "sha1": "48c26d3e49fc2695cc9927042d0b981518a6e580"
+                    },
+                    "required_dependencies": [],
+                    "size": 6814864,
+                    "date_published": "2026-03-14T04:01:47.225072Z"
                 }
             ]
         },
