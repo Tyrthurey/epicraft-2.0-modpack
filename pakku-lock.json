@@ -4484,19 +4484,24 @@
             ]
         },
         {
-            "pakku_id": "5HihQSk69uK3y98w",
+            "pakku_id": "dPwUJ2Wjqy0owtR5",
             "pakku_links": [
+                "VLA132QyL3Atyu78",
                 "d8qEfS8jPpfzneYi"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "emi-plus-plus"
+                "curseforge": "emi-plus-plus",
+                "modrinth": "emixx"
             },
             "name": {
-                "curseforge": "EMI++"
+                "curseforge": "EMI++",
+                "modrinth": "EMI++"
             },
             "id": {
-                "curseforge": "1335150"
+                "curseforge": "1335150",
+                "modrinth": "AWMWYMwC"
             },
             "files": [
                 {
@@ -4522,6 +4527,30 @@
                     ],
                     "size": 207208,
                     "date_published": "2025-08-29T11:38:50.610Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emixx-neoforge-1.2.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/AWMWYMwC/versions/sdRUQHCL/emixx-neoforge-1.2.3.jar",
+                    "id": "sdRUQHCL",
+                    "parent_id": "AWMWYMwC",
+                    "hashes": {
+                        "sha512": "15eb94d5c2be00f06a96a45a68fc2fe3171f60c87c26d2ebf4ef359271f8b0ee3995f281af17e2b228ab543770ec2d8b486c98f0fe4b511c168a4c0c0e30db40",
+                        "sha1": "5bfd6ca144cd6cf72c6df9a9ab400403ca774e79"
+                    },
+                    "required_dependencies": [
+                        "fRiHVvU7",
+                        "ordsPcFz"
+                    ],
+                    "size": 207208,
+                    "date_published": "2025-08-29T11:33:57.071643Z"
                 }
             ]
         },
