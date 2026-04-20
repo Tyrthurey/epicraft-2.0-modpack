@@ -281,7 +281,8 @@
         {
             "pakku_id": "AwlOtrqJlzBRlhEe",
             "pakku_links": [
-                "mp0uf7IUhSGXyOFI"
+                "mp0uf7IUhSGXyOFI",
+                "ZCHZBplOAMUTvzSJ"
             ],
             "type": "MOD",
             "slug": {
@@ -2236,16 +2237,20 @@
             ]
         },
         {
-            "pakku_id": "mp0uf7IUhSGXyOFI",
+            "pakku_id": "ZCHZBplOAMUTvzSJ",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "citadel-1-21-1-port"
+                "curseforge": "citadel-1-21-1-port",
+                "modrinth": "citadel-(1.21.1-port)"
             },
             "name": {
-                "curseforge": "Citadel (Unofficial Port)"
+                "curseforge": "Citadel (Unofficial Port)",
+                "modrinth": "Citadel (Unofficial Port)"
             },
             "id": {
-                "curseforge": "1415723"
+                "curseforge": "1415723",
+                "modrinth": "XjY0RcQj"
             },
             "files": [
                 {
@@ -2268,6 +2273,27 @@
                     "required_dependencies": [],
                     "size": 3029054,
                     "date_published": "2026-01-26T01:55:25.733Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "citadel-1.21.1-2.7.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XjY0RcQj/versions/e5w5IEqp/citadel-1.21.1-2.7.5.jar",
+                    "id": "e5w5IEqp",
+                    "parent_id": "XjY0RcQj",
+                    "hashes": {
+                        "sha512": "cf34b72536c14b16936c75d18f3eda4b7d8e16452c3b0fd736fb1107c1d9cc9495554321ce7af9ccc2b9e7afd00f602e13651b162c74b1e2e1adbc6c6c47de93",
+                        "sha1": "e8c3e1fdb29c0ff6eeb0c65712eee5be21d8ef94"
+                    },
+                    "required_dependencies": [],
+                    "size": 3029054,
+                    "date_published": "2026-01-26T01:54:18.322024Z"
                 }
             ]
         },
