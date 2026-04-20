@@ -3737,16 +3737,20 @@
             ]
         },
         {
-            "pakku_id": "thN5WOueabHpwtxD",
+            "pakku_id": "nPGDbrf8qHAtTZzb",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "deimos-fabric-forge-neoforge"
+                "curseforge": "deimos-fabric-forge-neoforge",
+                "modrinth": "deimos"
             },
             "name": {
-                "curseforge": "Deimos Lib"
+                "curseforge": "Deimos Lib",
+                "modrinth": "Deimos"
             },
             "id": {
-                "curseforge": "1158094"
+                "curseforge": "1158094",
+                "modrinth": "WQaxNzFg"
             },
             "files": [
                 {
@@ -3770,6 +3774,28 @@
                     "required_dependencies": [],
                     "size": 49360,
                     "date_published": "2025-11-15T20:10:44.397Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "deimos-1.21.1-neoforge-2.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WQaxNzFg/versions/iNBWHgNC/deimos-1.21.1-neoforge-2.5.jar",
+                    "id": "iNBWHgNC",
+                    "parent_id": "WQaxNzFg",
+                    "hashes": {
+                        "sha512": "20494f68454329873c9e7fd4df98d66727fb32d6fb9aec510588773fc98282b4c69128bfe3a31f008098e8878e09d36cb5aaea2a1e9248f43cd850ac4b41ce10",
+                        "sha1": "8a4e197b3ee958b7ef6e0ff374a6afa04941cbc0"
+                    },
+                    "required_dependencies": [],
+                    "size": 49360,
+                    "date_published": "2025-11-15T20:10:45.706248Z"
                 }
             ]
         },
