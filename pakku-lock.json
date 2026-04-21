@@ -928,7 +928,7 @@
             ]
         },
         {
-            "pakku_id": "T7FzbUcVpM6yVxLt",
+            "pakku_id": "h8nKTK0lDA7TVcaw",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -946,7 +946,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "artifacts-neoforge-13.2.0.jar",
+                    "file_name": "artifacts-neoforge-13.2.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -954,16 +954,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7468/997/artifacts-neoforge-13.2.0.jar",
-                    "id": "7468997",
+                    "url": "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar",
+                    "id": "7875426",
                     "parent_id": "312353",
                     "hashes": {
-                        "sha1": "01e4df6f6a0d8d73190c0fc4a5493db79fa5386c",
-                        "md5": "a2b88cb7c0dc61b5340ad6a63913db8a"
+                        "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383",
+                        "md5": "fc38eab4a40582c383e6dbd118d49ef4"
                     },
                     "required_dependencies": [],
-                    "size": 1022570,
-                    "date_published": "2026-01-16T16:01:28.923Z"
+                    "size": 1030252,
+                    "date_published": "2026-04-04T18:55:41.540Z"
                 },
                 {
                     "type": "modrinth",
