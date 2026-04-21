@@ -1176,7 +1176,7 @@
             ]
         },
         {
-            "pakku_id": "JsK4dFtHcakfT8vi",
+            "pakku_id": "WDcxnRAosnWK7xdd",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -1194,7 +1194,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
+                    "file_name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1202,16 +1202,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7544/787/baguettelib-1.21.1-NeoForge-1.1.6.jar",
-                    "id": "7544787",
+                    "url": "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+                    "id": "7880467",
                     "parent_id": "1264423",
                     "hashes": {
-                        "sha1": "dddf0f4454bf013d05d5eaa600e5a6eef555d67a",
-                        "md5": "76a057119258db644be6383cec26f30f"
+                        "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0",
+                        "md5": "ab0b6ab9b27ddb1e8c7ce442656af041"
                     },
                     "required_dependencies": [],
-                    "size": 66319,
-                    "date_published": "2026-01-29T08:14:58.650Z"
+                    "size": 74380,
+                    "date_published": "2026-04-05T17:09:16.493Z"
                 },
                 {
                     "type": "modrinth",
@@ -6558,7 +6558,8 @@
         {
             "pakku_id": "QxP1OprVCKEsklyN",
             "pakku_links": [
-                "VewEx6ZI8vAlodOL"
+                "VewEx6ZI8vAlodOL",
+                "WDcxnRAosnWK7xdd"
             ],
             "type": "MOD",
             "side": "SERVER",
