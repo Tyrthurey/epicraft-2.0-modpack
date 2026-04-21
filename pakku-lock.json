@@ -10601,6 +10601,67 @@
             ]
         },
         {
+            "pakku_id": "iZemAM2PgshtLOsa",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "portfolio",
+                "modrinth": "portfolio"
+            },
+            "name": {
+                "curseforge": "Portfolio",
+                "modrinth": "Portfolio"
+            },
+            "id": {
+                "curseforge": "851131",
+                "modrinth": "2k6aLirX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "portfolio-1.21.1-1.5.5-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7689/313/portfolio-1.21.1-1.5.5-neoforge.jar",
+                    "id": "7689313",
+                    "parent_id": "851131",
+                    "hashes": {
+                        "sha1": "15d78685a340b9978bfe7ba1339770e318129f80",
+                        "md5": "41e271e8de5b32b852652c5975215134"
+                    },
+                    "required_dependencies": [],
+                    "size": 900298,
+                    "date_published": "2026-02-28T05:09:29.067Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "portfolio-1.21.1-1.5.5-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2k6aLirX/versions/I4pPTqou/portfolio-1.21.1-1.5.5-neoforge.jar",
+                    "id": "I4pPTqou",
+                    "parent_id": "2k6aLirX",
+                    "hashes": {
+                        "sha512": "77aac61186cf0b85c32610158b0e3a3953aca78199eb6c54b072ab166a9c13ed2b91013061b87bf93c2781d3626166c47d67babc4ad50689452704a4aefe7175",
+                        "sha1": "15d78685a340b9978bfe7ba1339770e318129f80"
+                    },
+                    "required_dependencies": [],
+                    "size": 900298,
+                    "date_published": "2026-02-28T04:15:13.364884Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "avDDvuEJVxDcvx8x",
             "type": "MOD",
             "side": "BOTH",
