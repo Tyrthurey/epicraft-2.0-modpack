@@ -3473,11 +3473,12 @@
             ]
         },
         {
-            "pakku_id": "wOEqdWE8cLOKsubx",
+            "pakku_id": "GPiL6IPEbwGne8Of",
             "pakku_links": [
-                "Du4lBqMavm6VBIEJ",
+                "zRlv0vfOqxvWZEOL",
                 "JsvzObWzwjNvhNX5",
-                "zRlv0vfOqxvWZEOL"
+                "Du4lBqMavm6VBIEJ",
+                "R5Y3IBlx5DZFmgA9"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3496,7 +3497,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "darkdoppelganger-3.2.2-1.21.1.jar",
+                    "file_name": "darkdoppelganger-3.2.1-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -3504,21 +3505,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7696/713/darkdoppelganger-3.2.2-1.21.1.jar",
-                    "id": "7696713",
+                    "url": "https://edge.forgecdn.net/files/7504/20/darkdoppelganger-3.2.1-1.21.1.jar",
+                    "id": "7504020",
                     "parent_id": "1110803",
                     "hashes": {
-                        "sha1": "9f42a5a9bf5ad48b7de59b46649d750185be41ef",
-                        "md5": "2f2b31db3afd003f35cbd46c8290cd6d"
+                        "sha1": "e4a0e668f7f3d2768f89dcb5075c070822158377",
+                        "md5": "66883a33bf6b45d19b5c9434630144df"
                     },
                     "required_dependencies": [
                         "658587",
-                        "388172",
                         "855414",
+                        "388172",
                         "309927"
                     ],
-                    "size": 4483035,
-                    "date_published": "2026-03-01T16:19:08.357Z"
+                    "size": 4483036,
+                    "date_published": "2026-01-22T00:56:18.793Z"
                 },
                 {
                     "type": "modrinth",
