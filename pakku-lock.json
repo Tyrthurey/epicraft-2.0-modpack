@@ -12598,7 +12598,7 @@
             ]
         },
         {
-            "pakku_id": "fH2v8pZgt9LIemET",
+            "pakku_id": "oz7OFH0SZYS63y0Q",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12616,7 +12616,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "toms_storage-1.21-2.3.0.jar",
+                    "file_name": "toms_storage-1.21-2.3.2.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -12625,16 +12625,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
-                    "id": "7659872",
+                    "url": "https://edge.forgecdn.net/files/7917/7/toms_storage-1.21-2.3.2.jar",
+                    "id": "7917007",
                     "parent_id": "378609",
                     "hashes": {
-                        "sha1": "f9b7c9f16e6606d5b0087ac1201baf0301c88b0d",
-                        "md5": "9cf3873c7b2ab296fe559d715b33b008"
+                        "sha1": "f850f0718ed1c97d8050c790a4b4592f6bb99b21",
+                        "md5": "0678851bbe9afd7ac53cb192e93a66e4"
                     },
                     "required_dependencies": [],
-                    "size": 848220,
-                    "date_published": "2026-02-21T20:09:06.347Z"
+                    "size": 848335,
+                    "date_published": "2026-04-12T18:04:49.927Z"
                 },
                 {
                     "type": "modrinth",
