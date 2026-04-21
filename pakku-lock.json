@@ -609,7 +609,7 @@
             ]
         },
         {
-            "pakku_id": "D9v2k73jICenXlMT",
+            "pakku_id": "hwZjBZ4vZFDS3n9K",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -627,7 +627,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "appleskin-neoforge-mc1.21-3.0.8.jar",
+                    "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1",
@@ -637,16 +637,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7517/379/appleskin-neoforge-mc1.21-3.0.8.jar",
-                    "id": "7517379",
+                    "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+                    "id": "7854442",
                     "parent_id": "248787",
                     "hashes": {
-                        "sha1": "32be58815905e472016b6413175a27e6cbf05b90",
-                        "md5": "9da2c7b1d00041794cce7f41a12f0935"
+                        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+                        "md5": "db5fe7619d502cf5b9bc972a955cd3bc"
                     },
                     "required_dependencies": [],
-                    "size": 75595,
-                    "date_published": "2026-01-24T11:24:09.510Z"
+                    "size": 75804,
+                    "date_published": "2026-04-01T04:44:43.280Z"
                 },
                 {
                     "type": "modrinth",
