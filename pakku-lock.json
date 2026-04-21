@@ -9247,16 +9247,20 @@
             ]
         },
         {
-            "pakku_id": "CABVUHdUc6dt9O0D",
+            "pakku_id": "3VVar0ao3uOtnwLm",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "model-gap-fix"
+                "curseforge": "model-gap-fix",
+                "modrinth": "modelfix"
             },
             "name": {
-                "curseforge": "Model Gap Fix"
+                "curseforge": "Model Gap Fix",
+                "modrinth": "Model Gap Fix"
             },
             "id": {
-                "curseforge": "676136"
+                "curseforge": "676136",
+                "modrinth": "QdG47OkI"
             },
             "files": [
                 {
@@ -9280,6 +9284,28 @@
                     "required_dependencies": [],
                     "size": 47035,
                     "date_published": "2024-08-03T01:05:35.983Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modelfix-1.21-1.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
+                    "id": "X2U8ceG9",
+                    "parent_id": "QdG47OkI",
+                    "hashes": {
+                        "sha512": "647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152674b5a3a653e3b36f517f5c1bff4c25db37dd789df9eeb1e1d799c07",
+                        "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+                    },
+                    "required_dependencies": [],
+                    "size": 47035,
+                    "date_published": "2024-08-03T01:05:40.033506Z"
                 }
             ]
         },
