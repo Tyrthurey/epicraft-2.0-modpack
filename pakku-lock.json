@@ -8447,7 +8447,7 @@
             ]
         },
         {
-            "pakku_id": "xOOWqpWnxfPt3EMY",
+            "pakku_id": "F7fDgkAYE9qA5s1r",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8465,7 +8465,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lootr-neoforge-1.21.1-1.11.36.116.jar",
+                    "file_name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8473,16 +8473,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7666/212/lootr-neoforge-1.21.1-1.11.36.116.jar",
-                    "id": "7666212",
+                    "url": "https://edge.forgecdn.net/files/7769/881/lootr-neoforge-1.21.1-1.11.37.118.jar",
+                    "id": "7769881",
                     "parent_id": "361276",
                     "hashes": {
-                        "sha1": "476c757c3859fe9acd95130bd44f4443586c46ec",
-                        "md5": "ec86309a7e2250775293c4312357ab80"
+                        "sha1": "95058da06c16441211619ce46950502fd5ac1f64",
+                        "md5": "10c3aee4862fc0fdf1bc7f2559a22180"
                     },
                     "required_dependencies": [],
-                    "size": 970239,
-                    "date_published": "2026-02-23T02:33:49.473Z"
+                    "size": 970642,
+                    "date_published": "2026-03-17T02:28:15.157Z"
                 },
                 {
                     "type": "modrinth",
