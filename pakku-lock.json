@@ -7968,7 +7968,8 @@
             "pakku_id": "H7ot3Ln1r7VdoYYo",
             "pakku_links": [
                 "R5Y3IBlx5DZFmgA9",
-                "HCC5gFQ1JIvleNUN"
+                "HCC5gFQ1JIvleNUN",
+                "eXNoDBt2xYWgZ6qc"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -8033,7 +8034,7 @@
             ]
         },
         {
-            "pakku_id": "HCC5gFQ1JIvleNUN",
+            "pakku_id": "eXNoDBt2xYWgZ6qc",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8051,7 +8052,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lionfishapi-2.6.jar",
+                    "file_name": "lionfishapi-2.7-fix-fix.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8059,20 +8060,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6168/249/lionfishapi-2.6.jar",
-                    "id": "6168249",
+                    "url": "https://edge.forgecdn.net/files/7941/57/lionfishapi-2.7-fix-fix.jar",
+                    "id": "7941057",
                     "parent_id": "1001614",
                     "hashes": {
-                        "sha1": "3d9059ea05839e0daab926848d91ecb14ca5a4d4",
-                        "md5": "f27209702fbb13f1dccb98e77931b5ae"
+                        "sha1": "af90b807eed100e899b9afa13bb75e7d45294ba3",
+                        "md5": "a0d7ad0c4883a81c7c17f1f0e2525727"
                     },
                     "required_dependencies": [],
-                    "size": 92312,
-                    "date_published": "2025-02-07T18:11:10.563Z"
+                    "size": 141535,
+                    "date_published": "2026-04-17T17:39:58.570Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "lionfishapi-2.7-fix.jar",
+                    "file_name": "lionfishapi-2.7-fix-fix.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8080,16 +8081,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FoVacERa/versions/9zIRfxr0/lionfishapi-2.7-fix.jar",
-                    "id": "9zIRfxr0",
+                    "url": "https://cdn.modrinth.com/data/FoVacERa/versions/FaK9Vh36/lionfishapi-2.7-fix-fix.jar",
+                    "id": "FaK9Vh36",
                     "parent_id": "FoVacERa",
                     "hashes": {
-                        "sha512": "b21ed21f7eb0001ba6d7716a660117bbbf0f857144cc918e34ed41c0052dcd4a80013858d2916a24725bf39245121560ed88a676eba9452b1f4e13adcbf39665",
-                        "sha1": "63b7a06ec4457e4802435326e6e49e5e55867cac"
+                        "sha512": "3c5b6a6d355e71352eaae2e327a097158a77b93d834480455ac0fcb9238909353cdcabf86eff17711ece4da2a6fac87f5b639b9da29889286e9f58f6ffa7e2a8",
+                        "sha1": "af90b807eed100e899b9afa13bb75e7d45294ba3"
                     },
                     "required_dependencies": [],
-                    "size": 141524,
-                    "date_published": "2026-04-13T23:43:05.308889Z"
+                    "size": 141535,
+                    "date_published": "2026-04-17T17:43:27.509652Z"
                 }
             ]
         },
