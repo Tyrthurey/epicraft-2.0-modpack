@@ -11922,7 +11922,7 @@
             ]
         },
         {
-            "pakku_id": "jrg3fq83wDkct5XO",
+            "pakku_id": "g1X5aAasVEcfX4P7",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11940,7 +11940,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.7.1515.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.24.1680.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -11948,16 +11948,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7731/311/sophisticatedcore-1.21.1-1.4.7.1515.jar",
-                    "id": "7731311",
+                    "url": "https://edge.forgecdn.net/files/7916/600/sophisticatedcore-1.21.1-1.4.24.1680.jar",
+                    "id": "7916600",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "444880e457fcc712dcf25f234ea246a71e819e33",
-                        "md5": "fc71d7db4120b76324603d2c4b3b19ae"
+                        "sha1": "0627a0297f32c9daa99805a0da1e33d9ede77e9b",
+                        "md5": "77e5d5348221d1356dee9160772d3ace"
                     },
                     "required_dependencies": [],
-                    "size": 1462533,
-                    "date_published": "2026-03-08T22:24:14.603Z"
+                    "size": 1479559,
+                    "date_published": "2026-04-12T16:40:12.380Z"
                 },
                 {
                     "type": "modrinth",
@@ -11984,6 +11984,9 @@
         },
         {
             "pakku_id": "AYZ8hnFrTxB1uYka",
+            "pakku_links": [
+                "g1X5aAasVEcfX4P7"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
