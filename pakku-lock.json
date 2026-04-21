@@ -11262,7 +11262,8 @@
             "pakku_id": "DMu4E0eh7h2QxN6A",
             "pakku_links": [
                 "pco3RROi4G6eKCcp",
-                "Du4lBqMavm6VBIEJ"
+                "Du4lBqMavm6VBIEJ",
+                "f1823sVvSMcSuxJe"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -13188,16 +13189,20 @@
             ]
         },
         {
-            "pakku_id": "pco3RROi4G6eKCcp",
+            "pakku_id": "f1823sVvSMcSuxJe",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "yungs-api-neoforge"
+                "curseforge": "yungs-api-neoforge",
+                "modrinth": "yungs-api"
             },
             "name": {
-                "curseforge": "YUNG's API (NeoForge)"
+                "curseforge": "YUNG's API (NeoForge)",
+                "modrinth": "YUNG's API"
             },
             "id": {
-                "curseforge": "1015100"
+                "curseforge": "1015100",
+                "modrinth": "Ua7DFN59"
             },
             "files": [
                 {
@@ -13221,13 +13226,36 @@
                     "required_dependencies": [],
                     "size": 388678,
                     "date_published": "2025-07-01T07:07:59.137Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                    "id": "ZB22DE9q",
+                    "parent_id": "Ua7DFN59",
+                    "hashes": {
+                        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
+                        "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+                    },
+                    "required_dependencies": [],
+                    "size": 388678,
+                    "date_published": "2025-07-01T07:08:10.097748Z"
                 }
             ]
         },
         {
             "pakku_id": "d6irWtmr9qVL5yc3",
             "pakku_links": [
-                "Du4lBqMavm6VBIEJ"
+                "Du4lBqMavm6VBIEJ",
+                "f1823sVvSMcSuxJe"
             ],
             "type": "MOD",
             "side": "BOTH",
