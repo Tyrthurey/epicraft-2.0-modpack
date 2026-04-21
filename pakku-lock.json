@@ -5665,16 +5665,20 @@
             ]
         },
         {
-            "pakku_id": "aXOaALRyQafEYaqU",
+            "pakku_id": "dqySnQsQMzBZnMM7",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "female-gender-neoforge"
+                "curseforge": "female-gender-neoforge",
+                "modrinth": "female-gender"
             },
             "name": {
-                "curseforge": "Female Gender Mod (NeoForge)"
+                "curseforge": "Female Gender Mod (NeoForge)",
+                "modrinth": "Female Gender Mod"
             },
             "id": {
-                "curseforge": "481655"
+                "curseforge": "481655",
+                "modrinth": "bcOsQHnC"
             },
             "files": [
                 {
@@ -5698,6 +5702,28 @@
                     "required_dependencies": [],
                     "size": 835948,
                     "date_published": "2024-07-29T23:54:46.243Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Female-Gender-Mod-neoforge-1.21-3.2.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bcOsQHnC/versions/kKffHCGl/Female-Gender-Mod-neoforge-1.21-3.2.2.jar",
+                    "id": "kKffHCGl",
+                    "parent_id": "bcOsQHnC",
+                    "hashes": {
+                        "sha512": "99a56830fcb47d7a2f74f4985069e4af0bf1cd8907ccf4c3d2cb593c903a87eeb7fa70dc47e3943b6b320bd97a3530d77d54e4c85ef63462dc838cc735a3097f",
+                        "sha1": "f2e4027d0943c04700173a97c88aaebb1f1777ad"
+                    },
+                    "required_dependencies": [],
+                    "size": 835948,
+                    "date_published": "2024-12-18T23:06:37.724589Z"
                 }
             ]
         },
