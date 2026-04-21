@@ -5421,67 +5421,6 @@
             ]
         },
         {
-            "pakku_id": "v4hDN2f3WMI1MHCP",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "exporbrecall",
-                "modrinth": "exporbrecall"
-            },
-            "name": {
-                "curseforge": "ExpOrbRecall",
-                "modrinth": "ExpOrbRecall"
-            },
-            "id": {
-                "curseforge": "1229406",
-                "modrinth": "9jI6pmNs"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "exporbrecall-1.0.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7683/519/exporbrecall-1.0.1.jar",
-                    "id": "7683519",
-                    "parent_id": "1229406",
-                    "hashes": {
-                        "sha1": "c143ba6eedf41130db33eddffc7c53d2b8cc0fea",
-                        "md5": "a7d293bfe2772337add34df51b54c78f"
-                    },
-                    "required_dependencies": [],
-                    "size": 24846,
-                    "date_published": "2026-02-26T22:18:53.853Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "exporbrecall-1.0.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9jI6pmNs/versions/5RW1ZZvW/exporbrecall-1.0.1.jar",
-                    "id": "5RW1ZZvW",
-                    "parent_id": "9jI6pmNs",
-                    "hashes": {
-                        "sha512": "8cef1fcc1d0f7a46345064a64a45897dc9f6779ec591be790e4daa4d893efd869d1703ff8a8880e584cb77ceeaa97049f825f5f0423d2f935ae9c79ab9661a29",
-                        "sha1": "c143ba6eedf41130db33eddffc7c53d2b8cc0fea"
-                    },
-                    "required_dependencies": [],
-                    "size": 24846,
-                    "date_published": "2026-02-26T22:17:02.716614Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "8deuU92HHSrGdEDg",
             "type": "MOD",
             "side": "CLIENT",
