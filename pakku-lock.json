@@ -9899,13 +9899,13 @@
             ]
         },
         {
-            "pakku_id": "D3UGasRcfziCqiSi",
+            "pakku_id": "1J4lOq7uIXlM3QjL",
             "pakku_links": [
-                "B8acnnh1PdZ54hwX",
-                "d9w9GATFdZtfpGfN",
+                "WEuI0knj9VboVTca",
                 "Du4lBqMavm6VBIEJ",
+                "d9w9GATFdZtfpGfN",
                 "74EGOdOSDQqzwG5J",
-                "WEuI0knj9VboVTca"
+                "XePLvp4x5vhr8ilo"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9924,7 +9924,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar",
+                    "file_name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9932,21 +9932,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7386/735/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar",
-                    "id": "7386735",
+                    "url": "https://edge.forgecdn.net/files/7745/142/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+                    "id": "7745142",
                     "parent_id": "1070751",
                     "hashes": {
-                        "sha1": "b8b2aa46b3987a6ee2f7f34593fd243e647d8c9e",
-                        "md5": "ba82d799e646cd49232f3f5dd73a668d"
+                        "sha1": "b7d028def9c15698dff076e1c606d4496f0a2730",
+                        "md5": "b7a4735f915f9c81518a15320b6f1ea1"
                     },
                     "required_dependencies": [
-                        "693313",
-                        "940057",
+                        "962544",
                         "388172",
-                        "962544"
+                        "940057",
+                        "693313"
                     ],
-                    "size": 20743236,
-                    "date_published": "2025-12-28T02:18:44.510Z"
+                    "size": 20759732,
+                    "date_published": "2026-03-12T00:23:04.273Z"
                 },
                 {
                     "type": "modrinth",
@@ -12555,6 +12555,46 @@
                     ],
                     "size": 774220,
                     "date_published": "2025-12-19T00:31:58.676387Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XePLvp4x5vhr8ilo",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "terrablender",
+                "modrinth": "terrablender"
+            },
+            "name": {
+                "curseforge": "TerraBlender (Forge)",
+                "modrinth": "TerraBlender"
+            },
+            "id": {
+                "curseforge": "563928",
+                "modrinth": "kkmrDlKT"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                    "id": "6e8GCrLb",
+                    "parent_id": "kkmrDlKT",
+                    "hashes": {
+                        "sha512": "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50",
+                        "sha1": "744394d979b422be560babf9df7a6800ede9ac5b"
+                    },
+                    "required_dependencies": [],
+                    "size": 120365,
+                    "date_published": "2025-01-05T04:27:50.603937Z"
                 }
             ]
         },
