@@ -12981,16 +12981,20 @@
             ]
         },
         {
-            "pakku_id": "Pr5xIT1It9jDvWFO",
+            "pakku_id": "3s4fA3vTW8aJjNfm",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "villager-trading-plus"
+                "curseforge": "villager-trading-plus",
+                "modrinth": "trading+"
             },
             "name": {
-                "curseforge": "Villager Trading Plus"
+                "curseforge": "Villager Trading Plus",
+                "modrinth": "Villager Trading Plus"
             },
             "id": {
-                "curseforge": "1107609"
+                "curseforge": "1107609",
+                "modrinth": "fRhq4ueb"
             },
             "files": [
                 {
@@ -13022,6 +13026,38 @@
                     "required_dependencies": [],
                     "size": 138678,
                     "date_published": "2024-09-22T18:17:37.417Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "villager-trading-plus-1.1+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "25w31a"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fRhq4ueb/versions/jP76V1p6/villager-trading-plus-1.1+1.21.jar",
+                    "id": "jP76V1p6",
+                    "parent_id": "fRhq4ueb",
+                    "hashes": {
+                        "sha512": "565628ec8e465b5f6eae9d4ac589a4bf32a388cf64100536e50e06ae9df377c54f66d50cd12f1b65058ca9a4f47e971c318d2f2f999dd15e217b35e7603c741f",
+                        "sha1": "299d8f7f251c3f6e2bda2f68edd9d6fc5e108444"
+                    },
+                    "required_dependencies": [],
+                    "size": 138678,
+                    "date_published": "2024-09-22T18:10:27.057218Z"
                 }
             ]
         },
