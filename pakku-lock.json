@@ -1298,7 +1298,7 @@
             ]
         },
         {
-            "pakku_id": "yF0Cx7l53XZpw3WN",
+            "pakku_id": "DIQJthluuBfdkpwE",
             "pakku_links": [
                 "x0KnaKvt7WxxOBK2"
             ],
@@ -1319,7 +1319,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "beltborne_lanterns-1.2.4-neoforge+1.21.1.jar",
+                    "file_name": "beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1327,18 +1327,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7551/906/beltborne_lanterns-1.2.4-neoforge+1.21.1.jar",
-                    "id": "7551906",
+                    "url": "https://edge.forgecdn.net/files/7763/532/beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+                    "id": "7763532",
                     "parent_id": "1337474",
                     "hashes": {
-                        "sha1": "d152c9cec1b0859615ebf1c94276458ccb37bcc6",
-                        "md5": "f63f39218bb6c4c6688717b782ce78a7"
+                        "sha1": "3a30923e4ec5db8fd6838d20ce2743b24feb212d",
+                        "md5": "a32fd4a1f822a04631ad575fee2283e8"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 140561,
-                    "date_published": "2026-01-30T19:27:57.983Z"
+                    "size": 140861,
+                    "date_published": "2026-03-15T20:41:45.483Z"
                 },
                 {
                     "type": "modrinth",
