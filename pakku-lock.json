@@ -12661,7 +12661,10 @@
             ]
         },
         {
-            "pakku_id": "jbS8MNOJy7VD3yG3",
+            "pakku_id": "PQisiONwPFfP4R01",
+            "pakku_links": [
+                "VLA132QyL3Atyu78"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -12679,7 +12682,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "toomanyrecipeviewers-0.7.1+mc.21.1.jar",
+                    "file_name": "toomanyrecipeviewers-0.7.2+mc.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12687,18 +12690,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7410/429/toomanyrecipeviewers-0.7.1+mc.21.1.jar",
-                    "id": "7410429",
+                    "url": "https://edge.forgecdn.net/files/7785/753/toomanyrecipeviewers-0.7.2+mc.21.1.jar",
+                    "id": "7785753",
                     "parent_id": "1194921",
                     "hashes": {
-                        "sha1": "a13279348d76bb3ecf8ff1b978ebd5bf8b7e3d52",
-                        "md5": "5935bbc4322df435eff6ab2b34527f0b"
+                        "sha1": "a80f68d67da36e5fdf6ab6fd7390e9361133e346",
+                        "md5": "312440310d8cfdb0b49bb2aae81afb54"
                     },
                     "required_dependencies": [
                         "580555"
                     ],
-                    "size": 1156564,
-                    "date_published": "2026-01-03T00:51:43.857Z"
+                    "size": 1165041,
+                    "date_published": "2026-03-20T17:25:42.253Z"
                 },
                 {
                     "type": "modrinth",
