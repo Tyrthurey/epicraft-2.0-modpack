@@ -13399,7 +13399,7 @@
             ]
         },
         {
-            "pakku_id": "UBwedxKayUApzgOV",
+            "pakku_id": "69dbgr74N69TDTxm",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13438,7 +13438,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "yo_hooks-neoforge-4.0.1.jar",
+                    "file_name": "yo_hooks-neoforge-4.0.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -13446,16 +13446,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t1p8V2nl/versions/xMnfkr95/yo_hooks-neoforge-4.0.1.jar",
-                    "id": "xMnfkr95",
+                    "url": "https://cdn.modrinth.com/data/t1p8V2nl/versions/pldU726M/yo_hooks-neoforge-4.0.0.jar",
+                    "id": "pldU726M",
                     "parent_id": "t1p8V2nl",
                     "hashes": {
-                        "sha512": "bd97509c1e8833aecaec4e2160b4607927c760b90a4fad6671d1b5ef75fe3767f888050ab1a633aa0fbcf57cf7770890095262773cef8a89882e78f153bd0255",
-                        "sha1": "22c3c4ef7c2d7a110cfc686f4fae0232743f634c"
+                        "sha512": "d0cc27b75d926bc8874c7be0104e5f20ffab5d4c73aacf8acc58d84876dc581bad719cc71cf1f2c6901a75ec9ab3a29adfe8d6ad115beeb51272f21989e3bb29",
+                        "sha1": "578c1962295bb28089b5a544dafb4751c3bbf03b"
                     },
                     "required_dependencies": [],
-                    "size": 540108,
-                    "date_published": "2026-03-08T20:47:51.348248Z"
+                    "size": 540136,
+                    "date_published": "2026-03-06T13:17:17.322719Z"
                 }
             ]
         },
