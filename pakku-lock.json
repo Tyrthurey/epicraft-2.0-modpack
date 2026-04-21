@@ -6819,7 +6819,8 @@
             "pakku_links": [
                 "Du4lBqMavm6VBIEJ",
                 "d8qEfS8jPpfzneYi",
-                "srjyfZD84nqgokyg"
+                "srjyfZD84nqgokyg",
+                "X4TVZEhPmxsKmCMp"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -8232,7 +8233,7 @@
             ]
         },
         {
-            "pakku_id": "srjyfZD84nqgokyg",
+            "pakku_id": "X4TVZEhPmxsKmCMp",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -8250,7 +8251,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lithostitched-1.6.1-neoforge-1.21.1.jar",
+                    "file_name": "lithostitched-1.6.5-neoforge-21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8258,16 +8259,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7731/887/lithostitched-1.6.1-neoforge-1.21.1.jar",
-                    "id": "7731887",
+                    "url": "https://edge.forgecdn.net/files/7832/789/lithostitched-1.6.5-neoforge-21.1.jar",
+                    "id": "7832789",
                     "parent_id": "936015",
                     "hashes": {
-                        "sha1": "dfb387c23106f07ed58d2d3f7682663aa7aac53a",
-                        "md5": "2159256ffe6c99681137568bd37de753"
+                        "sha1": "a09b255f975a5d108d01ad102b80cea5c4ffa44d",
+                        "md5": "7ac4b800e72ff063800c818ed44bf37e"
                     },
                     "required_dependencies": [],
-                    "size": 791070,
-                    "date_published": "2026-03-09T01:26:26.583Z"
+                    "size": 793877,
+                    "date_published": "2026-03-29T02:42:19.090Z"
                 },
                 {
                     "type": "modrinth",
