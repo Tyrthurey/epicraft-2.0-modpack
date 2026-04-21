@@ -12102,43 +12102,6 @@
             ]
         },
         {
-            "pakku_id": "Gg8czu73iA5Z2XzN",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "storage-delight-forge"
-            },
-            "name": {
-                "curseforge": "Storage Delight (Forge & Neoforge)"
-            },
-            "id": {
-                "curseforge": "979761"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "storagedelight-25.12.09-1.21-neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7313/558/storagedelight-25.12.09-1.21-neoforge.jar",
-                    "id": "7313558",
-                    "parent_id": "979761",
-                    "hashes": {
-                        "sha1": "b61e8454f99d4e18730ac3e2a2c51c618c4c548a",
-                        "md5": "3a34a42d7cbd62dd38d81b92287304e1"
-                    },
-                    "required_dependencies": [],
-                    "size": 649502,
-                    "date_published": "2025-12-09T21:54:34.527Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "y79W2XxjXbvjElp9",
             "type": "MOD",
             "side": "BOTH",
