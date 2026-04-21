@@ -6891,7 +6891,8 @@
             "pakku_id": "xKXITljTtqKdfP8R",
             "pakku_links": [
                 "jL3CMCAT3xk9glTT",
-                "llSGHielIEiD8GLI"
+                "llSGHielIEiD8GLI",
+                "YTLRtyJBeKRhNQvN"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -7757,7 +7758,7 @@
             ]
         },
         {
-            "pakku_id": "jL3CMCAT3xk9glTT",
+            "pakku_id": "YTLRtyJBeKRhNQvN",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -7775,7 +7776,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "jupiter-2.3.6-1.21.1-neoforge.jar",
+                    "file_name": "jupiter-2.3.7-1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -7784,16 +7785,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7704/602/jupiter-2.3.6-1.21.1-neoforge.jar",
-                    "id": "7704602",
+                    "url": "https://edge.forgecdn.net/files/7738/312/jupiter-2.3.7-1.21.1-neoforge.jar",
+                    "id": "7738312",
                     "parent_id": "1072905",
                     "hashes": {
-                        "sha1": "c3172fe2878b6a06f671040ebf78eb321c1522ab",
-                        "md5": "f39f87fb973e1f195da992934de843c3"
+                        "sha1": "569fb484ea5c8e8d690945ad4cd132131a719751",
+                        "md5": "e9d3d142f366cfc1d33030d61f6a1fb2"
                     },
                     "required_dependencies": [],
-                    "size": 278395,
-                    "date_published": "2026-03-03T07:21:40.553Z"
+                    "size": 278988,
+                    "date_published": "2026-03-10T12:59:30.053Z"
                 },
                 {
                     "type": "modrinth",
