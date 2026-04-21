@@ -5981,10 +5981,10 @@
             ]
         },
         {
-            "pakku_id": "dskUXuELPEUpV9sf",
+            "pakku_id": "KxHJSswjiDL9obwn",
             "pakku_links": [
-                "lKEpkxyntM9mR8UP",
-                "vYyd6lB9LJ1xZr29"
+                "vYyd6lB9LJ1xZr29",
+                "lKEpkxyntM9mR8UP"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -6003,7 +6003,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "friendsandfoes-neoforge-4.0.22+mc1.21.1.jar",
+                    "file_name": "friendsandfoes-neoforge-4.0.23+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -6012,19 +6012,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7733/1/friendsandfoes-neoforge-4.0.22+mc1.21.1.jar",
-                    "id": "7733001",
+                    "url": "https://edge.forgecdn.net/files/7743/143/friendsandfoes-neoforge-4.0.23+mc1.21.1.jar",
+                    "id": "7743143",
                     "parent_id": "602059",
                     "hashes": {
-                        "sha1": "e33b963b52b3f9bbe897e8000bf4473fc665fb2e",
-                        "md5": "64dccb5eb02b1c30bb1f1d32e1a225e3"
+                        "sha1": "251743d54fc9b85a540c459b0bd826c59e377fc9",
+                        "md5": "3dac84df226076f7de607775e0fb9d54"
                     },
                     "required_dependencies": [
                         "667299",
                         "570073"
                     ],
-                    "size": 4984140,
-                    "date_published": "2026-03-09T09:55:47.257Z"
+                    "size": 4988437,
+                    "date_published": "2026-03-11T15:11:42.450Z"
                 },
                 {
                     "type": "modrinth",
