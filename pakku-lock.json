@@ -2596,7 +2596,7 @@
             ]
         },
         {
-            "pakku_id": "sBmVu6KLYGzXwSRT",
+            "pakku_id": "J7Zz7haUVKLWg7WO",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2614,28 +2614,28 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "collective-1.21.1-8.13.jar",
+                    "file_name": "collective-1.21.1-8.20.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "fabric",
-                        "neoforge",
                         "forge",
+                        "neoforge",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7148/969/collective-1.21.1-8.13.jar",
-                    "id": "7148969",
+                    "url": "https://edge.forgecdn.net/files/7925/30/collective-1.21.1-8.20.jar",
+                    "id": "7925030",
                     "parent_id": "342584",
                     "hashes": {
-                        "sha1": "a31359f980453a838a7e854d86f485314fda91ad",
-                        "md5": "b454e160d38e5463f86b50ca82e9ef83"
+                        "sha1": "843bd92e270196c1b52eabc7ac54b0b6c521e395",
+                        "md5": "66810bf827085003dc19e3742b4b88a4"
                     },
                     "required_dependencies": [],
-                    "size": 946726,
-                    "date_published": "2025-10-25T16:55:00.750Z"
+                    "size": 942780,
+                    "date_published": "2026-04-14T10:04:05.727Z"
                 },
                 {
                     "type": "modrinth",
