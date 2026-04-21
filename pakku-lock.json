@@ -10916,7 +10916,8 @@
             "pakku_id": "R2kwYrWMRoPzStq2",
             "pakku_links": [
                 "yvI7LreayztrNh5w",
-                "EuibR0TEIeBXy6qx"
+                "EuibR0TEIeBXy6qx",
+                "K6kA919USE4iExl2"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -12387,7 +12388,7 @@
             ]
         },
         {
-            "pakku_id": "EuibR0TEIeBXy6qx",
+            "pakku_id": "K6kA919USE4iExl2",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12405,7 +12406,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
+                    "file_name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -12414,16 +12415,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7521/894/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
-                    "id": "7521894",
+                    "url": "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+                    "id": "7783425",
                     "parent_id": "454372",
                     "hashes": {
-                        "sha1": "c665416c3a00bcf4eb3eea3ca2057c8d7416c316",
-                        "md5": "37a5ba87dacdb6c2062ba4af5cf348cd"
+                        "sha1": "84802fbe1645de8caf61ccb07db6cf451e614f68",
+                        "md5": "8da575ef57766fd02875b10fccae3aca"
                     },
                     "required_dependencies": [],
-                    "size": 558373,
-                    "date_published": "2026-01-25T02:29:23.920Z"
+                    "size": 558371,
+                    "date_published": "2026-03-20T03:53:20.480Z"
                 },
                 {
                     "type": "modrinth",
