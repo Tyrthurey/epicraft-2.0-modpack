@@ -13577,7 +13577,7 @@
             ]
         },
         {
-            "pakku_id": "GnCEzAvZoz4ChCeV",
+            "pakku_id": "ZLdhNWeuUCPy8pN8",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13595,7 +13595,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "quick-pack-neoforge-1.2.0+1.21.10.jar",
+                    "file_name": "quick-pack-neoforge-1.3.1+1.21.8.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.8",
@@ -13605,29 +13605,26 @@
                         "1.21.6",
                         "1.21.3",
                         "1.21.7",
-                        "1.21.2",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
+                        "1.21.2"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7198/709/quick-pack-neoforge-1.2.0+1.21.10.jar",
-                    "id": "7198709",
+                    "url": "https://edge.forgecdn.net/files/7935/956/quick-pack-neoforge-1.3.1+1.21.8.jar",
+                    "id": "7935956",
                     "parent_id": "1380888",
                     "hashes": {
-                        "sha1": "04c2e51b446222fe3c34d5ec7a95cae216456e28",
-                        "md5": "5042536bf5d5cac130e7b190fd677193"
+                        "sha1": "585d7294e28ab424711c6dac8b5e60796834f75b",
+                        "md5": "6d0b2b2695e6362b85dac686f8b47c26"
                     },
                     "required_dependencies": [],
-                    "size": 8161,
-                    "date_published": "2025-11-08T12:02:19.217Z"
+                    "size": 11507,
+                    "date_published": "2026-04-16T16:45:06.400Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "quick-pack-neoforge-1.3.0+1.21.8.jar",
+                    "file_name": "quick-pack-neoforge-1.3.1+1.21.8.jar",
                     "mc_versions": [
                         "1.20.5",
                         "1.20.6",
@@ -13645,16 +13642,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/xsHbItzE/quick-pack-neoforge-1.3.0+1.21.8.jar",
-                    "id": "xsHbItzE",
+                    "url": "https://cdn.modrinth.com/data/pSISfJ4O/versions/XopIdFzV/quick-pack-neoforge-1.3.1+1.21.8.jar",
+                    "id": "XopIdFzV",
                     "parent_id": "pSISfJ4O",
                     "hashes": {
-                        "sha512": "c1a523d014fbdde859cffd7d129719199736a653e72ed2169703172250da2e9cc5193992ba25ba2737d56a328ff87955a76e11f225f7220bbaae0aa79005c1cd",
-                        "sha1": "5de01be0d75475dbd7709f4b837d3113d7fc69cb"
+                        "sha512": "d867f94970498431163d92f74b052ea746e7020740a510b4052ba758aa7dc4b0b35db5d47837b5753035360b16ae4c876f1ce56f9a03c29a2c8b39ad1fbcd612",
+                        "sha1": "585d7294e28ab424711c6dac8b5e60796834f75b"
                     },
                     "required_dependencies": [],
-                    "size": 8648,
-                    "date_published": "2026-04-10T23:08:58.716452Z"
+                    "size": 11507,
+                    "date_published": "2026-04-16T16:45:06.290215Z"
                 }
             ]
         }
