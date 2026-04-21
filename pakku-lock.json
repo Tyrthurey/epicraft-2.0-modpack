@@ -10272,16 +10272,20 @@
             ]
         },
         {
-            "pakku_id": "K61kTFCh5p3BUV3w",
+            "pakku_id": "j6vOREQa4orRhMSq",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "ruins"
+                "curseforge": "ruins",
+                "modrinth": "philips-ruins"
             },
             "name": {
-                "curseforge": "Philip's Ruins"
+                "curseforge": "Philip's Ruins",
+                "modrinth": "Philips Ruins"
             },
             "id": {
-                "curseforge": "569737"
+                "curseforge": "569737",
+                "modrinth": "KdJhOYVV"
             },
             "files": [
                 {
@@ -10304,6 +10308,27 @@
                     "required_dependencies": [],
                     "size": 1365582,
                     "date_published": "2025-01-06T01:33:30.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Philips-Ruins1.21.1-2.0-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KdJhOYVV/versions/EQHGxQAv/Philips-Ruins1.21.1-2.0-NeoForge.jar",
+                    "id": "EQHGxQAv",
+                    "parent_id": "KdJhOYVV",
+                    "hashes": {
+                        "sha512": "e18119706fe065ccf571abc5d3f0e2badc95e26cee0ba5641aa88a67c2238ce2fd589459969a7691ae246658c601d7d35cc87562cc7b40b345965cbdd23fe2c6",
+                        "sha1": "9f7d66f2cd75bef6692f5a433e7606d0d77251fc"
+                    },
+                    "required_dependencies": [],
+                    "size": 1365582,
+                    "date_published": "2025-01-06T01:34:16.125759Z"
                 }
             ]
         },
