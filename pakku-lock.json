@@ -9904,7 +9904,8 @@
                 "B8acnnh1PdZ54hwX",
                 "d9w9GATFdZtfpGfN",
                 "Du4lBqMavm6VBIEJ",
-                "74EGOdOSDQqzwG5J"
+                "74EGOdOSDQqzwG5J",
+                "WEuI0knj9VboVTca"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9976,7 +9977,7 @@
             ]
         },
         {
-            "pakku_id": "B8acnnh1PdZ54hwX",
+            "pakku_id": "WEuI0knj9VboVTca",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -9994,7 +9995,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.2.1.jar",
+                    "file_name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -10002,16 +10003,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7729/718/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.2.1.jar",
-                    "id": "7729718",
+                    "url": "https://edge.forgecdn.net/files/7864/151/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar",
+                    "id": "7864151",
                     "parent_id": "962544",
                     "hashes": {
-                        "sha1": "26ce6de922a81f3104e95a126cc948c46ef629b7",
-                        "md5": "b83dd38d7152f4a2b5b1dd92fc17b357"
+                        "sha1": "2722116e140607d4f44279c84c13987e96f2bd90",
+                        "md5": "230b1bff2ca75ec42ca64b42e8780ba7"
                     },
                     "required_dependencies": [],
-                    "size": 165009,
-                    "date_published": "2026-03-08T16:10:16.570Z"
+                    "size": 165580,
+                    "date_published": "2026-04-02T21:29:24.357Z"
                 },
                 {
                     "type": "modrinth",
