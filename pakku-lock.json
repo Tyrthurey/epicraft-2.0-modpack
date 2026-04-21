@@ -8,7 +8,7 @@
     },
     "projects": [
         {
-            "pakku_id": "AUwNypDpCLDcZP4e",
+            "pakku_id": "yo9VuM0a7vpqvqan",
             "pakku_links": [
                 "JsvzObWzwjNvhNX5"
             ],
@@ -29,7 +29,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "aces_spell_utils-1.2.3-1.21.1.jar",
+                    "file_name": "aces_spell_utils-1.2.5-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -37,18 +37,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7586/646/aces_spell_utils-1.2.3-1.21.1.jar",
-                    "id": "7586646",
+                    "url": "https://edge.forgecdn.net/files/7787/705/aces_spell_utils-1.2.5-1.21.1.jar",
+                    "id": "7787705",
                     "parent_id": "1299492",
                     "hashes": {
-                        "sha1": "7d5c9c5ec5beb756bbec93aead11e82f2205a0a3",
-                        "md5": "ebfebcaf0dd4c32d3e5e3d6a79337562"
+                        "sha1": "1fb8825946420800aa7e52ff286e034146c79377",
+                        "md5": "cb3c6addd07cb86c9b94e24ce47905bd"
                     },
                     "required_dependencies": [
                         "855414"
                     ],
-                    "size": 217161,
-                    "date_published": "2026-02-06T23:11:29.427Z"
+                    "size": 237026,
+                    "date_published": "2026-03-21T02:13:58.900Z"
                 },
                 {
                     "type": "modrinth",
