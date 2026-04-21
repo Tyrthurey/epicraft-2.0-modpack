@@ -10410,7 +10410,7 @@
             ]
         },
         {
-            "pakku_id": "AYxDFtD9Cwe2aQvr",
+            "pakku_id": "rAr5gwOjVwjYy6bi",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -10428,7 +10428,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Platform-neoforge-1.21.1-1.2.11.6.2.jar",
+                    "file_name": "Platform-neoforge-1.21.1-1.3.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -10436,16 +10436,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7609/671/Platform-neoforge-1.21.1-1.2.11.6.2.jar",
-                    "id": "7609671",
+                    "url": "https://edge.forgecdn.net/files/7811/411/Platform-neoforge-1.21.1-1.3.jar",
+                    "id": "7811411",
                     "parent_id": "997634",
                     "hashes": {
-                        "sha1": "b33452ab3a003fb12271b5b8c51f93c1c3c5559e",
-                        "md5": "eb46799c522fc0568f670dacdc9e8a7d"
+                        "sha1": "64a91143d14a045f0c94ee548d8ec608e468232f",
+                        "md5": "981b48947e442801b67fd2dd28c3cad0"
                     },
                     "required_dependencies": [],
-                    "size": 469409,
-                    "date_published": "2026-02-11T14:55:09.173Z"
+                    "size": 473152,
+                    "date_published": "2026-03-25T14:25:51.350Z"
                 },
                 {
                     "type": "modrinth",
