@@ -5349,9 +5349,8 @@
             ]
         },
         {
-            "pakku_id": "dCVlFeOI20vRLwMe",
+            "pakku_id": "Hz2tUEoewaGU6ggL",
             "pakku_links": [
-                "8Nhi0S1IuHhKlZMT",
                 "vm7whLV6C6hkDOBK"
             ],
             "type": "MOD",
@@ -5371,7 +5370,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "everycomp-1.21-2.11.30-neoforge.jar",
+                    "file_name": "everycomp-1.21-2.11.37-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -5380,18 +5379,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7732/139/everycomp-1.21-2.11.30-neoforge.jar",
-                    "id": "7732139",
+                    "url": "https://edge.forgecdn.net/files/7869/659/everycomp-1.21-2.11.37-neoforge.jar",
+                    "id": "7869659",
                     "parent_id": "628539",
                     "hashes": {
-                        "sha1": "abcb516dee55d74110e88be9f6426329405f943d",
-                        "md5": "956af99f5e1a4aac6b04ef9daea17a98"
+                        "sha1": "631146dd0d8a9a3ea9b245b0b5163cf008f73c7d",
+                        "md5": "8c83ff6b461101d304a9119ee7928a7d"
                     },
                     "required_dependencies": [
                         "499980"
                     ],
-                    "size": 2642768,
-                    "date_published": "2026-03-09T03:24:03.730Z"
+                    "size": 2635904,
+                    "date_published": "2026-04-03T20:13:55.420Z"
                 },
                 {
                     "type": "modrinth",
