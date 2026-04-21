@@ -12240,7 +12240,7 @@
             ]
         },
         {
-            "pakku_id": "KgS3JRBuRltUA4aW",
+            "pakku_id": "cInXqtFgyJMZaqZp",
             "pakku_links": [
                 "vYyd6lB9LJ1xZr29"
             ],
@@ -12261,7 +12261,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "structurify-neoforge-2.0.19+mc1.21.1.jar",
+                    "file_name": "structurify-neoforge-2.0.22+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -12270,18 +12270,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7714/784/structurify-neoforge-2.0.19+mc1.21.1.jar",
-                    "id": "7714784",
+                    "url": "https://edge.forgecdn.net/files/7895/93/structurify-neoforge-2.0.22+mc1.21.1.jar",
+                    "id": "7895093",
                     "parent_id": "1087551",
                     "hashes": {
-                        "sha1": "bb97fa4f5546e23628ec1bb2976d0200c983bf32",
-                        "md5": "26df24f780ffe785b366739c3180662b"
+                        "sha1": "6c6e5c2edc956b2e1fb6909599b862bc2fe68dc4",
+                        "md5": "85d5acd4788ce08f596c0d2af8b7c375"
                     },
                     "required_dependencies": [
                         "667299"
                     ],
-                    "size": 365660,
-                    "date_published": "2026-03-05T14:18:37.357Z"
+                    "size": 372970,
+                    "date_published": "2026-04-08T13:41:35.443Z"
                 },
                 {
                     "type": "modrinth",
