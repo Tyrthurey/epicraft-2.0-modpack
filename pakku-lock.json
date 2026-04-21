@@ -8693,7 +8693,7 @@
             ]
         },
         {
-            "pakku_id": "DVBtqUXPpzG4KkCl",
+            "pakku_id": "vhP0tkyUikmPCRD6",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8711,7 +8711,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "mcw-paintings-1.0.5-1.21.1neoforge.jar",
+                    "file_name": "mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8719,16 +8719,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5681/187/mcw-paintings-1.0.5-1.21.1neoforge.jar",
-                    "id": "5681187",
+                    "url": "https://edge.forgecdn.net/files/7845/33/mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+                    "id": "7845033",
                     "parent_id": "438116",
                     "hashes": {
-                        "sha1": "d52d16e1b9712e74907d78f5849765c3c9008788",
-                        "md5": "1a4d62e2b3acf47f27ecb34b3316a88e"
+                        "sha1": "7e637b44624da6a3b7cd6cfd26324c3f116d4da6",
+                        "md5": "9d413b9ca9da2cee7a11bee6f1c9b8e2"
                     },
                     "required_dependencies": [],
-                    "size": 62622,
-                    "date_published": "2024-08-31T18:57:06Z"
+                    "size": 179058,
+                    "date_published": "2026-03-30T10:20:42.797Z"
                 },
                 {
                     "type": "modrinth",
