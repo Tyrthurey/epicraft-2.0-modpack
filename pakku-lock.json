@@ -9500,7 +9500,10 @@
             ]
         },
         {
-            "pakku_id": "qHKOUusowbtL1M2P",
+            "pakku_id": "15HAxk2d54NRT6uC",
+            "pakku_links": [
+                "x0KnaKvt7WxxOBK2"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -9518,26 +9521,27 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "moreculling-neoforge-1.21.1-1.0.6.jar",
+                    "file_name": "moreculling-neoforge-1.21.1-1.0.7.jar",
                     "mc_versions": [
+                        "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6292/880/moreculling-neoforge-1.21.1-1.0.6.jar",
-                    "id": "6292880",
+                    "url": "https://edge.forgecdn.net/files/7748/843/moreculling-neoforge-1.21.1-1.0.7.jar",
+                    "id": "7748843",
                     "parent_id": "630104",
                     "hashes": {
-                        "sha1": "f6f43344e0622ac05ad7aca5378ec35aad31ac30",
-                        "md5": "d6021cd3f5644831db8cdcbaf23a4c9b"
+                        "sha1": "834cc35294be3bb514bc0ba571ab7337961af383",
+                        "md5": "97f704f5fca2a00952f75abe78bac964"
                     },
                     "required_dependencies": [
                         "348521"
                     ],
-                    "size": 342982,
-                    "date_published": "2025-03-11T17:25:36.660Z"
+                    "size": 344279,
+                    "date_published": "2026-03-12T22:00:48.223Z"
                 },
                 {
                     "type": "modrinth",
