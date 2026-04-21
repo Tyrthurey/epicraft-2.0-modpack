@@ -6555,11 +6555,7 @@
             ]
         },
         {
-            "pakku_id": "QxP1OprVCKEsklyN",
-            "pakku_links": [
-                "VewEx6ZI8vAlodOL",
-                "WDcxnRAosnWK7xdd"
-            ],
+            "pakku_id": "krJvOOetLvb6I5Ve",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -6577,28 +6573,24 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
+                    "file_name": "gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6555/981/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-                    "id": "6555981",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7891/807/gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar",
+                    "id": "7891807",
                     "parent_id": "1139062",
                     "hashes": {
-                        "sha1": "6af464b8bc270c8d21fca7022051d42b6f736484",
-                        "md5": "27de362d307c23308d667314d2048117"
+                        "sha1": "3674669dcacef907369219ed3869c83889e4f1ee",
+                        "md5": "b5e567ac7c283a5fc5b8d95f66b162ac"
                     },
-                    "required_dependencies": [
-                        "238551",
-                        "1264423",
-                        "309927"
-                    ],
-                    "size": 14841,
-                    "date_published": "2025-05-22T16:09:39.083Z"
+                    "required_dependencies": [],
+                    "size": 17532,
+                    "date_published": "2026-04-07T20:14:14.040Z"
                 },
                 {
                     "type": "modrinth",
