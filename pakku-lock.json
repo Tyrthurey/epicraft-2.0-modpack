@@ -8171,7 +8171,7 @@
             ]
         },
         {
-            "pakku_id": "BqjCMgBnDGGkNgjK",
+            "pakku_id": "OxnuerHuuIeqP53S",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -8189,25 +8189,24 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+                    "file_name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
                     "mc_versions": [
-                        "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7581/452/lithium-neoforge-0.15.2+mc1.21.1.jar",
-                    "id": "7581452",
+                    "url": "https://edge.forgecdn.net/files/7740/400/lithium-neoforge-0.15.3+mc1.21.1.jar",
+                    "id": "7740400",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "54457ba68b0066a5b6034655f8d31a29a3e5e6b1",
-                        "md5": "ea8a0699fa86f4c9642bdc369546a7a6"
+                        "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e",
+                        "md5": "8207aaae8fea906c7eb2447da40b8c83"
                     },
                     "required_dependencies": [],
-                    "size": 773944,
-                    "date_published": "2026-02-05T21:34:06.287Z"
+                    "size": 774148,
+                    "date_published": "2026-03-10T22:02:15.497Z"
                 },
                 {
                     "type": "modrinth",
