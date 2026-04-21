@@ -10471,7 +10471,7 @@
             ]
         },
         {
-            "pakku_id": "xZUTVybSAqg8d2SX",
+            "pakku_id": "TxzstpIIzy7fTf46",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -10490,7 +10490,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "plushie_buddies-0.1.7-neofroge-1.21.1.jar",
+                    "file_name": "plushie_buddies-1.0.0-neofroge-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -10498,16 +10498,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7132/280/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
-                    "id": "7132280",
+                    "url": "https://edge.forgecdn.net/files/7813/151/plushie_buddies-1.0.0-neofroge-1.21.1.jar",
+                    "id": "7813151",
                     "parent_id": "990265",
                     "hashes": {
-                        "sha1": "be92f6f19c846641fe99ef1b4aaa76ea04c7460f",
-                        "md5": "305779a2581b30026a94f6515a4b6d19"
+                        "sha1": "a5c2c58dd5b2bdbe10d8b8a535de6206d7421920",
+                        "md5": "1ccb17925601f9d1cd3c0f7a2df6e04b"
                     },
                     "required_dependencies": [],
-                    "size": 395626,
-                    "date_published": "2025-10-21T08:16:16.973Z"
+                    "size": 461703,
+                    "date_published": "2026-03-25T19:51:53.863Z"
                 },
                 {
                     "type": "modrinth",
