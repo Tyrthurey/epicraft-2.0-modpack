@@ -7633,7 +7633,7 @@
             ]
         },
         {
-            "pakku_id": "40DgLKEgOpu4ntVb",
+            "pakku_id": "psvJGtnS03FI54N0",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -7651,7 +7651,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Ixeris-4.1.1+1.21.1-neoforge.jar",
+                    "file_name": "Ixeris-4.1.10+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -7660,20 +7660,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7746/984/Ixeris-4.1.1+1.21.1-neoforge.jar",
-                    "id": "7746984",
+                    "url": "https://edge.forgecdn.net/files/7943/643/Ixeris-4.1.10+1.21.1-neoforge.jar",
+                    "id": "7943643",
                     "parent_id": "1285307",
                     "hashes": {
-                        "sha1": "13098a04c6716ef31f45e8292a7f915a46d11cd9",
-                        "md5": "b17ccd60f72da1bb935062e2d26d5fd7"
+                        "sha1": "69499dd13b502db4accaaa82a89a91b00e3c2009",
+                        "md5": "0e17bd1e15c778855431a54358c6cb0a"
                     },
                     "required_dependencies": [],
-                    "size": 612083,
-                    "date_published": "2026-03-12T14:03:24.937Z"
+                    "size": 617221,
+                    "date_published": "2026-04-18T06:21:24.877Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-4.1.8+1.21.1-neoforge.jar",
+                    "file_name": "Ixeris-4.1.10+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -7682,16 +7682,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/sQph0QFQ/Ixeris-4.1.8+1.21.1-neoforge.jar",
-                    "id": "sQph0QFQ",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/fJVVeFKZ/Ixeris-4.1.10+1.21.1-neoforge.jar",
+                    "id": "fJVVeFKZ",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "d329515b4d3656962a5b566280c57fa620bde32b1acf646559af6c3040f48203aeacd681cd10c9732ba1437dd5ed43fc413aa17a9e9b458a9de07e893a20bf17",
-                        "sha1": "60a2836b2b7819fe9881f87c584c4ccf14b8e9e0"
+                        "sha512": "c28033dd52c0f430fb949f824fa240096ca4c4a1d25150f983f3792f1008f0cf4b9a7fc29a858ed5d7968156043aeac7159d4da89862b76d77e8a8dc89699b7f",
+                        "sha1": "69499dd13b502db4accaaa82a89a91b00e3c2009"
                     },
                     "required_dependencies": [],
-                    "size": 615663,
-                    "date_published": "2026-04-05T11:43:08.267691Z"
+                    "size": 617221,
+                    "date_published": "2026-04-18T06:21:25.952372Z"
                 }
             ]
         },
