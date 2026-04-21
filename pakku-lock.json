@@ -9186,16 +9186,20 @@
             ]
         },
         {
-            "pakku_id": "D9KZoDGIvrAIlQr9",
+            "pakku_id": "Rebc1ShlTeoNtCEL",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "mod-menu-neoforge-edition"
+                "curseforge": "mod-menu-neoforge-edition",
+                "modrinth": "mod-menu-(neoforge-edition)"
             },
             "name": {
-                "curseforge": "Mod Menu (NeoForge Edition)"
+                "curseforge": "Mod Menu (NeoForge Edition)",
+                "modrinth": "Mod Menu (NeoForge Edition)"
             },
             "id": {
-                "curseforge": "1393224"
+                "curseforge": "1393224",
+                "modrinth": "31TqAmXC"
             },
             "files": [
                 {
@@ -9218,6 +9222,27 @@
                     "required_dependencies": [],
                     "size": 933248,
                     "date_published": "2025-12-09T19:32:25.910Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/31TqAmXC/versions/NTKPm1J1/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar",
+                    "id": "NTKPm1J1",
+                    "parent_id": "31TqAmXC",
+                    "hashes": {
+                        "sha512": "3e0c71897dded3fe16dda8d65987f1c9af8d66721d41ceb4eac30e1ff655e93ddfd795652ec17cf71778c08c86edd8adccbdd072530e9e50e85041d7a7857580",
+                        "sha1": "075a0d5f30d1228f998e50c79e703bbd3037a836"
+                    },
+                    "required_dependencies": [],
+                    "size": 933248,
+                    "date_published": "2025-12-09T19:33:23.263142Z"
                 }
             ]
         },
