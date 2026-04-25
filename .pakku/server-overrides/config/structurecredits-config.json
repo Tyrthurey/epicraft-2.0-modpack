@@ -1,0 +1,45 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "irons_spellbooks:evoker_fort",
+    "mvs:floating_islands",
+    "terralith:spire",
+    "trek:overworld/rare/portal_sword",
+    "mvs:large_warped_tower",
+    "formationsoverworld:desert_houses",
+    "medieval_buildings:tower",
+    "towns_and_towers:exclusives/pillager_outpost_oriental",
+    "bettermineshafts:mineshaft_lush",
+    "trek:overworld/common/smoldering_altar",
+    "trek:overworld/medium/farm",
+    "formationsoverworld:meteor",
+    "mvs:windmill",
+    "mvs:red_stall",
+    "trek:overworld/rare/tower_island",
+    "mvs:wheat_grain_bin",
+    "formationsoverworld:witch_tower",
+    "trek:overworld/rare/castle",
+    "structory:outcast_villager_grassy",
+    "mvs:cartographer_tower",
+    "mvs:paths",
+    "mvs:ruined_beacon",
+    "mvs:tall_house",
+    "cataclysm:abandoned_village",
+    "mvs:barn",
+    "mvs:azelea_house",
+    "bettermineshafts:mineshaft_dripstone",
+    "nova_structures:remnant_big_remnant"
+  ]
+}

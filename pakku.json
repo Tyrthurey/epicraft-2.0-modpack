@@ -1,14 +1,11 @@
 {
     "name": "EPICRAFT REBORN",
-    "version": "0.19.2",
+    "version": "0.20.0",
     "overrides": [
-        "mods",
-        "kubejs"
+        "mods"
     ],
     "client_overrides": [
-        "config",
         "resourcepacks",
-        "shaderpacks",
         "epicraft_version.txt"
     ]
 }
