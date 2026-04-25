@@ -14424,35 +14424,6 @@
             ]
         },
         {
-            "pakku_id": "sbl0XSKPDyOmcwfA",
-            "type": "MOD",
-            "slug": {
-                "github": "Tyrthurey/farsighted-mobs"
-            },
-            "name": {
-                "github": "farsighted-mobs"
-            },
-            "id": {
-                "github": "1213860176"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "github",
-                    "file_name": "farsightedmobs-neoforge-1.21-3.0.3.jar",
-                    "release_type": "release",
-                    "url": "https://github.com/Tyrthurey/farsighted-mobs/releases/download/v3.0.3/farsightedmobs-neoforge-1.21-3.0.3.jar",
-                    "id": "399310109",
-                    "parent_id": "1213860176",
-                    "hashes": {
-                        "sha256": "fcf519b4f8536772e6b66c80af89e54e5c1ca5ad504eec4d886eef99a1302579"
-                    },
-                    "size": 41557,
-                    "date_published": "2026-04-18T10:46:13Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "zRlv0vfOqxvWZEOL",
             "type": "MOD",
             "side": "BOTH",
