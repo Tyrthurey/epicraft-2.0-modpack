@@ -12645,7 +12645,7 @@
             ]
         },
         {
-            "pakku_id": "s9ufJ5nL6nx7RZUc",
+            "pakku_id": "xAizZ4J5GBHYXaD6",
             "pakku_links": [
                 "wbkhjr31jJ4cYlVP",
                 "3zoNSvsksMhl7Tvp"
@@ -12667,7 +12667,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sodiumextras-neoforge-1.0.7-1.21.1.jar",
+                    "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12675,23 +12675,23 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6041/699/sodiumextras-neoforge-1.0.7-1.21.1.jar",
-                    "id": "6041699",
+                    "url": "https://edge.forgecdn.net/files/6394/141/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+                    "id": "6394141",
                     "parent_id": "558905",
                     "hashes": {
-                        "sha1": "70ae3f6f3c5825d542a60d98ec7007270d385f5f",
-                        "md5": "6d633775ea1841702c33a4714fb32ed2"
+                        "sha1": "d678f6eb28fec11f3e99bc7f17f5e385703bc44a",
+                        "md5": "acbf3c92a89bcd595e7c0c668fc7309f"
                     },
                     "required_dependencies": [
                         "1103431",
                         "394468"
                     ],
-                    "size": 276998,
-                    "date_published": "2025-01-01T04:39:13.773Z"
+                    "size": 276988,
+                    "date_published": "2025-04-07T04:44:42.343Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "sodiumextras-neoforge-1.0.7-1.21.1.jar",
+                    "file_name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12699,19 +12699,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/jHW2PI3B/sodiumextras-neoforge-1.0.7-1.21.1.jar",
-                    "id": "jHW2PI3B",
+                    "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/qDEGbszS/sodiumextras-neoforge-1.0.8-1.21.1.jar",
+                    "id": "qDEGbszS",
                     "parent_id": "vqqx0QiE",
                     "hashes": {
-                        "sha512": "867724ba126ea541ea1de6114a53d679ba7dd8188eb2cd2881728e3c8593cef10686c052d118ac86a535db5298f53c5a3719b9bd43b7e8350be072e14bc21826",
-                        "sha1": "70ae3f6f3c5825d542a60d98ec7007270d385f5f"
+                        "sha512": "1bab2a7651b628a04066ce5221cd2df9bbbd8811da41a1f1c30c367b0a92bd5b42c5c13c9c45b961330d156836f367daf6225c72ba4f6acc7e42e9b44df3f419",
+                        "sha1": "d678f6eb28fec11f3e99bc7f17f5e385703bc44a"
                     },
                     "required_dependencies": [
                         "AANobbMI",
                         "Es5v4eyq"
                     ],
-                    "size": 276998,
-                    "date_published": "2025-01-01T04:39:15.838580Z"
+                    "size": 276988,
+                    "date_published": "2025-04-07T04:44:44.208579Z"
                 }
             ]
         },
