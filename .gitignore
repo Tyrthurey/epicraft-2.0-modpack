@@ -1,7 +1,5 @@
 build
 overrides
-resourcepacks
-shaderpacks
 
 # Exclude exported CurseForge zip files
 *.zip
