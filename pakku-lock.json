@@ -12523,7 +12523,8 @@
         {
             "pakku_id": "tZnV3fK1WfixqAOa",
             "pakku_links": [
-                "g1X5aAasVEcfX4P7"
+                "g1X5aAasVEcfX4P7",
+                "MSdKOjFAxcTS66QL"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -12593,7 +12594,8 @@
             "pakku_links": [
                 "tZnV3fK1WfixqAOa",
                 "g1X5aAasVEcfX4P7",
-                "SxeM3dac1hCPryAH"
+                "SxeM3dac1hCPryAH",
+                "MSdKOjFAxcTS66QL"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -12663,7 +12665,7 @@
             ]
         },
         {
-            "pakku_id": "g1X5aAasVEcfX4P7",
+            "pakku_id": "MSdKOjFAxcTS66QL",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12681,7 +12683,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.24.1680.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12689,20 +12691,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7916/600/sophisticatedcore-1.21.1-1.4.24.1680.jar",
-                    "id": "7916600",
+                    "url": "https://edge.forgecdn.net/files/7954/316/sophisticatedcore-1.21.1-1.4.25.1696.jar",
+                    "id": "7954316",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "0627a0297f32c9daa99805a0da1e33d9ede77e9b",
-                        "md5": "77e5d5348221d1356dee9160772d3ace"
+                        "sha1": "73a50ab2396d53445be6c7f45328f2c613c1f589",
+                        "md5": "d08ac6e4da6ecc967cd30d56a2f08753"
                     },
                     "required_dependencies": [],
-                    "size": 1479559,
-                    "date_published": "2026-04-12T16:40:12.380Z"
+                    "size": 1480937,
+                    "date_published": "2026-04-20T06:21:39.853Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.24.1680.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12710,23 +12712,24 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/T4AMspJ8/sophisticatedcore-1.21.1-1.4.24.1680.jar",
-                    "id": "T4AMspJ8",
+                    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/BcVccGu5/sophisticatedcore-1.21.1-1.4.25.1696.jar",
+                    "id": "BcVccGu5",
                     "parent_id": "nmoqTijg",
                     "hashes": {
-                        "sha512": "579c8889cdac1eb4fd9a9c5469f7d2a01d3ca6f7d4fad2147a683ea556624eaaf7cc1bbcf464787fc994125b69b1697d6602fa5c8ed7f3083f12da86a5323148",
-                        "sha1": "b551e243f683b66903a93ab3115d09eeea25679e"
+                        "sha512": "7124fcdbcd7ad299244da3b77ce6ed6a5b241bef325e829774a11cacdf8f5474d4a21957d33d58203f1acdf9327883cfc142c9e819c70d609a9d8e5582b9257a",
+                        "sha1": "203820f2f99a87c2406860d6f9b518374130b1a4"
                     },
                     "required_dependencies": [],
-                    "size": 1479558,
-                    "date_published": "2026-04-12T16:42:36.757553Z"
+                    "size": 1480937,
+                    "date_published": "2026-04-20T06:21:41.343390Z"
                 }
             ]
         },
         {
             "pakku_id": "Uuz1bvApyHcBGS1I",
             "pakku_links": [
-                "g1X5aAasVEcfX4P7"
+                "g1X5aAasVEcfX4P7",
+                "MSdKOjFAxcTS66QL"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -12796,7 +12799,8 @@
             "pakku_links": [
                 "SxeM3dac1hCPryAH",
                 "g1X5aAasVEcfX4P7",
-                "Uuz1bvApyHcBGS1I"
+                "Uuz1bvApyHcBGS1I",
+                "MSdKOjFAxcTS66QL"
             ],
             "type": "MOD",
             "side": "BOTH",
