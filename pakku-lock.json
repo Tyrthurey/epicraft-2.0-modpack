@@ -1041,7 +1041,7 @@
         {
             "pakku_id": "wG3P2asgERTItPVJ",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "athena-ctm",
                 "curseforge": "athena"
@@ -3009,7 +3009,7 @@
         {
             "pakku_id": "SxeM3dac1hCPryAH",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create",
                 "modrinth": "create"
@@ -4779,7 +4779,7 @@
         {
             "pakku_id": "VLA132QyL3Atyu78",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "emi",
                 "modrinth": "emi"
