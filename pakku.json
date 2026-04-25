@@ -3,12 +3,12 @@
     "version": "0.0.1",
     "overrides": [
         "mods",
-        "kubejs",
-        "epicraft_version.txt"
+        "kubejs"
     ],
     "client_overrides": [
         "config",
         "resourcepacks",
-        "shaderpacks"
+        "shaderpacks",
+        "epicraft_version.txt"
     ]
 }
