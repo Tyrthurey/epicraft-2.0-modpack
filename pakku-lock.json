@@ -1287,6 +1287,67 @@
             ]
         },
         {
+            "pakku_id": "D8MMU1HQRGQ7v0co",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "balm",
+                "modrinth": "balm"
+            },
+            "name": {
+                "curseforge": "Balm",
+                "modrinth": "Balm"
+            },
+            "id": {
+                "curseforge": "531761",
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-neoforge-1.21.1-21.0.56.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7420/963/balm-neoforge-1.21.1-21.0.56.jar",
+                    "id": "7420963",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "c1c1d4859c7943c7d1c181c07fa7273a1d56df15",
+                        "md5": "7ab16721c9a8bb96666233d8ef46b47d"
+                    },
+                    "required_dependencies": [],
+                    "size": 739709,
+                    "date_published": "2026-01-05T13:50:26.647Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "balm-neoforge-1.21.1-21.0.56.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yoii3Xj6/balm-neoforge-1.21.1-21.0.56.jar",
+                    "id": "Yoii3Xj6",
+                    "parent_id": "MBAkmtvl",
+                    "hashes": {
+                        "sha512": "08ab4483999bee8f4a13b0069e09565255336375542af498188219e1509e2b58eaf281bfe75c7e135c8d5e2804c0982538cbf5d7cf02a5dec1bd8be8f9b075e6",
+                        "sha1": "635e706136bb228e6a72d41d86dec495f812ccb5"
+                    },
+                    "required_dependencies": [],
+                    "size": 739709,
+                    "date_published": "2026-01-05T13:50:25.814457Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "WCYryFoip53sussh",
             "type": "MOD",
             "side": "BOTH",
@@ -13909,6 +13970,74 @@
                     "required_dependencies": [],
                     "size": 138678,
                     "date_published": "2024-09-22T18:10:27.057218Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ghhHTObORO0HHIWQ",
+            "pakku_links": [
+                "D8MMU1HQRGQ7v0co"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "waystones",
+                "modrinth": "waystones"
+            },
+            "name": {
+                "curseforge": "Waystones",
+                "modrinth": "Waystones"
+            },
+            "id": {
+                "curseforge": "245755",
+                "modrinth": "LOpKHB2A"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "waystones-neoforge-1.21.1-21.1.29.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7750/240/waystones-neoforge-1.21.1-21.1.29.jar",
+                    "id": "7750240",
+                    "parent_id": "245755",
+                    "hashes": {
+                        "sha1": "40f15e97d79e01ce65fe2fe752bef43689b32bff",
+                        "md5": "e4e04b5f999dc1d46501c208af588c29"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 876329,
+                    "date_published": "2026-03-13T07:17:55.750Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "waystones-neoforge-1.21.1-21.1.29.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ayolso4x/waystones-neoforge-1.21.1-21.1.29.jar",
+                    "id": "Ayolso4x",
+                    "parent_id": "LOpKHB2A",
+                    "hashes": {
+                        "sha512": "87230fd132e281ba66baa40d2f367a584deb78ac6e693aa97355c90f26ef2607365621c297e29c180a289b93aedc84fa92aa37d350e358a3220ef21b1cc45a30",
+                        "sha1": "7bd06fb7dfd6904a0f4ec5b9b46da2325e247aa3"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 876329,
+                    "date_published": "2026-03-13T07:17:52.235721Z"
                 }
             ]
         },
