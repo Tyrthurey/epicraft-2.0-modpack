@@ -2047,7 +2047,8 @@
             "pakku_id": "glnyNMUAHbcXHXeD",
             "pakku_links": [
                 "H7ot3Ln1r7VdoYYo",
-                "fndBDUA9n5uBpamA"
+                "fndBDUA9n5uBpamA",
+                "ZJQT6b0cXMDUTZCt"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -14230,19 +14231,23 @@
             ]
         },
         {
-            "pakku_id": "fndBDUA9n5uBpamA",
+            "pakku_id": "ZJQT6b0cXMDUTZCt",
             "pakku_links": [
                 "f1823sVvSMcSuxJe"
             ],
             "type": "MOD",
+            "side": "SERVER",
             "slug": {
-                "curseforge": "yungs-better-nether-fortresses-neoforge"
+                "curseforge": "yungs-better-nether-fortresses-neoforge",
+                "modrinth": "yungs-better-nether-fortresses"
             },
             "name": {
-                "curseforge": "YUNG's Better Nether Fortresses (NeoForge)"
+                "curseforge": "YUNG's Better Nether Fortresses (NeoForge)",
+                "modrinth": "YUNG's Better Nether Fortresses"
             },
             "id": {
-                "curseforge": "1015118"
+                "curseforge": "1015118",
+                "modrinth": "Z2mXHnxP"
             },
             "files": [
                 {
@@ -14268,6 +14273,30 @@
                     ],
                     "size": 609639,
                     "date_published": "2025-06-01T23:34:05.203Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/iopJiJQp/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                    "id": "iopJiJQp",
+                    "parent_id": "Z2mXHnxP",
+                    "hashes": {
+                        "sha512": "18b461298d3df1215fa3b4d2c0cb2ef1c7ed76701d8a0bb140277b21923e31abd939f0fd9b400c5bd676d739f1cda31c43b4dc753f9187251542223f3424d336",
+                        "sha1": "4061ece2141475227646649046fc14c2da505922"
+                    },
+                    "required_dependencies": [
+                        "Ua7DFN59"
+                    ],
+                    "size": 609639,
+                    "date_published": "2025-06-01T23:34:40.452930Z"
                 }
             ]
         },
