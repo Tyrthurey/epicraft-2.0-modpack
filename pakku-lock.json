@@ -2947,6 +2947,278 @@
             ]
         },
         {
+            "pakku_id": "wKbrhgju9ejxrnJ9",
+            "pakku_links": [
+                "oz7OFH0SZYS63y0Q",
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-contraption-terminals",
+                "modrinth": "create-contraption-terminals"
+            },
+            "name": {
+                "curseforge": "Create Contraption Terminals",
+                "modrinth": "Create Contraption Terminals"
+            },
+            "id": {
+                "curseforge": "1059879",
+                "modrinth": "gOPAFzp0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7660/82/createcontraptionterminals-1.21-1.3.0.jar",
+                    "id": "7660082",
+                    "parent_id": "1059879",
+                    "hashes": {
+                        "sha1": "65bef5b4ec20ba8d966ed2fd97ad2992c7fa7d8a",
+                        "md5": "f4a4315aa9767aa51f1c5b31933e5ac4"
+                    },
+                    "required_dependencies": [
+                        "378609",
+                        "328085"
+                    ],
+                    "size": 90967,
+                    "date_published": "2026-02-21T20:56:52.317Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "createcontraptionterminals-1.21-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gOPAFzp0/versions/XrNWi3Wo/createcontraptionterminals-1.21-1.3.0.jar",
+                    "id": "XrNWi3Wo",
+                    "parent_id": "gOPAFzp0",
+                    "hashes": {
+                        "sha512": "ca77062010c4fa09a058d6cc4a0d84be4c1186cad7a4b014a3ef5b2fe82531e483a1252c3945b67acc9b7c4f3805af467da9bddb9e53f8cd0fda9d97923f1877",
+                        "sha1": "65bef5b4ec20ba8d966ed2fd97ad2992c7fa7d8a"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "XZNI4Cpy"
+                    ],
+                    "size": 90967,
+                    "date_published": "2026-02-21T20:56:54.012797Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FSHrvSMoNDRjPP0A",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "create-big-contraptions",
+                "modrinth": "big-contraptions"
+            },
+            "name": {
+                "curseforge": "Create: Big Contraptions",
+                "modrinth": "Create: Big Contraptions"
+            },
+            "id": {
+                "curseforge": "877334",
+                "modrinth": "jv0UKGOX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bigcontraptions-neoforge-1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7073/839/bigcontraptions-neoforge-1.0.jar",
+                    "id": "7073839",
+                    "parent_id": "877334",
+                    "hashes": {
+                        "sha1": "cf1af44de7042f26fce74549130e1eb7d937ced8",
+                        "md5": "243786109de23f76881082494c9f0059"
+                    },
+                    "required_dependencies": [],
+                    "size": 5861,
+                    "date_published": "2025-10-06T14:47:37.707Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bigcontraptions-neoforge-1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jv0UKGOX/versions/F92BjGXG/bigcontraptions-neoforge-1.0.jar",
+                    "id": "F92BjGXG",
+                    "parent_id": "jv0UKGOX",
+                    "hashes": {
+                        "sha512": "70830507e68f9c12e6b908d5fc030c960fcd7137078d7abcab48362bd68fa08c01fa7ae4207e5510b87ec47ec69f36d8dd933791a0175765c0cdfefdc138f98e",
+                        "sha1": "cf1af44de7042f26fce74549130e1eb7d937ced8"
+                    },
+                    "required_dependencies": [],
+                    "size": 5861,
+                    "date_published": "2025-10-06T14:47:22.640837Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Po9HujdzGKxheMkY",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-bits-n-bobs",
+                "modrinth": "create-bits-n-bobs"
+            },
+            "name": {
+                "curseforge": "Create: Bits 'n' Bobs",
+                "modrinth": "Create: Bits 'n' Bobs"
+            },
+            "id": {
+                "curseforge": "1398383",
+                "modrinth": "T8bvmqVZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bits_n_bobs-0.0.44.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+                    "id": "7591460",
+                    "parent_id": "1398383",
+                    "hashes": {
+                        "sha1": "2d577eb7e47b860fc32e4ebd33405715252c5072",
+                        "md5": "33956528debb0db78f5410b9e2cbce57"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1613264,
+                    "date_published": "2026-02-07T23:26:13.170Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bits_n_bobs-0.0.44.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+                    "id": "XKDQlGJW",
+                    "parent_id": "T8bvmqVZ",
+                    "hashes": {
+                        "sha512": "147a2d2067918e8e3a70565c7f9a3a08c7040aedf767d31bc646343d2ef3701e3eab1bb4681a4adde1e8c7f8068daeb3170db575edfbc129fa09718d7ac7bc98",
+                        "sha1": "2d577eb7e47b860fc32e4ebd33405715252c5072"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 1613264,
+                    "date_published": "2026-02-07T23:26:13.383404Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "08eqQ8SyhCdmxVON",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-copper-zinc",
+                "modrinth": "create-copper-zinc"
+            },
+            "name": {
+                "curseforge": "Create: Copper & Zinc",
+                "modrinth": "Create: Copper & Zinc"
+            },
+            "id": {
+                "curseforge": "977947",
+                "modrinth": "aqYNR6rI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7454/578/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+                    "id": "7454578",
+                    "parent_id": "977947",
+                    "hashes": {
+                        "sha1": "de1f363ef0ec8aeb6a9dedc1f3d8b3e224400895",
+                        "md5": "4a70e08edb06937a5d0a8ca6386f1bcf"
+                    },
+                    "required_dependencies": [
+                        "624165",
+                        "328085"
+                    ],
+                    "size": 98709,
+                    "date_published": "2026-01-13T13:50:30.703Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+                    "id": "1Z1LCW5Z",
+                    "parent_id": "aqYNR6rI",
+                    "hashes": {
+                        "sha512": "c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9",
+                        "sha1": "de1f363ef0ec8aeb6a9dedc1f3d8b3e224400895"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 98709,
+                    "date_published": "2026-01-13T13:49:07.380762Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uZoYl8QKPj5u9HhB",
             "pakku_links": [
                 "SxeM3dac1hCPryAH"
@@ -3149,6 +3421,74 @@
                     ],
                     "size": 137500,
                     "date_published": "2025-10-08T04:45:24.742184Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FoNQ88CAsKCqvYQX",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "create-liquid-fuel",
+                "modrinth": "create-liquid-fuel"
+            },
+            "name": {
+                "curseforge": "Create: Liquid Fuel",
+                "modrinth": "Create: Liquid Fuel"
+            },
+            "id": {
+                "curseforge": "840734",
+                "modrinth": "sH9tXU9f"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createliquidfuel-2.1.1-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar",
+                    "id": "6521990",
+                    "parent_id": "840734",
+                    "hashes": {
+                        "sha1": "a29f65eb4bbded2ca977a1453f90b6570e812b85",
+                        "md5": "40493b83833af97c8d717084b61e7d62"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 18140,
+                    "date_published": "2025-05-12T10:14:30.197Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "createliquidfuel-2.1.1-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
+                    "id": "7oNrI3y9",
+                    "parent_id": "sH9tXU9f",
+                    "hashes": {
+                        "sha512": "01a8995f09105e1c4cfe001a4674c208c3ed0e82a7612ea3891b2482a9fcbe1ccec185125cf40fd5802d153bbed5f1d7a057aefe40ba750476f3000936d3c71e",
+                        "sha1": "a29f65eb4bbded2ca977a1453f90b6570e812b85"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 18140,
+                    "date_published": "2025-05-12T10:12:35.335737Z"
                 }
             ]
         },
@@ -11890,6 +12230,148 @@
             ]
         },
         {
+            "pakku_id": "tZnV3fK1WfixqAOa",
+            "pakku_links": [
+                "g1X5aAasVEcfX4P7"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-backpacks",
+                "modrinth": "sophisticated-backpacks"
+            },
+            "name": {
+                "curseforge": "Sophisticated Backpacks",
+                "modrinth": "Sophisticated Backpacks"
+            },
+            "id": {
+                "curseforge": "422301",
+                "modrinth": "TyCTlI4b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7954/364/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+                    "id": "7954364",
+                    "parent_id": "422301",
+                    "hashes": {
+                        "sha1": "cd95506848aaa0aa2ad0d3df3274a28cf49bd7d3",
+                        "md5": "8b57ae64d0b6c581b45b10c557e437b9"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 1023170,
+                    "date_published": "2026-04-20T06:39:36.573Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/TiDxy94j/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+                    "id": "TiDxy94j",
+                    "parent_id": "TyCTlI4b",
+                    "hashes": {
+                        "sha512": "5c9eebb9f8446c4574ac9f97b1983da2f09d85d35edf66183fc4c135f05c86ea657981957ad9c9e1db307091415d6c905bac8c21d59737c53adf6a2250874cac",
+                        "sha1": "349e00db69668f50dca80e71ee5ec5f79dbacb99"
+                    },
+                    "required_dependencies": [
+                        "nmoqTijg"
+                    ],
+                    "size": 1023170,
+                    "date_published": "2026-04-20T06:39:47.019782Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "L5S9UwYyGrWyG6F0",
+            "pakku_links": [
+                "tZnV3fK1WfixqAOa",
+                "g1X5aAasVEcfX4P7",
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-backpacks-create-integration",
+                "modrinth": "sophisticated-backpacks-create-integration"
+            },
+            "name": {
+                "curseforge": "Sophisticated Backpacks Create Integration",
+                "modrinth": "Sophisticated Backpacks Create Integration"
+            },
+            "id": {
+                "curseforge": "1238567",
+                "modrinth": "s85zLEDe"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7168/412/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+                    "id": "7168412",
+                    "parent_id": "1238567",
+                    "hashes": {
+                        "sha1": "51851c61e8be5b799b5ad8aa109b3416509605b7",
+                        "md5": "5cbf8fa204808bbc36a96e9364eb067e"
+                    },
+                    "required_dependencies": [
+                        "422301",
+                        "618298",
+                        "328085"
+                    ],
+                    "size": 82316,
+                    "date_published": "2025-10-30T21:53:49.443Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/s85zLEDe/versions/bWd7B59k/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+                    "id": "bWd7B59k",
+                    "parent_id": "s85zLEDe",
+                    "hashes": {
+                        "sha512": "130d9a77f2b43926c9398983740813d268ce58e022a3c8e0eab98ba2439b9d3b2b819b0a845a8eb06bc336bdeb16e86cd4cbe8f7af834c11aaf1ae678977fcac",
+                        "sha1": "6857018b3e2417056c7e7de4ba36fab10369ea17"
+                    },
+                    "required_dependencies": [
+                        "TyCTlI4b",
+                        "nmoqTijg",
+                        "LNytGWDc"
+                    ],
+                    "size": 82315,
+                    "date_published": "2025-10-30T21:54:00.731825Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "g1X5aAasVEcfX4P7",
             "type": "MOD",
             "side": "BOTH",
@@ -12015,6 +12497,80 @@
                     ],
                     "size": 1664233,
                     "date_published": "2026-04-12T16:48:14.211930Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xwJlqsEG5Qb2y14u",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH",
+                "g1X5aAasVEcfX4P7",
+                "Uuz1bvApyHcBGS1I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-storage-create-integration",
+                "modrinth": "sophisticated-storage-create-integration"
+            },
+            "name": {
+                "curseforge": "Sophisticated Storage Create Integration",
+                "modrinth": "Sophisticated Storage Create Integration"
+            },
+            "id": {
+                "curseforge": "1226755",
+                "modrinth": "MJ0hdevs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7941/924/sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+                    "id": "7941924",
+                    "parent_id": "1226755",
+                    "hashes": {
+                        "sha1": "b779e324bbd6b09dbbcbe42bd9b0b189ed775acd",
+                        "md5": "d2c2844e2b5fb02a77e4f29317f29ed1"
+                    },
+                    "required_dependencies": [
+                        "328085",
+                        "618298",
+                        "619320"
+                    ],
+                    "size": 133625,
+                    "date_published": "2026-04-17T21:20:33.543Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MJ0hdevs/versions/AaZXyyfu/sophisticatedstoragecreateintegration-1.21.1-0.1.16.122.jar",
+                    "id": "AaZXyyfu",
+                    "parent_id": "MJ0hdevs",
+                    "hashes": {
+                        "sha512": "48badcd3d5b4a05468a2958b33e590b6c35db8549f87afb9acf31dc2df51a417d325ab5b1cb6de7c4fddf12ff93afda4c089b68c95daa535de131d1e47a919d0",
+                        "sha1": "c34dc24b197cf6b29738d0816d8e7119c3c17d85"
+                    },
+                    "required_dependencies": [
+                        "hMlaZH8f",
+                        "LNytGWDc",
+                        "nmoqTijg"
+                    ],
+                    "size": 133625,
+                    "date_published": "2026-04-17T21:20:48.830586Z"
                 }
             ]
         },
