@@ -5215,7 +5215,7 @@
         {
             "pakku_id": "aaxY5kWSCkv510IT",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "emotecraft-forge",
                 "modrinth": "emotecraft"
@@ -6559,7 +6559,7 @@
         {
             "pakku_id": "Du4lBqMavm6VBIEJ",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geckolib",
                 "modrinth": "geckolib"
