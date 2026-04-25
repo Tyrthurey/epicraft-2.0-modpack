@@ -1,6 +1,6 @@
 name = "Epicraft 2.0"
 author = "Jinko, Tyr, Jura, Cobweb"
-version = "0.19.0"
+version = "0.19.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
