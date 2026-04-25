@@ -3480,7 +3480,7 @@
                 "r2LKgDzKTYcfGlyK"
             ],
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "create-dynamic-lights",
                 "modrinth": "create-dynamic-lights"
