@@ -2,6 +2,9 @@
     "name": "EPICRAFT REBORN",
     "version": "0.0.1",
     "overrides": [
-        "config"
+        "config",
+        "mods",
+        "kubejs",
+        "epicraft_version.txt"
     ]
 }
