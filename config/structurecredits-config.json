@@ -1,0 +1,43 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "trek:overworld/medium/railroad",
+    "mvs:small_tower_well",
+    "mvs:wooden_wheat_farm",
+    "mvs:windmill",
+    "cataclysm:desert_occupied_village",
+    "mvs:ocean_tower",
+    "mvs:large_warped_tower",
+    "iceandfire:pixie_village",
+    "mvs:orange_stall",
+    "philipsruins:lost_soul_city",
+    "mvs:pile",
+    "mvs:horse_campsite",
+    "trek:overworld/common/elven_pillars",
+    "mvs:cartographer_tower",
+    "mss:arena",
+    "mvs:floating_islands",
+    "trek:overworld/medium/witch_tower",
+    "philipsruins:ancient_dungeon",
+    "mvs:barn",
+    "philipsruins:ancient_towers",
+    "mvs:horse_pen",
+    "mvs:spruce_tree",
+    "supplementaries:galleon",
+    "cataclysm:soul_black_smith",
+    "betterfortresses:fortress",
+    "cataclysm:desert_temple"
+  ]
+}
