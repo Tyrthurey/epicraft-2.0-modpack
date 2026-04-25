@@ -8,6 +8,55 @@
     },
     "projects": [
         {
+            "pakku_id": "pT83dCOdX37Iji5N",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "1-to-1-nether"
+            },
+            "name": {
+                "modrinth": "1:1 Nether"
+            },
+            "id": {
+                "modrinth": "n8u2QC56"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "1-to-1-nether-0.1.jar",
+                    "mc_versions": [
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/n8u2QC56/versions/Uez1hGJk/1-to-1-nether-0.1.jar",
+                    "id": "Uez1hGJk",
+                    "parent_id": "n8u2QC56",
+                    "hashes": {
+                        "sha512": "3dcf865c3c019df0fe496b1392b41345a810f7cea2aee32ee47028a05630b2853d3a025321bc9ca8b119f6159fbb9829662b19a47deac9625e26f82e4ef93322",
+                        "sha1": "6e41f0b607ef89d3dbf19319b6894538d18401d9"
+                    },
+                    "required_dependencies": [],
+                    "size": 22301,
+                    "date_published": "2025-05-23T20:48:04.911727Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "yo9VuM0a7vpqvqan",
             "pakku_links": [
                 "JsvzObWzwjNvhNX5",
@@ -1995,6 +2044,77 @@
             ]
         },
         {
+            "pakku_id": "glnyNMUAHbcXHXeD",
+            "pakku_links": [
+                "H7ot3Ln1r7VdoYYo",
+                "fndBDUA9n5uBpamA"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "cataclysm-x-yungs",
+                "modrinth": "cataclysm-x-yungs"
+            },
+            "name": {
+                "curseforge": "Cataclysm x YUNG's Better Nether Fortresses Compat",
+                "modrinth": "Cataclysm x YUNG's Better Nether Fortresses Compat"
+            },
+            "id": {
+                "curseforge": "1348970",
+                "modrinth": "Ut5Iiqct"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cataclysmfortresses-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7141/559/cataclysmfortresses-1.21.1-NeoForge.jar",
+                    "id": "7141559",
+                    "parent_id": "1348970",
+                    "hashes": {
+                        "sha1": "2ed4b70cb80c47fd8b844711fa43abd3ffd14bcf",
+                        "md5": "7115ddba2a35334fdf88f510d74afc1c"
+                    },
+                    "required_dependencies": [
+                        "551586",
+                        "1015118"
+                    ],
+                    "size": 19893,
+                    "date_published": "2025-10-23T16:17:11.173Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cataclysmfortresses-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ut5Iiqct/versions/oHn1zPxT/cataclysmfortresses-1.21.1-NeoForge.jar",
+                    "id": "oHn1zPxT",
+                    "parent_id": "Ut5Iiqct",
+                    "hashes": {
+                        "sha512": "eb78722dee6e98407d313040ec141f7e80fbc26ae471e8883c4bbc90006e1823347b5ae770aea221954d928e75fd204c74c05c7fa0098c45b8656b18da538b58",
+                        "sha1": "2ed4b70cb80c47fd8b844711fa43abd3ffd14bcf"
+                    },
+                    "required_dependencies": [
+                        "Z2mXHnxP",
+                        "46KJle7n"
+                    ],
+                    "size": 19893,
+                    "date_published": "2026-03-17T21:20:33.436096Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FHo3GlwGZegMRUqI",
             "type": "MOD",
             "side": "BOTH",
@@ -3709,6 +3829,69 @@
                     "required_dependencies": [],
                     "size": 133851,
                     "date_published": "2025-12-17T16:56:47.375474Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "doppvM3Hxqs4NQg9",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "cubes-without-borders",
+                "modrinth": "cubes-without-borders"
+            },
+            "name": {
+                "curseforge": "Cubes Without Borders",
+                "modrinth": "Cubes Without Borders"
+            },
+            "id": {
+                "curseforge": "975120",
+                "modrinth": "ETlrkaYF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cwb-neoforge-3.0.0+mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5855/532/cwb-neoforge-3.0.0+mc1.21.jar",
+                    "id": "5855532",
+                    "parent_id": "975120",
+                    "hashes": {
+                        "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343",
+                        "md5": "d4aaf09ad00e99066b049e71ef39fb9d"
+                    },
+                    "required_dependencies": [],
+                    "size": 81843,
+                    "date_published": "2024-10-29T00:27:24.627Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cwb-neoforge-3.0.0+mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0+mc1.21.jar",
+                    "id": "epixUL1j",
+                    "parent_id": "ETlrkaYF",
+                    "hashes": {
+                        "sha512": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04",
+                        "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343"
+                    },
+                    "required_dependencies": [],
+                    "size": 81843,
+                    "date_published": "2024-10-29T00:27:27.215259Z"
                 }
             ]
         },
@@ -5789,6 +5972,71 @@
             ]
         },
         {
+            "pakku_id": "fw34acy9FDqPoldf",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "falling-tree",
+                "modrinth": "fallingtree"
+            },
+            "name": {
+                "curseforge": "FallingTree",
+                "modrinth": "FallingTree"
+            },
+            "id": {
+                "curseforge": "349559",
+                "modrinth": "Fb4jn8m6"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FallingTree-1.21.1-1.21.1.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6835/168/FallingTree-1.21.1-1.21.1.11.jar",
+                    "id": "6835168",
+                    "parent_id": "349559",
+                    "hashes": {
+                        "sha1": "626e7ec3a979dcc15d8e65c53207572c41c1b255",
+                        "md5": "7318bdea54e4c69c1c90650b30fc4bde"
+                    },
+                    "required_dependencies": [],
+                    "size": 496356,
+                    "date_published": "2025-08-01T07:44:58.427Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "FallingTree-1.21.1-1.21.1.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar",
+                    "id": "wxGXaJMA",
+                    "parent_id": "Fb4jn8m6",
+                    "hashes": {
+                        "sha512": "21876b270ca40e3ad6168423f2aba04460f590be191c5558d53e4f542993efa6070589029cb3218557309b096cd920e4da65e53f19687b86c638ec6c342d83e5",
+                        "sha1": "7e1b3ee0ba89b556d5a468797bb1b5f4e2b8ccb7"
+                    },
+                    "required_dependencies": [],
+                    "size": 496356,
+                    "date_published": "2025-08-01T07:43:39.995807Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8deuU92HHSrGdEDg",
             "type": "MOD",
             "side": "CLIENT",
@@ -6614,6 +6862,177 @@
                     "required_dependencies": [],
                     "size": 622582,
                     "date_published": "2026-03-03T20:06:25.035771Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "atD5rlIrsDuBnvQu",
+            "pakku_links": [
+                "lRPji135KAKJu9w6",
+                "rAr5gwOjVwjYy6bi"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "geophilic-backport-vanilla-backport-compact",
+                "modrinth": "geophilic-backport"
+            },
+            "name": {
+                "curseforge": "Geophilic Backport - Vanilla Backport Compact",
+                "modrinth": "Geophilic Backport"
+            },
+            "id": {
+                "curseforge": "1326075",
+                "modrinth": "uTfd4Kbj"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "GeophilicBackported-v1.3.2 1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7821/219/GeophilicBackported-v1.3.2 1.21.1.jar",
+                    "id": "7821219",
+                    "parent_id": "1326075",
+                    "hashes": {
+                        "sha1": "8c40f876a23cf951c4eef1ef9cc81f89184dcae3",
+                        "md5": "96263767191d273656fe812af5380680"
+                    },
+                    "required_dependencies": [
+                        "417430"
+                    ],
+                    "size": 87564,
+                    "date_published": "2026-03-27T05:47:04.117Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "GeophilicBackported-v1.3.2 1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uTfd4Kbj/versions/lc2xtt69/GeophilicBackported-v1.3.2 1.21.1.jar",
+                    "id": "lc2xtt69",
+                    "parent_id": "uTfd4Kbj",
+                    "hashes": {
+                        "sha512": "f98d4bb99240212ea58192b03cc52d0cf655d6135850b6b11145cd4220b56b92439487034e5193374072f0c946d7c3ce9179e5d06425b546246dccd42a7097f4",
+                        "sha1": "8c40f876a23cf951c4eef1ef9cc81f89184dcae3"
+                    },
+                    "required_dependencies": [
+                        "6xwxDTgf",
+                        "i6fiqm5y"
+                    ],
+                    "size": 87564,
+                    "date_published": "2026-03-27T12:57:55.177840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7s9wkjdLOzzKhVg9",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "geophilic",
+                "modrinth": "geophilic"
+            },
+            "name": {
+                "curseforge": "Geophilic – Vanilla Biome Overhauls",
+                "modrinth": "Geophilic"
+            },
+            "id": {
+                "curseforge": "711216",
+                "modrinth": "hl5OLM95"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Geophilic v3.4.6.mod.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7450/707/Geophilic v3.4.6.mod.jar",
+                    "id": "7450707",
+                    "parent_id": "711216",
+                    "hashes": {
+                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5",
+                        "md5": "e0354e4a2630e5467d484a129d047e47"
+                    },
+                    "required_dependencies": [],
+                    "size": 751598,
+                    "date_published": "2026-01-12T14:50:36.237Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Geophilic v3.4.6.mod.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic v3.4.6.mod.jar",
+                    "id": "Vk4cYx6F",
+                    "parent_id": "hl5OLM95",
+                    "hashes": {
+                        "sha512": "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
+                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
+                    },
+                    "required_dependencies": [],
+                    "size": 751598,
+                    "date_published": "2026-01-12T14:44:30.635277Z"
                 }
             ]
         },
@@ -13403,6 +13822,72 @@
             ]
         },
         {
+            "pakku_id": "lRPji135KAKJu9w6",
+            "pakku_links": [
+                "rAr5gwOjVwjYy6bi"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "vanillabackport",
+                "modrinth": "vanillabackport"
+            },
+            "name": {
+                "curseforge": "Vanilla Backport",
+                "modrinth": "Vanilla Backport"
+            },
+            "id": {
+                "curseforge": "417430",
+                "modrinth": "6xwxDTgf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7830/651/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+                    "id": "7830651",
+                    "parent_id": "417430",
+                    "hashes": {
+                        "sha1": "1da63cff572c6ea3127438a7a6ca179e2a16471c",
+                        "md5": "f195138769a5080189ed74eb60b955d3"
+                    },
+                    "required_dependencies": [
+                        "997634"
+                    ],
+                    "size": 27456653,
+                    "date_published": "2026-03-28T18:45:34.320Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/TJ1RI2mA/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+                    "id": "TJ1RI2mA",
+                    "parent_id": "6xwxDTgf",
+                    "hashes": {
+                        "sha512": "dea48d0be304269af459d429a6a048a6a73260cd8f1400d262a96e85d493639992658df174fd6ae4347fd742051244ef4b3c593348f27a727cb7af314b1a4dcd",
+                        "sha1": "1da63cff572c6ea3127438a7a6ca179e2a16471c"
+                    },
+                    "required_dependencies": [],
+                    "size": 27456653,
+                    "date_published": "2026-03-28T18:51:08.705490Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "TSZ9kgBiWH3uu4oN",
             "pakku_links": [
                 "qIKmzxQ6JIaI8PVr"
@@ -13809,6 +14294,48 @@
                     "required_dependencies": [],
                     "size": 388678,
                     "date_published": "2025-07-01T07:08:10.097748Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fndBDUA9n5uBpamA",
+            "pakku_links": [
+                "f1823sVvSMcSuxJe"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "yungs-better-nether-fortresses-neoforge"
+            },
+            "name": {
+                "curseforge": "YUNG's Better Nether Fortresses (NeoForge)"
+            },
+            "id": {
+                "curseforge": "1015118"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6606/621/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                    "id": "6606621",
+                    "parent_id": "1015118",
+                    "hashes": {
+                        "sha1": "4061ece2141475227646649046fc14c2da505922",
+                        "md5": "29c1c85f6c9e55ae75397983fb07b9bb"
+                    },
+                    "required_dependencies": [
+                        "1015100"
+                    ],
+                    "size": 609639,
+                    "date_published": "2025-06-01T23:34:05.203Z"
                 }
             ]
         },
