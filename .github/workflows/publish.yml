@@ -22,7 +22,7 @@ jobs:
 
       - name: Download Pakku JAR
         run: |
-          curl -L -o pakku.jar https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
+          curl -L -o pakku.jar https://github.com/Cobwebblox/Pakku/releases/download/v1.3.5/pakku.jar
           java -jar pakku.jar --version
 
       - name: Configure Pakku credentials

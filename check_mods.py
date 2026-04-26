@@ -57,7 +57,7 @@ MODRINTH_API_URL = "https://api.modrinth.com/v2"
 CURSEFORGE_API_URL = "https://api.curseforge.com/v1"
 ENV_FILE = Path(".env")
 PAKKU_JAR = Path("pakku.jar")
-PAKKU_RELEASES_URL = "https://github.com/juraj-hrivnak/Pakku/releases/latest"
+PAKKU_RELEASES_URL = "https://github.com/Cobwebblox/Pakku/releases/download/v1.3.5"
 
 
 def load_curseforge_only_exceptions() -> set[str]:
