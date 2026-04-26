@@ -1,38 +1,13 @@
 {
   "config_version": "2.0.19",
-  "config_datetime": "2026-04-13_11-40-05",
+  "config_datetime": "2026-04-26_13-04-14",
   "general": {
     "disable_all_structures": false,
-    "prevent_structure_overlap": false,
+    "prevent_structure_overlap": true,
     "enable_global_spacing_and_separation_modifier": true,
-    "global_spacing_and_separation_modifier": 3.0
+    "global_spacing_and_separation_modifier": 1.6
   },
   "structure_namespaces": [],
-  "structures": [
-    {
-      "name": "biomeswevegone:dripstone_arch",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "raw_generation",
-      "terrain_adaptation": "none"
-    },
-    {
-      "name": "biomeswevegone:red_rock_arch",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "raw_generation",
-      "terrain_adaptation": "none"
-    },
-    {
-      "name": "trek:overworld/medium/bone_dragon",
-      "is_disabled": true,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin"
-    }
-  ],
+  "structures": [],
   "structure_sets": []
 }
