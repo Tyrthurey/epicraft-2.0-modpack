@@ -7,5 +7,6 @@
     "client_overrides": [
         "resourcepacks",
         "epicraft_version.txt"
-    ]
+    ],
+    "export_server_side_projects_to_client": true
 }
