@@ -7005,7 +7005,7 @@
                 "rAr5gwOjVwjYy6bi"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geophilic-backport-vanilla-backport-compact",
                 "modrinth": "geophilic-backport"
@@ -11529,7 +11529,7 @@
         {
             "pakku_id": "iZemAM2PgshtLOsa",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "portfolio",
                 "modrinth": "portfolio"
