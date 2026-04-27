@@ -11033,7 +11033,7 @@
         {
             "pakku_id": "WEuI0knj9VboVTca",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "oh-the-trees-youll-grow",
                 "modrinth": "oh-the-trees-youll-grow"
