@@ -1228,7 +1228,7 @@
         {
             "pakku_id": "WDcxnRAosnWK7xdd",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "baguettelib",
                 "modrinth": "baguettelib"
