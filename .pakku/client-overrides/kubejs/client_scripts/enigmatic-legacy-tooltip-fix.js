@@ -5,9 +5,4 @@ ItemEvents.modifyTooltips(event => {
     tooltip.removeLine(2)
     tooltip.insert(2, Text.of('Hold Shift to suppress this effect.').color(0xAA00AA))
   })
-
-  event.modify('enigmaticlegacyplus:angel_blessing', {shift: true}, tooltip => {
-    tooltip.removeLine(4)
-    tooltip.insert(4, Text.of('- Accelerates you upwards.').color(0xFFAA00))
-  })
 })
