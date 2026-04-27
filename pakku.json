@@ -2,10 +2,7 @@
     "name": "EPICRAFT REBORN",
     "version": "0.21.1",
     "overrides": [
-        "mods"
-    ],
-    "client_overrides": [
-        "resourcepacks",
+        "mods",
         "epicraft_version.txt"
     ],
     "export_server_side_projects_to_client": false
