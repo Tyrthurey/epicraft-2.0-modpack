@@ -206,7 +206,7 @@ element {
 
 element {
   interactable = false
-  source = ^^^%n%%n%We have put together a list of good%n%client-side mods that you can pick from!%n%%n%Remember to read the optimization & ram guide!%n%Currently allocated ram: {"placeholder":"maxram"}MB%n%^^^
+  source = ^^^%n%%n%We have put together a list of good%n%client-side mods that you can pick from!%n%%n%Remember to read the optimization guide!%n%Currently allocated ram: {"placeholder":"maxram"}MB%n%(RAM should be at 8192MB or 9216MB)%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
