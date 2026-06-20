@@ -15,6 +15,9 @@
         },
         "trek-mod": {
             "update_strategy": "NONE"
+        },
+        "distant-horizons": {
+            "update_strategy": "NONE"
         }
     }
 }

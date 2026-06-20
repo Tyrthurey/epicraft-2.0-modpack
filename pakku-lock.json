@@ -5948,47 +5948,26 @@
             ]
         },
         {
-            "pakku_id": "Y23JPtlDXkaqqvF8",
+            "pakku_id": "8czrEF92GKDY9OVE",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "distant-horizons",
-                "modrinth": "distanthorizons"
+                "modrinth": "distanthorizons",
+                "curseforge": "distant-horizons"
             },
             "name": {
-                "curseforge": "Distant Horizons: A Level of Detail mod",
-                "modrinth": "Distant Horizons"
+                "modrinth": "Distant Horizons",
+                "curseforge": "Distant Horizons: A Level of Detail mod"
             },
             "id": {
-                "curseforge": "508933",
-                "modrinth": "uCdwusMi"
+                "modrinth": "uCdwusMi",
+                "curseforge": "508933"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/8mUbx4Zi/DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar",
-                    "id": "8mUbx4Zi",
-                    "parent_id": "uCdwusMi",
-                    "hashes": {
-                        "sha512": "7c0f5fc521539452f6b5c940db92e871643ced4e25be5940ddca622e1bfb382e0f361b5df091db28dcaf80d90e837d0cae18efdad0ad4875ab079ee026f745a3",
-                        "sha1": "479b66e9c6acb1f661b7d0b2b49bd5ccaf0e90cf"
-                    },
-                    "required_dependencies": [],
-                    "size": 30139992,
-                    "date_published": "2026-06-17T02:16:34.559646Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar",
+                    "file_name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -5997,16 +5976,38 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8263/48/DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar",
-                    "id": "8263048",
+                    "url": "https://edge.forgecdn.net/files/8037/637/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+                    "id": "8037637",
                     "parent_id": "508933",
                     "hashes": {
-                        "sha1": "479b66e9c6acb1f661b7d0b2b49bd5ccaf0e90cf",
-                        "md5": "8c44bb1b0e02a15bb63c90233d682d5f"
+                        "sha1": "bc865b11c94581949384b6d5820b58aee8b7273c",
+                        "md5": "361d0ee31a685a290d8bf1a4d418bf74"
                     },
                     "required_dependencies": [],
-                    "size": 30139992,
-                    "date_published": "2026-06-17T02:12:51.327Z"
+                    "size": 30113661,
+                    "date_published": "2026-05-04T12:34:00.033Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oYXIfeus/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+                    "id": "oYXIfeus",
+                    "parent_id": "uCdwusMi",
+                    "hashes": {
+                        "sha512": "8b39994ee6c5d71b8afacc80c2d13dd92fad10281374392c0049d1b6aebc823d7e137125268dee7383d3ff753eacf708fbe87d773cf0087d7b6057a05cf18ad3",
+                        "sha1": "bc865b11c94581949384b6d5820b58aee8b7273c"
+                    },
+                    "required_dependencies": [],
+                    "size": 30113661,
+                    "date_published": "2026-05-04T12:36:21.362872Z"
                 }
             ]
         },
