@@ -3,6 +3,7 @@ MoreJS.enchantmentTableChanged(event => {
         "enchantencore:phantom_menace",
         "enchantencore:moonwalk",
         "enchantencore:safe_landing",
+        "enchantencore:pegasus",
         "nova_structures:wax_wings"
     ]
 
