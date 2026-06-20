@@ -11151,6 +11151,77 @@
             ]
         },
         {
+            "pakku_id": "KbhrOzyub6MC96bX",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "lambdynamiclights",
+                "modrinth": "lambdynamiclights"
+            },
+            "name": {
+                "curseforge": "LambDynamicLights",
+                "modrinth": "LambDynamicLights - Dynamic Lights"
+            },
+            "id": {
+                "curseforge": "393442",
+                "modrinth": "yBW8D80W"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lambdynamiclights-4.8.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8252/894/lambdynamiclights-4.8.9+1.21.1.jar",
+                    "id": "8252894",
+                    "parent_id": "393442",
+                    "hashes": {
+                        "sha1": "ff6b59d58cbd88c812a27267e3338b201132ccac",
+                        "md5": "59d7a9f40f68875c5b2d998c02433ff4"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 2022377,
+                    "date_published": "2026-06-15T14:32:11.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lambdynamiclights-4.8.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/nztg2oS2/lambdynamiclights-4.8.9+1.21.1.jar",
+                    "id": "nztg2oS2",
+                    "parent_id": "yBW8D80W",
+                    "hashes": {
+                        "sha512": "1f2ee6ef7faae399c57e45193b505b0dbb05ef1cb1ac4f44879d5d20985ccbbf2e189959033bdd102402ca0d1927310a684c412b9c6143c3a3878324a41658cc",
+                        "sha1": "ff6b59d58cbd88c812a27267e3338b201132ccac"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 2022377,
+                    "date_published": "2026-06-15T14:32:21.627760Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "78shKJjUa6xZkHSv",
             "pakku_links": [
                 "YwtDb2siWrmGkJne"
