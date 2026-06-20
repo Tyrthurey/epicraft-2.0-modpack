@@ -11933,7 +11933,7 @@
             ]
         },
         {
-            "pakku_id": "IKkLL53yGKxbr18J",
+            "pakku_id": "0gjZPi3WgYrGC8lz",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -11950,48 +11950,46 @@
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "LuckPerms-NeoForge-5.4.140.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar",
-                    "id": "rnvg05YO",
-                    "parent_id": "Vebnzrzj",
-                    "hashes": {
-                        "sha512": "50d94c5a9d2635a445a2bd4f2f16c22172678b93315e3d91fa0829349ccd2b02944354af7baa3e6ae0c7bfe19f497b09af461f84aacc93900b59b75a07cd0290",
-                        "sha1": "bd368d3254d81120a8c287f79c0467478ad2d73e"
-                    },
-                    "required_dependencies": [],
-                    "size": 1434674,
-                    "date_published": "2024-08-22T21:33:54.445681Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "LuckPerms-NeoForge-5.4.140.jar",
+                    "file_name": "LuckPerms-NeoForge-5.4.150.jar",
                     "mc_versions": [
-                        "1.21",
-                        "1.21.1"
+                        "1.21.4"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/5654/231/LuckPerms-NeoForge-5.4.140.jar",
-                    "id": "5654231",
+                    "url": "https://edge.forgecdn.net/files/5971/552/LuckPerms-NeoForge-5.4.150.jar",
+                    "id": "5971552",
                     "parent_id": "431733",
                     "hashes": {
-                        "sha1": "bd368d3254d81120a8c287f79c0467478ad2d73e",
-                        "md5": "a1ac9ccab8de6d2227896c33efa4c63b"
+                        "sha1": "fe155d730150d7ee4d707916ed23efe99fdeaac3",
+                        "md5": "5e48a43eb7edeb4756f0717043f246df"
                     },
                     "required_dependencies": [],
-                    "size": 1434674,
-                    "date_published": "2024-08-22T21:33:46.860Z"
+                    "size": 1433955,
+                    "date_published": "2024-12-07T16:34:01.967Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "LuckPerms-NeoForge-5.4.150.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
+                    "id": "dKAPoPGd",
+                    "parent_id": "Vebnzrzj",
+                    "hashes": {
+                        "sha512": "26de0e74d87b91acf3b71050ed1880a50ffd1809b3a1309a2e24bee5413193f27a5056e13b69d8f39085e28711244c02bc5fc329be13174abb520008a0ca9682",
+                        "sha1": "fe155d730150d7ee4d707916ed23efe99fdeaac3"
+                    },
+                    "required_dependencies": [],
+                    "size": 1433955,
+                    "date_published": "2024-12-07T16:34:09.437875Z"
                 }
             ]
         },
