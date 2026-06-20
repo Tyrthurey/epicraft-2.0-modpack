@@ -14024,6 +14024,42 @@
             ]
         },
         {
+            "pakku_id": "UXgSVOssT9qBaGVi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "neo-blahaj"
+            },
+            "name": {
+                "curseforge": "Neo-Blåhaj"
+            },
+            "id": {
+                "curseforge": "1212141"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "blahaj-neoforge-1.21.1-2.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6264/355/blahaj-neoforge-1.21.1-2.0.2.jar",
+                    "id": "6264355",
+                    "parent_id": "1212141",
+                    "hashes": {
+                        "sha1": "8d6d1c2036cdf09e203ac1aa34bd7d4144e2e372",
+                        "md5": "e97f3b64a04dce507ae785ee174bbcce"
+                    },
+                    "required_dependencies": [],
+                    "size": 84715,
+                    "date_published": "2025-03-04T17:24:03.777Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "XduYwHnu5hIZzL9G",
             "pakku_links": [
                 "D8MMU1HQRGQ7v0co"
