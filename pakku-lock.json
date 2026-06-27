@@ -18428,26 +18428,26 @@
             ]
         },
         {
-            "pakku_id": "RANd3a2rVA7Gz5WY",
+            "pakku_id": "fzbdbj6en85Zo4xg",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "trek-mod",
-                "modrinth": "trek-mod"
+                "modrinth": "trek"
             },
             "name": {
                 "curseforge": "Trek",
-                "modrinth": "Trek-mod"
+                "modrinth": "Trek"
             },
             "id": {
                 "curseforge": "1418999",
-                "modrinth": "CTNqu8TU"
+                "modrinth": "h2jngREY"
             },
             "redistributable": false,
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "trek-B0.6.jar",
+                    "file_name": "trek-B0.6.2.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.8",
@@ -18468,16 +18468,55 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7715/726/trek-B0.6.jar",
-                    "id": "7715726",
+                    "url": "https://edge.forgecdn.net/files/8296/269/trek-B0.6.2.jar",
+                    "id": "8296269",
                     "parent_id": "1418999",
                     "hashes": {
-                        "sha1": "546a8e4052217d906c707b45d94b53e82b071482",
-                        "md5": "e5ba8ad4e5a721b5cb350f57c5c712d9"
+                        "sha1": "e83cbdbe987129cb039ead47d11994d8cbdb1ade",
+                        "md5": "ea56562a0c3d6abbde517c560527954f"
                     },
                     "required_dependencies": [],
-                    "size": 25458242,
-                    "date_published": "2026-03-05T18:56:36.283Z"
+                    "size": 12461621,
+                    "date_published": "2026-06-21T20:57:53.653Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trek-B0.6.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/h2jngREY/versions/OYbFzi8L/trek-B0.6.2.jar",
+                    "id": "OYbFzi8L",
+                    "parent_id": "h2jngREY",
+                    "hashes": {
+                        "sha512": "17f35802c2f8dbae026153718b6d40a2b4c3ae1558e6e87500ecffe859fe2e607e00b3be76b8c8cbee7da932a042ebe5a279df9929fb7b51000ea1af49fcc1c9",
+                        "sha1": "e83cbdbe987129cb039ead47d11994d8cbdb1ade"
+                    },
+                    "required_dependencies": [],
+                    "size": 12461621,
+                    "date_published": "2026-06-16T18:44:50.653522Z"
                 }
             ]
         },
