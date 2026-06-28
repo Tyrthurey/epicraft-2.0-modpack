@@ -255,12 +255,12 @@
             ]
         },
         {
-            "pakku_id": "8dGrvBPpK3SWnAaK",
+            "pakku_id": "Qm76T4M88WRydzsp",
             "pakku_links": [
-                "R61UicyXmxN7rKms",
-                "UgbPmvkTUfymm0Gf",
                 "Du4lBqMavm6VBIEJ",
                 "d8qEfS8jPpfzneYi",
+                "R61UicyXmxN7rKms",
+                "UgbPmvkTUfymm0Gf",
                 "njT19g1bjdHpTJAi"
             ],
             "type": "MOD",
@@ -280,35 +280,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "adorablehamsterpets-3.6.0-1.21.1+neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/LmrhZdK2/versions/YtAMyMxt/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar",
-                    "id": "YtAMyMxt",
-                    "parent_id": "LmrhZdK2",
-                    "hashes": {
-                        "sha512": "9bf505ecc9dd5920fbfdb90fa86eeea279c9f24e05047c9a21f943aea6b5b6ce24cb48fdb409f0527599c45c45b97e810d3774c278c42628a97e0d0754f986d8",
-                        "sha1": "52ce78209a420c15b3e90cb63d8c9a8680e429f2"
-                    },
-                    "required_dependencies": [
-                        "nU0bVIaL",
-                        "8BmcQJ2H",
-                        "lhGA9TYQ",
-                        "hYykXjDp",
-                        "ordsPcFz"
-                    ],
-                    "size": 6217494,
-                    "date_published": "2026-04-23T00:02:49.990743Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "adorablehamsterpets-3.6.0-1.21.1+neoforge.jar",
+                    "file_name": "adorablehamsterpets-3.5.0-1.21.1+neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -316,22 +289,49 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7969/763/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar",
-                    "id": "7969763",
+                    "url": "https://edge.forgecdn.net/files/7596/104/adorablehamsterpets-3.5.0-1.21.1+neoforge.jar",
+                    "id": "7596104",
                     "parent_id": "1306061",
                     "hashes": {
-                        "sha1": "52ce78209a420c15b3e90cb63d8c9a8680e429f2",
-                        "md5": "9ffc2574643c02b86c151006dadb8497"
+                        "sha1": "109531ca8dc2e15f49e59c32fc662e05b840a1c8",
+                        "md5": "162102a7195a9f91526848d0b19ccee5"
                     },
                     "required_dependencies": [
-                        "1005914",
                         "388172",
                         "351264",
                         "419699",
+                        "1005914",
                         "306770"
                     ],
-                    "size": 6217494,
-                    "date_published": "2026-04-23T00:02:47.023Z"
+                    "size": 5860655,
+                    "date_published": "2026-02-08T20:14:02.140Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "adorablehamsterpets-3.5.0-1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/LmrhZdK2/versions/npUdncph/adorablehamsterpets-3.5.0-1.21.1+neoforge.jar",
+                    "id": "npUdncph",
+                    "parent_id": "LmrhZdK2",
+                    "hashes": {
+                        "sha512": "058828a6173bf80406718bfb0bb56ef7247ba7ed8961cd18c4f7ba3415eb69dd932793ec58128cf567f909710396bcb4ecef8ef4486fea6ed0e23a8552137ac8",
+                        "sha1": "109531ca8dc2e15f49e59c32fc662e05b840a1c8"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz",
+                        "nU0bVIaL",
+                        "lhGA9TYQ",
+                        "8BmcQJ2H",
+                        "hYykXjDp"
+                    ],
+                    "size": 5860655,
+                    "date_published": "2026-02-08T20:14:05.531300Z"
                 }
             ]
         },
