@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = Lake
+  speed = 1
+  fov = 85.0
+  angle = 15
+  start_rotation = 15
+}
