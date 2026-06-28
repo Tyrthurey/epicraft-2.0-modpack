@@ -16563,7 +16563,7 @@
             ]
         },
         {
-            "pakku_id": "xHJy9YgeqlgNYGKt",
+            "pakku_id": "b7nmAW9jpxxgZXku",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -16581,29 +16581,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xPYbAPfz/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
-                    "id": "xPYbAPfz",
-                    "parent_id": "zV5r3pPn",
-                    "hashes": {
-                        "sha512": "c017d098874697ba93a03c06cfb4fe8a8bbc619448bff55c3c821089b164677fae2c8c2059e99fc9933af6ff519759c399deae763b1ac9e34593cd6e4f427f3a",
-                        "sha1": "d688d428ba72a5bd57b44d8954793c59d8576838"
-                    },
-                    "required_dependencies": [],
-                    "size": 1979027,
-                    "date_published": "2026-06-18T18:52:32.927972Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+                    "file_name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -16611,16 +16590,37 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8274/824/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
-                    "id": "8274824",
+                    "url": "https://edge.forgecdn.net/files/7668/933/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
+                    "id": "7668933",
                     "parent_id": "521480",
                     "hashes": {
-                        "sha1": "d688d428ba72a5bd57b44d8954793c59d8576838",
-                        "md5": "3dcd70a8c73100efefc23167bf6c1000"
+                        "sha1": "0a4fede95e0369bd54c45c6e1b8ceb90071315f6",
+                        "md5": "a725c53fd9d7ac5411181d9862e375cf"
                     },
                     "required_dependencies": [],
-                    "size": 1979027,
-                    "date_published": "2026-06-18T18:52:31.297Z"
+                    "size": 1967305,
+                    "date_published": "2026-02-23T18:54:21.427Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/vj8UV3SS/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
+                    "id": "vj8UV3SS",
+                    "parent_id": "zV5r3pPn",
+                    "hashes": {
+                        "sha512": "f520d93a336b835e90da1667a2a14aa32dccd38544a2f0aaf382927b9521afb0df6d9fa909404dae9c63dc53657ed79ce8fbe0309064b1831beed74db3ca35c8",
+                        "sha1": "0a4fede95e0369bd54c45c6e1b8ceb90071315f6"
+                    },
+                    "required_dependencies": [],
+                    "size": 1967305,
+                    "date_published": "2026-02-23T18:54:23.269075Z"
                 }
             ]
         },
