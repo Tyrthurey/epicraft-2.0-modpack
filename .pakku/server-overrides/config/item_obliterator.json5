@@ -17,9 +17,6 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
 	"minecraft:tnt",
-	
-    "enigmaticlegacyplus:cursed_ring",
-    "enigmaticlegacyplus:unwitnessed_amulet",
     
 	"plushie_buddies:plushie_chewie",
     "plushie_buddies:plushie_dark_father",
