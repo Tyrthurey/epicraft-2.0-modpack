@@ -14202,6 +14202,76 @@
             ]
         },
         {
+            "pakku_id": "c2ZC2FwFMnqabrNL",
+            "pakku_links": [
+                "ARtKNL5qWutdWq2f"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mystical-agriculture",
+                "modrinth": "mystical-agriculture"
+            },
+            "name": {
+                "curseforge": "Mystical Agriculture",
+                "modrinth": "Mystical Agriculture"
+            },
+            "id": {
+                "curseforge": "246640",
+                "modrinth": "C95ReXie"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MysticalAgriculture-1.21.1-8.0.28.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8796/913/MysticalAgriculture-1.21.1-8.0.28.jar",
+                    "id": "8796913",
+                    "parent_id": "246640",
+                    "hashes": {
+                        "sha1": "4f8b9221eb85afdbeeb514e144491c28504cb24e",
+                        "md5": "047334c06ed8d1445b638a1cf80f5f03"
+                    },
+                    "required_dependencies": [
+                        "272335"
+                    ],
+                    "size": 2324648,
+                    "date_published": "2026-09-03T02:24:27.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MysticalAgriculture-1.21.1-8.0.28.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/C95ReXie/versions/PLakgT6X/MysticalAgriculture-1.21.1-8.0.28.jar",
+                    "id": "PLakgT6X",
+                    "parent_id": "C95ReXie",
+                    "hashes": {
+                        "sha512": "49d8ffe1d3ff51fb778949b480070b041f607b452e56ce8b50fe0ae992fce210a2077d45a550fc5976c2964b6551dd44ed0ccd8ff3b7859b091c546642a09632",
+                        "sha1": "4f8b9221eb85afdbeeb514e144491c28504cb24e"
+                    },
+                    "required_dependencies": [
+                        "Rw1NrDzF"
+                    ],
+                    "size": 2324648,
+                    "date_published": "2026-09-03T02:24:29.339013Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dU6YXqgJ6miVzOAm",
             "type": "MOD",
             "side": "SERVER",
