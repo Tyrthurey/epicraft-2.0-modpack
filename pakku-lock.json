@@ -7848,6 +7848,67 @@
             ]
         },
         {
+            "pakku_id": "C2Sr23OZwCo42I4o",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "exposure",
+                "modrinth": "exposure"
+            },
+            "name": {
+                "curseforge": "Exposure",
+                "modrinth": "Exposure"
+            },
+            "id": {
+                "curseforge": "871755",
+                "modrinth": "hB899VmG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "exposure-neoforge-1.21.1-1.9.19.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8957/0/exposure-neoforge-1.21.1-1.9.19.jar",
+                    "id": "8957000",
+                    "parent_id": "871755",
+                    "hashes": {
+                        "sha1": "181d328a0328523fa99dd310937c40d917e91029",
+                        "md5": "1a71e20f6551adf0780f61037d6cefac"
+                    },
+                    "required_dependencies": [],
+                    "size": 2206392,
+                    "date_published": "2026-09-23T16:47:34.817Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "exposure-neoforge-1.21.1-1.9.19.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/iBvaR6AK/exposure-neoforge-1.21.1-1.9.19.jar",
+                    "id": "iBvaR6AK",
+                    "parent_id": "hB899VmG",
+                    "hashes": {
+                        "sha512": "b6b18638d61196c3b579dcb5cd977b125586c848822ffa3bb247b3d34dc019e3ca53629303cbb57c0875f7e29be30ae036e81d90dd8feb5dd87090b2b81c08b7",
+                        "sha1": "181d328a0328523fa99dd310937c40d917e91029"
+                    },
+                    "required_dependencies": [],
+                    "size": 2206392,
+                    "date_published": "2026-09-23T16:47:35.084404Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fw34acy9FDqPoldf",
             "type": "MOD",
             "side": "SERVER",
