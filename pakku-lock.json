@@ -8040,6 +8040,47 @@
             ]
         },
         {
+            "pakku_id": "UQFtJnar6F9aGdut",
+            "pakku_links": [
+                "R61UicyXmxN7rKms"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-library-forge"
+            },
+            "name": {
+                "curseforge": "FTB Library (NeoForge)"
+            },
+            "id": {
+                "curseforge": "404465"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-library-neoforge-2101.1.33.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8438/216/ftb-library-neoforge-2101.1.33.jar",
+                    "id": "8438216",
+                    "parent_id": "404465",
+                    "hashes": {
+                        "sha1": "a653118630fa17ed37d67b0beddc5984c760fc72",
+                        "md5": "158135e24d43c8d6a40804751cdea038"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 1425984,
+                    "date_published": "2026-07-15T15:19:04.713Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fw34acy9FDqPoldf",
             "type": "MOD",
             "side": "SERVER",
