@@ -2795,6 +2795,79 @@
             ]
         },
         {
+            "pakku_id": "okvGtKwBuuSjkG4y",
+            "pakku_links": [
+                "yvI7LreayztrNh5w",
+                "bDAhLOfJPFfZ19Y9"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "chunk-loaders",
+                "modrinth": "chunk-loaders"
+            },
+            "name": {
+                "curseforge": "Chunk Loaders",
+                "modrinth": "Chunk Loaders"
+            },
+            "id": {
+                "curseforge": "402924",
+                "modrinth": "t1VgucWo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6832/703/chunkloaders-1.2.9-neoforge-mc1.21.jar",
+                    "id": "6832703",
+                    "parent_id": "402924",
+                    "hashes": {
+                        "sha1": "2023e5176f180e56a6769c7f5518ff3dd2c6ade6",
+                        "md5": "bbcf86deeeaf92a37463251051caa6d0"
+                    },
+                    "required_dependencies": [
+                        "438332",
+                        "454372"
+                    ],
+                    "size": 146058,
+                    "date_published": "2025-07-31T15:26:48.740Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t1VgucWo/versions/lVVhQRyh/chunkloaders-1.2.9-neoforge-mc1.21.jar",
+                    "id": "lVVhQRyh",
+                    "parent_id": "t1VgucWo",
+                    "hashes": {
+                        "sha512": "3cd043e66f5b8fbbf81ae690d4d76fc9f11088e3b0e1c7a3693d3dee5d089ab10e787eab80132857d0c42b67f08f5566ebc0dd37b89e64063c7d9ba1592b7cee",
+                        "sha1": "2023e5176f180e56a6769c7f5518ff3dd2c6ade6"
+                    },
+                    "required_dependencies": [
+                        "rOUBggPv",
+                        "LN9BxssP"
+                    ],
+                    "size": 146058,
+                    "date_published": "2025-07-31T15:26:48.308376Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dLVdIi3jeLmNofYi",
             "type": "MOD",
             "side": "SERVER",
