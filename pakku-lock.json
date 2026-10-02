@@ -5232,6 +5232,74 @@
             ]
         },
         {
+            "pakku_id": "x4k99D0bwCNs08Li",
+            "pakku_links": [
+                "Du4lBqMavm6VBIEJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cult-of-azazel",
+                "modrinth": "cult-of-azazel"
+            },
+            "name": {
+                "curseforge": "Cult of Azazel",
+                "modrinth": "Cult of Azazel"
+            },
+            "id": {
+                "curseforge": "1571005",
+                "modrinth": "tnd2BYam"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cultofazazelneoforge-1.1.4.12.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8655/331/cultofazazelneoforge-1.1.4.12.jar",
+                    "id": "8655331",
+                    "parent_id": "1571005",
+                    "hashes": {
+                        "sha1": "fae73bb61db8d7b0f3dc5d7d446db8344679ac30",
+                        "md5": "0f9751ee8ca523f407ad3d72f6c4b4eb"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 10920502,
+                    "date_published": "2026-08-15T16:01:44.677Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cultofazazelneoforge-1.1.4.12.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tnd2BYam/versions/soOXKDV6/cultofazazelneoforge-1.1.4.12.jar",
+                    "id": "soOXKDV6",
+                    "parent_id": "tnd2BYam",
+                    "hashes": {
+                        "sha512": "2aeb0897ee87d68a585203fc5ec0392279721e01dbaabb2a53c6eaf0aaa8934d4ef2cc869b72c1b24e3adc1617f189af121053c69ee801874f5d79251de31f58",
+                        "sha1": "fae73bb61db8d7b0f3dc5d7d446db8344679ac30"
+                    },
+                    "required_dependencies": [
+                        "8BmcQJ2H"
+                    ],
+                    "size": 10920502,
+                    "date_published": "2026-08-15T16:00:49.281384Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "R5Y3IBlx5DZFmgA9",
             "type": "MOD",
             "side": "BOTH",
