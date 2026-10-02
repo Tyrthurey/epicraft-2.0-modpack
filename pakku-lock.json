@@ -8210,6 +8210,47 @@
             ]
         },
         {
+            "pakku_id": "WnuBxRaqw56LNVTy",
+            "pakku_links": [
+                "UQFtJnar6F9aGdut"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-xmod-compat"
+            },
+            "name": {
+                "curseforge": "FTB XMod Compat"
+            },
+            "id": {
+                "curseforge": "889915"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-xmod-compat-neoforge-21.1.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8438/602/ftb-xmod-compat-neoforge-21.1.9.jar",
+                    "id": "8438602",
+                    "parent_id": "889915",
+                    "hashes": {
+                        "sha1": "0c8caa1d5e6954d71aa114f377bbc79ba83e1faf",
+                        "md5": "b964c7938ee36bfddf57a61b387be2a8"
+                    },
+                    "required_dependencies": [
+                        "404465"
+                    ],
+                    "size": 150617,
+                    "date_published": "2026-07-15T16:19:39.393Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fw34acy9FDqPoldf",
             "type": "MOD",
             "side": "SERVER",
