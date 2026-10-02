@@ -8081,6 +8081,51 @@
             ]
         },
         {
+            "pakku_id": "i5gwQeYYVh9WpndA",
+            "pakku_links": [
+                "R61UicyXmxN7rKms",
+                "VSAMg1QmovI3lmWs",
+                "UQFtJnar6F9aGdut"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-quests-forge"
+            },
+            "name": {
+                "curseforge": "FTB Quests (NeoForge)"
+            },
+            "id": {
+                "curseforge": "289412"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-quests-neoforge-2101.1.27.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8253/474/ftb-quests-neoforge-2101.1.27.jar",
+                    "id": "8253474",
+                    "parent_id": "289412",
+                    "hashes": {
+                        "sha1": "baf3a7f173d09c2b9800626109cf6ca5a52a6c19",
+                        "md5": "f8c830e936950af31fa89eb66a8aaffe"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "404468",
+                        "404465"
+                    ],
+                    "size": 1470929,
+                    "date_published": "2026-06-15T16:52:56.447Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VSAMg1QmovI3lmWs",
             "pakku_links": [
                 "UQFtJnar6F9aGdut",
