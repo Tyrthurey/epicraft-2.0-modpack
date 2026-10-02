@@ -5232,6 +5232,69 @@
             ]
         },
         {
+            "pakku_id": "ARtKNL5qWutdWq2f",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cucumber",
+                "modrinth": "cucumber"
+            },
+            "name": {
+                "curseforge": "Cucumber Library",
+                "modrinth": "Cucumber Library"
+            },
+            "id": {
+                "curseforge": "272335",
+                "modrinth": "Rw1NrDzF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cucumber-1.21.1-8.0.16.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8035/802/Cucumber-1.21.1-8.0.16.jar",
+                    "id": "8035802",
+                    "parent_id": "272335",
+                    "hashes": {
+                        "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06",
+                        "md5": "3676382650b6ad5914dce9e3c451c9f0"
+                    },
+                    "required_dependencies": [],
+                    "size": 275588,
+                    "date_published": "2026-05-04T02:17:14.053Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Cucumber-1.21.1-8.0.16.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Rw1NrDzF/versions/8421rqFF/Cucumber-1.21.1-8.0.16.jar",
+                    "id": "8421rqFF",
+                    "parent_id": "Rw1NrDzF",
+                    "hashes": {
+                        "sha512": "fbc63f23f827061b2a45f33a3867e105268b5a51d9ca92ba3bacd2e2a0af847eb4c367e726a62a455b841e503f8ce73ea9e180285670ddf3ec18a8ba4e72da7d",
+                        "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06"
+                    },
+                    "required_dependencies": [],
+                    "size": 275588,
+                    "date_published": "2026-05-04T02:17:15.448018Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "x4k99D0bwCNs08Li",
             "pakku_links": [
                 "Du4lBqMavm6VBIEJ"
