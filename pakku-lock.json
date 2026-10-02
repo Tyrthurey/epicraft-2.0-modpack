@@ -8040,6 +8040,47 @@
             ]
         },
         {
+            "pakku_id": "8HYH24B70nzfSW5R",
+            "pakku_links": [
+                "R61UicyXmxN7rKms"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-filter-system"
+            },
+            "name": {
+                "curseforge": "FTB Filter System"
+            },
+            "id": {
+                "curseforge": "943925"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-filter-system-neoforge-21.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7429/11/ftb-filter-system-neoforge-21.1.4.jar",
+                    "id": "7429011",
+                    "parent_id": "943925",
+                    "hashes": {
+                        "sha1": "a48e54edeacc59aaba29a1b627799c052112ee0b",
+                        "md5": "3ffbb42f64dd6f7d850acb032b6eb90c"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 211671,
+                    "date_published": "2026-01-07T10:07:52.530Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UQFtJnar6F9aGdut",
             "pakku_links": [
                 "R61UicyXmxN7rKms"
