@@ -8081,6 +8081,49 @@
             ]
         },
         {
+            "pakku_id": "VSAMg1QmovI3lmWs",
+            "pakku_links": [
+                "UQFtJnar6F9aGdut",
+                "R61UicyXmxN7rKms"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ftb-teams-forge"
+            },
+            "name": {
+                "curseforge": "FTB Teams (NeoForge)"
+            },
+            "id": {
+                "curseforge": "404468"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ftb-teams-neoforge-2101.1.10.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
+                    "id": "7878281",
+                    "parent_id": "404468",
+                    "hashes": {
+                        "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225",
+                        "md5": "6e956386dd563e4ab7a76e72ba627d5a"
+                    },
+                    "required_dependencies": [
+                        "404465",
+                        "419699"
+                    ],
+                    "size": 302712,
+                    "date_published": "2026-04-05T08:31:58.663Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fw34acy9FDqPoldf",
             "type": "MOD",
             "side": "SERVER",
