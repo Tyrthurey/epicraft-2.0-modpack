@@ -1463,6 +1463,69 @@
             ]
         },
         {
+            "pakku_id": "muSV6APmAit7ZrQf",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "beautiful-enchanted-books",
+                "modrinth": "beautiful-enchanted-books-mod-edition"
+            },
+            "name": {
+                "curseforge": "Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!",
+                "modrinth": "Beautiful Enchanted Books [MOD EDITION]"
+            },
+            "id": {
+                "curseforge": "1083202",
+                "modrinth": "pcqEicMM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BEB-NeoForge-1.21-6.0.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7268/159/BEB-NeoForge-1.21-6.0.0.jar",
+                    "id": "7268159",
+                    "parent_id": "1083202",
+                    "hashes": {
+                        "sha1": "4a1828c61a420b3ef1b759b9cbe595de5c85a48e",
+                        "md5": "a2a7d976cea32cbb7e581440f78a8fb1"
+                    },
+                    "required_dependencies": [],
+                    "size": 1772579,
+                    "date_published": "2025-11-27T15:37:40.103Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BEB-NeoForge-1.21-6.0.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pcqEicMM/versions/XeLhIDWZ/BEB-NeoForge-1.21-6.0.0.jar",
+                    "id": "XeLhIDWZ",
+                    "parent_id": "pcqEicMM",
+                    "hashes": {
+                        "sha512": "7cc5dc954d19c9f483254ddad0ac31d263c173d9c179931b5fc024c00badf6838ee131ccde5b15a7d10c9cabd1a9f70e894a5d39720fcaa30fd96efca33fc46a",
+                        "sha1": "4a1828c61a420b3ef1b759b9cbe595de5c85a48e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1772579,
+                    "date_published": "2025-11-27T15:48:58.684403Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DIQJthluuBfdkpwE",
             "pakku_links": [
                 "x0KnaKvt7WxxOBK2"
