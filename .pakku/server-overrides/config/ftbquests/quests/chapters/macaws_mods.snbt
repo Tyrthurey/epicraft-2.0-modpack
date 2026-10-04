@@ -1,0 +1,248 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "macaws_mods"
+	group: "32E674356FEBA5BF"
+	icon: {
+		id: "mcwbridges:spruce_log_bridge_middle"
+	}
+	id: "257D24B2A4F0B10F"
+	images: [{
+		height: 12.0d
+		image: "kubejs:item/macaw_mods_background"
+		rotation: 0.0d
+		width: 12.0d
+		x: 0.0d
+		y: -0.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5BBE92D62C2208CA"
+			tasks: [{
+				id: "76AFF6A5EB5303D1"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwpaths)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "0A45854EF9407642"
+			tasks: [{
+				id: "77B74C1EC839D943"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwbridges)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			id: "460EEFDAFA9855EE"
+			tasks: [{
+				id: "3D9BFC754A7DCB72"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwfences)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "2F9EAE6977445081"
+			tasks: [{
+				id: "2547AD6AEBF30AB5"
+				item: { components: { "ftbfiltersystem:filter": "mod(mcwtrpdoors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "3AB439613DFACA55"
+			tasks: [{
+				id: "76D2C045A4517523"
+				item: { count: 1, id: "mcwbridges:bridge_lantern" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "6F7606506CF4C8F7"
+			tasks: [{
+				id: "03DA7318F930F35D"
+				item: { count: 1, id: "mcwbridges:bridge_torch" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5BBE92D62C2208CA"]
+			id: "45296A37665C98FA"
+			tasks: [{
+				id: "706EFBE97011915B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwpaths:oak_planks_path)item(mcwpaths:spruce_planks_path)item(mcwpaths:birch_planks_path)item(mcwpaths:jungle_planks_path)item(mcwpaths:acacia_planks_path)item(mcwpaths:dark_oak_planks_path)item(mcwpaths:crimson_planks_path)item(mcwpaths:warped_planks_path)item(mcwpaths:mangrove_planks_path)item(mcwpaths:cherry_planks_path)item(mcwpaths:bamboo_planks_path))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5BBE92D62C2208CA"]
+			id: "60B29C06A0BF70D6"
+			tasks: [{
+				id: "761CB53671F5699F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwpaths:andesite_strewn_rocky_path)item(mcwpaths:diorite_strewn_rocky_path)item(mcwpaths:granite_strewn_rocky_path)item(mcwpaths:sandstone_strewn_rocky_path)item(mcwpaths:red_sandstone_strewn_rocky_path)item(mcwpaths:brick_strewn_rocky_path)item(mcwpaths:stone_strewn_rocky_path)item(mcwpaths:mossy_stone_strewn_rocky_path)item(mcwpaths:cobbled_deepslate_strewn_rocky_path)item(mcwpaths:deepslate_strewn_rocky_path)item(mcwpaths:mud_brick_strewn_rocky_path)item(mcwpaths:blackstone_strewn_rocky_path)item(mcwpaths:dark_prismarine_strewn_rocky_path))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5BBE92D62C2208CA"]
+			id: "5F9559B9C631C87D"
+			tasks: [{
+				id: "31EB6938817AF388"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwpaths:podzol_path_block)item(mcwpaths:dirt_path_block)item(mcwpaths:gravel_path_block)item(mcwpaths:sand_path_block)item(mcwpaths:red_sand_path_block))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "2268A265C8E7BA0F"
+			tasks: [{
+				id: "19761F406952D7FD"
+				item: { count: 1, id: "mcwbridges:pliers" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "6748D6C7055EEA31"
+			tasks: [{
+				id: "13A3644C7A046459"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwbridges:iron_bridge_pier)item(mcwbridges:oak_bridge_pier)item(mcwbridges:spruce_bridge_pier)item(mcwbridges:birch_bridge_pier)item(mcwbridges:jungle_bridge_pier)item(mcwbridges:acacia_bridge_pier)item(mcwbridges:dark_oak_bridge_pier)item(mcwbridges:crimson_bridge_pier)item(mcwbridges:warped_bridge_pier)item(mcwbridges:mangrove_bridge_pier)item(mcwbridges:cherry_bridge_pier)item(mcwbridges:brick_bridge_pier)item(mcwbridges:sandstone_bridge_pier)item(mcwbridges:stone_bridge_pier)item(mcwbridges:red_sandstone_bridge_pier)item(mcwbridges:blackstone_bridge_pier)item(mcwbridges:mossy_stone_bridge_pier)item(mcwbridges:deepslate_brick_bridge_pier)item(mcwbridges:deepslate_tile_bridge_pier)item(mcwbridges:mud_brick_bridge_pier)item(mcwbridges:bamboo_bridge_pier)item(mcwbridges:dry_bamboo_bridge_pier))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "6AFB7315EFCC2167"
+			tasks: [{
+				id: "3552C76A91AC7989"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwbridges:iron_bridge_stair)item(mcwbridges:oak_log_bridge_stair)item(mcwbridges:spruce_log_bridge_stair)item(mcwbridges:birch_log_bridge_stair)item(mcwbridges:jungle_log_bridge_stair)item(mcwbridges:acacia_log_bridge_stair)item(mcwbridges:dark_oak_log_bridge_stair)item(mcwbridges:crimson_log_bridge_stair)item(mcwbridges:warped_log_bridge_stair)item(mcwbridges:mangrove_log_bridge_stair)item(mcwbridges:cherry_log_bridge_stair))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0A45854EF9407642"]
+			id: "31B7B6996DEB9577"
+			tasks: [{
+				id: "5410CE1BE7FED4BC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwbridges:rope_oak_bridge)item(mcwbridges:rope_birch_bridge)item(mcwbridges:rope_spruce_bridge)item(mcwbridges:rope_jungle_bridge)item(mcwbridges:rope_acacia_bridge)item(mcwbridges:rope_dark_oak_bridge)item(mcwbridges:rope_crimson_bridge)item(mcwbridges:rope_warped_bridge)item(mcwbridges:rope_mangrove_bridge)item(mcwbridges:rope_cherry_bridge))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F9EAE6977445081"]
+			id: "6C09E3BBF37E0CB8"
+			tasks: [{
+				id: "1C610610CE7B18E4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwtrpdoors:print_classic)item(mcwtrpdoors:print_cottage)item(mcwtrpdoors:print_paper)item(mcwtrpdoors:print_beach)item(mcwtrpdoors:print_tropical)item(mcwtrpdoors:print_four_panel)item(mcwtrpdoors:print_barred)item(mcwtrpdoors:print_mystic)item(mcwtrpdoors:print_swamp)item(mcwtrpdoors:print_bamboo)item(mcwtrpdoors:print_blossom)item(mcwtrpdoors:print_whispering))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2F9EAE6977445081"]
+			id: "24E2C009CFBD6521"
+			tasks: [{
+				id: "22CBE580B8F9E511"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwtrpdoors:oak_glass_trapdoor)item(mcwtrpdoors:spruce_glass_trapdoor)item(mcwtrpdoors:birch_glass_trapdoor)item(mcwtrpdoors:jungle_glass_trapdoor)item(mcwtrpdoors:acacia_glass_trapdoor)item(mcwtrpdoors:dark_oak_glass_trapdoor)item(mcwtrpdoors:crimson_glass_trapdoor)item(mcwtrpdoors:warped_glass_trapdoor)item(mcwtrpdoors:mangrove_glass_trapdoor)item(mcwtrpdoors:bamboo_glass_trapdoor)item(mcwtrpdoors:cherry_glass_trapdoor)item(mcwtrpdoors:metal_trapdoor))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["460EEFDAFA9855EE"]
+			id: "21324220756899F2"
+			tasks: [{
+				id: "773B090973565A33"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwfences:oak_hedge)item(mcwfences:spruce_hedge)item(mcwfences:birch_hedge)item(mcwfences:jungle_hedge)item(mcwfences:acacia_hedge)item(mcwfences:dark_oak_hedge)item(mcwfences:mangrove_hedge)item(mcwfences:azalea_hedge)item(mcwfences:flowering_azalea_hedge)item(mcwfences:cherry_hedge))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["460EEFDAFA9855EE"]
+			id: "28D695D9D545F69C"
+			tasks: [{
+				id: "5C8FBE78CB2ED5C1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwfences:wooden_cheval_de_frise)item(mcwfences:iron_cheval_de_frise))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["460EEFDAFA9855EE"]
+			id: "54590866EEBC92C8"
+			tasks: [{
+				id: "00E92E292D0AC687"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwfences:oak_wired_fence)item(mcwfences:spruce_wired_fence)item(mcwfences:birch_wired_fence)item(mcwfences:jungle_wired_fence)item(mcwfences:acacia_wired_fence)item(mcwfences:dark_oak_wired_fence)item(mcwfences:crimson_wired_fence)item(mcwfences:warped_wired_fence)item(mcwfences:mangrove_wired_fence)item(mcwfences:cherry_wired_fence)item(mcwfences:bamboo_wired_fence))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["460EEFDAFA9855EE"]
+			id: "53067197A85F3025"
+			tasks: [{
+				id: "51129AE1D8E75DEA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwfences:acorn_metal_fence)item(mcwfences:panelled_metal_fence)item(mcwfences:mesh_metal_fence)item(mcwfences:ornate_metal_fence)item(mcwfences:guardian_metal_fence)item(mcwfences:gothic_metal_fence)item(mcwfences:vintage_metal_fence)item(mcwfences:curved_metal_fence)item(mcwfences:twilight_metal_fence)item(mcwfences:expanded_mesh_metal_fence)item(mcwfences:fortress_metal_fence)item(mcwfences:bastion_metal_fence)item(mcwfences:double_curved_metal_fence)item(mcwfences:cathedral_metal_fence)item(mcwfences:majestic_metal_fence_gate)item(mcwfences:curved_metal_fence_gate)item(mcwfences:mesh_metal_fence_gate)item(mcwfences:panelled_metal_fence_gate)item(mcwfences:bastion_metal_fence_gate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "4DAA445F0273CB2D"
+			optional: true
+			tasks: [{
+				id: "316EE107DACE8BE9"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5BBE92D62C2208CA"]
+			id: "245A14715F057473"
+			tasks: [{
+				id: "293FFE210E40110A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(mcwpaths:andesite_crystal_floor)item(mcwpaths:diorite_crystal_floor)item(mcwpaths:granite_crystal_floor)item(mcwpaths:sandstone_crystal_floor)item(mcwpaths:red_sandstone_crystal_floor)item(mcwpaths:brick_crystal_floor)item(mcwpaths:stone_crystal_floor)item(mcwpaths:mossy_stone_crystal_floor)item(mcwpaths:cobbled_deepslate_crystal_floor)item(mcwpaths:deepslate_crystal_floor)item(mcwpaths:mud_brick_crystal_floor)item(mcwpaths:blackstone_crystal_floor)item(mcwpaths:dark_prismarine_crystal_floor)item(mcwpaths:andesite_running_bond)item(mcwpaths:diorite_running_bond)item(mcwpaths:granite_running_bond)item(mcwpaths:sandstone_running_bond)item(mcwpaths:red_sandstone_running_bond)item(mcwpaths:brick_running_bond)item(mcwpaths:stone_running_bond)item(mcwpaths:mossy_stone_running_bond)item(mcwpaths:cobbled_deepslate_running_bond)item(mcwpaths:deepslate_running_bond)item(mcwpaths:mud_brick_running_bond)item(mcwpaths:blackstone_running_bond)item(mcwpaths:dark_prismarine_running_bond)item(mcwpaths:andesite_windmill_weave)item(mcwpaths:diorite_windmill_weave)item(mcwpaths:granite_windmill_weave)item(mcwpaths:sandstone_windmill_weave)item(mcwpaths:red_sandstone_windmill_weave)item(mcwpaths:brick_windmill_weave)item(mcwpaths:stone_windmill_weave)item(mcwpaths:mossy_stone_windmill_weave)item(mcwpaths:cobbled_deepslate_windmill_weave)item(mcwpaths:deepslate_windmill_weave)item(mcwpaths:mud_brick_windmill_weave)item(mcwpaths:blackstone_windmill_weave)item(mcwpaths:dark_prismarine_windmill_weave)item(mcwpaths:andesite_flagstone)item(mcwpaths:diorite_flagstone)item(mcwpaths:granite_flagstone)item(mcwpaths:sandstone_flagstone)item(mcwpaths:red_sandstone_flagstone)item(mcwpaths:brick_flagstone)item(mcwpaths:stone_flagstone)item(mcwpaths:mossy_stone_flagstone)item(mcwpaths:cobbled_deepslate_flagstone)item(mcwpaths:deepslate_flagstone)item(mcwpaths:mud_brick_flagstone)item(mcwpaths:blackstone_flagstone)item(mcwpaths:dark_prismarine_flagstone))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+	]
+}

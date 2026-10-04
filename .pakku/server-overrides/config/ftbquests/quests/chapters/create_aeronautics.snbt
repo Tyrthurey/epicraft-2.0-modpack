@@ -1,0 +1,130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_aeronautics"
+	group: "28A01377EF19B2E5"
+	icon: {
+		id: "simulated:physics_assembler"
+	}
+	id: "7FCD8508AB426913"
+	images: [{
+		height: 8.0d
+		image: "kubejs:item/simulated_background"
+		rotation: 0.0d
+		width: 13.88074291300098d
+		x: 4.0d
+		y: 0.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2D8BC7C6EA23CA91"
+			tasks: [{
+				id: "2B5B683F8B004AC4"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D8BC7C6EA23CA91"]
+			id: "60F63ED4A1B5EEC9"
+			tasks: [{
+				id: "4257632E885C70DF"
+				item: { count: 1, id: "simulated:iron_handle" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["60F63ED4A1B5EEC9"]
+			id: "16585226F40B8837"
+			tasks: [{
+				id: "0016281545120E4D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(simulated:honey_glue)item(create:super_glue))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16585226F40B8837"]
+			id: "2D385DC745C04541"
+			tasks: [{
+				id: "31223206D2F16D45"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["16585226F40B8837"]
+			id: "41E985E22B20E1D3"
+			tasks: [{
+				id: "5CB548C72F9E6621"
+				item: { count: 1, id: "minecraft:slime_ball" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D385DC745C04541"]
+			id: "5544CF8527DA1D7C"
+			tasks: [{
+				id: "76D8C4CED88A7E68"
+				item: { count: 1, id: "simulated:contraption_diagram" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7FDB3CCD947E217A"]
+			id: "1837F2AAF2CFB65B"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "0BA282A930F21E21"
+				item: { count: 1, id: "simulated:plunger_launcher" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["41E985E22B20E1D3"]
+			id: "7FDB3CCD947E217A"
+			tasks: [
+				{
+					id: "5A9109D4C9E9D1B3"
+					item: { count: 1, id: "simulated:rope_connector" }
+					type: "item"
+				}
+				{
+					id: "2C226B18344A44D4"
+					item: { count: 1, id: "simulated:rope_coupling" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FDB3CCD947E217A"]
+			id: "72E827A159F42635"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "05CA0B5FC7FD5444"
+				item: { count: 1, id: "simulated:redstone_magnet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+	]
+}

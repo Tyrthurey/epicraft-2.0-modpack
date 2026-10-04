@@ -1,0 +1,10 @@
+{
+	id: "017C9833A56B701B"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "4BDBFD9BA7868A46", item: { count: 1, id: "minecraft:jukebox" } }
+		{ id: "0F0EF1F335AB2564", item: { count: 1, id: "sophisticatedbackpacks:jukebox_upgrade" } }
+		{ id: "2CE473E768FCCCB9", item: { count: 1, id: "sophisticatedstorage:jukebox_upgrade" } }
+	]
+}

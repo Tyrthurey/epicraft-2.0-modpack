@@ -1,0 +1,263 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_proccessing"
+	group: "28A01377EF19B2E5"
+	icon: {
+		id: "minecraft:bread"
+	}
+	id: "249F4F9632ED80A0"
+	images: [{
+		height: 7.0d
+		image: "kubejs:item/andesite_casing_6x3_background"
+		rotation: 0.0d
+		width: 14.0d
+		x: -2.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["52B5C870962D8522"]
+			id: "16E5C807D2A8EBFB"
+			shape: "gear"
+			tasks: [{
+				id: "373C5469E01B089A"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["47FC4EEF9AB72BAA"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/mob_effect/water_breathing.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2C4FB98F79ABF891"
+			rewards: [{
+				count: 2
+				id: "6E5928820F286EE0"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "create:fan_processing"
+				criterion: ""
+				id: "11305366A836794B"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72E9B458868CD90C"]
+			id: "47FC4EEF9AB72BAA"
+			rewards: [{
+				count: 3
+				id: "7BCC7C0B3F9B4FD8"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1C1ECE98B979C0EA"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2C4FB98F79ABF891"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cataclysm:block/altar_of_fire/altar_fire_3"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4F99CD6BAFF0FDD4"
+			rewards: [{
+				id: "4C121138B8B80E22"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "614D512197923A6D"
+					item: { count: 1, id: "create:encased_fan" }
+					type: "item"
+				}
+				{
+					id: "7E9284104919680D"
+					item: { count: 1, id: "minecraft:netherrack" }
+					type: "item"
+				}
+				{
+					id: "1AA8379E0AF7930B"
+					item: { count: 1, id: "minecraft:flint_and_steel" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4F99CD6BAFF0FDD4"]
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "72DAC4DE3C6617C0"
+			rewards: [{
+				id: "6674BC32F5CF7DA7"
+				item: {
+					count: 1
+					id: "blahaj:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D7BB9823B2D6366"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["16E5C807D2A8EBFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ldlib2:textures/gui/icon/information.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "72E9B458868CD90C"
+			rewards: [{
+				count: 4
+				id: "5011FF2457F18C9C"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "169F344C97FA2AD0"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72DAC4DE3C6617C0"]
+			id: "0093079DA4C7DE8B"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "28CC68DEF2F4E4B4"
+				item: { count: 1, id: "create:mechanical_bearing" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0093079DA4C7DE8B"]
+			id: "6084FF200AE19916"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "2ADA07E85242BCE4"
+				item: { count: 1, id: "create:super_glue" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6084FF200AE19916"]
+			id: "451EAD6928170B33"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "77BE33AE45F5F0B9"
+				item: { count: 1, id: "create:mechanical_harvester" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["451EAD6928170B33"]
+			id: "33C30CC9EDBEB352"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "54453DBF1045EEC1"
+				item: { count: 1, id: "create:portable_storage_interface" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["33C30CC9EDBEB352"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/wheat_stage7"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3DF0D815B142CE5F"
+			optional: true
+			shape: "pentagon"
+			tasks: [
+				{
+					advancement: "create:contraption_actors"
+					criterion: ""
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:block/wheat_stage7"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "4FE0BDC7D72772D6"
+					type: "advancement"
+				}
+				{
+					id: "7D04D0990B269FF6"
+					type: "checkmark"
+				}
+			]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DF0D815B142CE5F"]
+			id: "30CCD7B230786225"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				count: 128L
+				id: "7FFFCA7A6650818E"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.0d
+		}
+	]
+}

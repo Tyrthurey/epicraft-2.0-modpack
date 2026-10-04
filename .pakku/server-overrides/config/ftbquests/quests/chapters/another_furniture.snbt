@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "another_furniture"
+	group: "32E674356FEBA5BF"
+	icon: {
+		id: "another_furniture:oak_chair"
+	}
+	id: "528DEA13BDD67560"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "067794EC4D003636"
+		tasks: [{
+			id: "4FEAAFBD8631D6CD"
+			item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(another_furniture:flower_boxes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

@@ -1,0 +1,226 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ice_and_fire_dragons"
+	group: "3D2EDA20801141A4"
+	icon: {
+		components: {
+			"ftbquests:icon": "iceandfire:textures/thaumcraft/dragon.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "4C719C14A2E839DA"
+	images: [
+		{
+			alpha: 180
+			height: 13.0d
+			image: "iceandfire:textures/gui/bestiary/bestiary.png"
+			rotation: 0.0d
+			width: 13.0d
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			click: "https://docs.google.com/document/d/1r_jAui3_V3oAKPrA7I9qltUdH6hnkoQvPUOF2FAnbpk/edit?usp=sharing"
+			height: 1.0d
+			image: "ftbquests:textures/gui/chain_link.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "70D7A2177149AC38"
+			rewards: [{
+				id: "0991826CC7F9E0B9"
+				item: {
+					count: 1
+					id: "minecraft:netherite_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7350E972E2604865"
+				item: { count: 1, id: "iceandfire:dragon_seeker" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70D7A2177149AC38"]
+			id: "564C54EEA1B8B7E5"
+			optional: true
+			rewards: [{
+				id: "75AD0CB7FE4CF7FB"
+				item: {
+					count: 1
+					id: "minecraft:netherite_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			shape: "pentagon"
+			tasks: [{
+				id: "172361B7B050D4A9"
+				item: { count: 1, id: "iceandfire:epic_dragon_seeker" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["70D7A2177149AC38"]
+			id: "3E2E45648B8F7128"
+			rewards: [{
+				count: 25
+				id: "18983E35A09F6898"
+				item: {
+					count: 1
+					id: "iceandfire:dragon_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DB3D01CEA4B3FDC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(iceandfire:dragonegg_red)item(iceandfire:dragonegg_green)item(iceandfire:dragonegg_bronze)item(iceandfire:dragonegg_gray)item(iceandfire:dragonegg_blue)item(iceandfire:dragonegg_white)item(iceandfire:dragonegg_sapphire)item(iceandfire:dragonegg_silver)item(iceandfire:dragonegg_electric)item(iceandfire:dragonegg_amethyst)item(iceandfire:dragonegg_copper)item(iceandfire:dragonegg_black))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E2E45648B8F7128"]
+			id: "322327E98B703D3D"
+			min_width: 250
+			rewards: [{
+				count: 25
+				id: "392684F03EF5E7CE"
+				item: {
+					count: 1
+					id: "iceandfire:dragon_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2FB9B496BF50554A"
+				item: { count: 1, id: "iceandfire:dragon_stick" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["322327E98B703D3D"]
+			id: "136D5230911BED11"
+			rewards: [{
+				count: 25
+				id: "4F216A9745C0EF1B"
+				item: {
+					count: 1
+					id: "iceandfire:dragon_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "190C888A184147B8"
+				item: { count: 1, id: "iceandfire:dragon_flute" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["136D5230911BED11"]
+			id: "6D7A98A3310E55A5"
+			rewards: [{
+				count: 25
+				id: "3D0A0224A92AFE02"
+				item: {
+					count: 1
+					id: "iceandfire:dragon_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DC4DE183CF839F2"
+				item: { count: 1, id: "iceandfire:dragon_horn" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D7A98A3310E55A5"]
+			icon_scale: 0.8d
+			id: "6F28CDB1A881B4DD"
+			rewards: [
+				{
+					count: 12
+					id: "3CAAAFACE3DAAC29"
+					item: {
+						count: 1
+						id: "minecraft:iron_block"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "57C3412319E07D9B"
+					item: {
+						count: 1
+						id: "iceandfire:manuscript"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "0AD475087F203D98"
+					item: { count: 1, id: "iceandfire:dragonarmor_iron_head" }
+					type: "item"
+				}
+				{
+					id: "01FF58913F420BD1"
+					item: { count: 1, id: "iceandfire:dragonarmor_iron_neck" }
+					type: "item"
+				}
+				{
+					id: "7D9E20AC05D80D6A"
+					item: { count: 1, id: "iceandfire:dragonarmor_iron_body" }
+					type: "item"
+				}
+				{
+					id: "259C19C8F6A37224"
+					item: { count: 1, id: "iceandfire:dragonarmor_iron_tail" }
+					type: "item"
+				}
+			]
+			x: 8.25d
+			y: 0.0d
+		}
+		{
+			id: "35CA634686A21BAB"
+			rewards: [{
+				id: "2556805E77F580E1"
+				item: {
+					count: 1
+					id: "iceandfire:lectern"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "493F7454F435B97F"
+				item: { count: 1, id: "iceandfire:bestiary" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+	]
+}

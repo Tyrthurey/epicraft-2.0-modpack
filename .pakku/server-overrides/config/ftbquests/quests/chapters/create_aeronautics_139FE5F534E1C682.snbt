@@ -1,0 +1,202 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_aeronautics_139FE5F534E1C682"
+	group: "28A01377EF19B2E5"
+	icon: {
+		id: "aeronautics:aviators_goggles"
+	}
+	id: "139FE5F534E1C682"
+	images: [{
+		height: 8.0d
+		image: "kubejs:item/aeronautics_background"
+		rotation: 0.0d
+		width: 16.53265044814341d
+		x: 1.0d
+		y: 0.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7FCD8508AB426913"]
+			id: "18AEA6C3E58C2A2A"
+			tasks: [{
+				id: "3FE69385EB2447DE"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["18AEA6C3E58C2A2A"]
+			id: "432CFF7169DD87F1"
+			tasks: [{
+				id: "1A0B08C4E49226ED"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E1723732AC4ACB3"]
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "3A07F321FF4D6416"
+			tasks: [
+				{
+					id: "60043892E88791A0"
+					item: { count: 1, id: "aeronautics:adjustable_burner" }
+					type: "item"
+				}
+				{
+					id: "3F0F456B98B39AA4"
+					item: { components: { "ftbfiltersystem:filter": "or(item(supplementaries:crank)item(create:analog_lever))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D9BF3D6443C241C"]
+			id: "0758F4318FC51800"
+			tasks: [{
+				count: 24L
+				id: "0D984D57AE62F882"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(aeronautics:envelope)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["432CFF7169DD87F1"]
+			id: "2E1723732AC4ACB3"
+			tasks: [{
+				id: "226A0123B4241819"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A07F321FF4D6416"]
+			id: "7D9BF3D6443C241C"
+			rewards: [
+				{
+					count: 4
+					id: "724724F3C908C6E8"
+					item: {
+						count: 1
+						id: "minecraft:white_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "75B99467D481F2DD"
+					item: {
+						count: 1
+						id: "minecraft:red_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "72F7C73D3809AD38"
+					item: {
+						count: 1
+						id: "minecraft:blue_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "516261B02708033F"
+					item: {
+						count: 1
+						id: "minecraft:magenta_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5515C6D44BE9B371"
+					item: {
+						count: 1
+						id: "minecraft:light_blue_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "56E0F3BB33D29D87"
+					item: {
+						count: 1
+						id: "minecraft:pink_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "55931404CD58C146"
+					item: {
+						count: 1
+						id: "minecraft:lime_wool"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1AD125BCE49E287C"
+					item: {
+						count: 1
+						id: "minecraft:black_wool"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "13D6D11A5FD276DC"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0758F4318FC51800"]
+			id: "2BFE1F64F29B0141"
+			tasks: [{
+				advancement: "aeronautics:head_in_the_clouds"
+				criterion: ""
+				id: "47BCDDBC5955FC35"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2BFE1F64F29B0141"]
+			id: "51F6615570BD5BD6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A5762DBBC45F1AC"
+				table_id: 107127838736085019L
+				type: "choice"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				advancement: "aeronautics:song_of_the_sky"
+				criterion: ""
+				id: "4342670340E4BE5B"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+	]
+}

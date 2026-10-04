@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iron_spells_and_spellbooks"
+	group: "285CAB726FA25953"
+	icon: {
+		id: "irons_spellbooks:arcane_essence"
+	}
+	id: "6629643EF0D0DA6A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6029A803E572332B"
+			tasks: [{
+				id: "4384AE50D35F85D7"
+				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "31CF637F2D881515"
+			tasks: [{
+				id: "6CE9A263D5B07124"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "darkdoppelganger:summon_doppel_minion", index: 0, level: 1, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 0b } }, count: 1, id: "irons_spellbooks:scroll" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

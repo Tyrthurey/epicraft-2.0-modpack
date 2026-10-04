@@ -1,0 +1,100 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "locations"
+	group: ""
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "4E37556099DD0D4F"
+	images: [{
+		height: 7.0d
+		image: "kubejs:item/locations_background"
+		rotation: 0.0d
+		width: 9.625d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "handcrafted:spruce_table"
+			}
+			id: "055DB0B7B622D0B0"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "50857071F244BF42"
+				ignore_dimension: false
+				position: [I;
+					-97
+					131
+					33
+				]
+				size: [I;
+					5
+					5
+					5
+				]
+				type: "location"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "via_romana:textures/screens/marker_book.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "07B0A75965B81D9D"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "3BDD4CB8BDC76FA1"
+				ignore_dimension: false
+				position: [I;
+					0
+					0
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "via_romana:textures/screens/marker_tower.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2086E8B3E30623C5"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "1BB8B25FAC62827C"
+				ignore_dimension: false
+				position: [I;
+					0
+					0
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

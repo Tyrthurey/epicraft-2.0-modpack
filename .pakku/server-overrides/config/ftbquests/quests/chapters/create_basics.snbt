@@ -1,0 +1,271 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_basics"
+	group: "28A01377EF19B2E5"
+	icon: {
+		id: "create:andesite_casing"
+	}
+	id: "52B5C870962D8522"
+	images: [{
+		height: 7.0d
+		image: "kubejs:item/andesite_casing_8x3_background"
+		rotation: 0.0d
+		width: 18.666666666666664d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0C970CC438093C31"]
+			id: "31F44A3104788DB2"
+			rewards: [
+				{
+					count: 4
+					id: "7712A89D950A6A5A"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "041B77328A6672A3"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "23562A9EDE45DDD6"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0C970CC438093C31"]
+			id: "75D90DFFAEC0E9F0"
+			rewards: [
+				{
+					count: 4
+					id: "5830C89FE1BF732C"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "78FBB86695B412B6"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C08ABD55D306D7C"
+				item: { count: 1, id: "create:hand_crank" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["168F951275D0E8CF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ponder:textures/gui/logo.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4BBC7549F8CB6648"
+			tasks: [{
+				id: "19175F4E6AE31DD4"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4BBC7549F8CB6648"]
+			icon: {
+				components: {
+					"ftbquests:icon": "fancymenu:textures/contextmenu/icons/reload.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0C970CC438093C31"
+			rewards: [
+				{
+					id: "496321001AAA17FB"
+					item: {
+						count: 1
+						id: "create:speedometer"
+					}
+					type: "item"
+				}
+				{
+					id: "6CFD09575A15099B"
+					item: {
+						count: 1
+						id: "create:stressometer"
+					}
+					type: "item"
+				}
+				{
+					id: "3709F66F5CDE51EA"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "73D98451F582C878"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "create:andesite_casing"
+			}
+			id: "168F951275D0E8CF"
+			rewards: [{
+				count: 4
+				id: "49206511EC5DFB17"
+				item: {
+					count: 1
+					id: "create:andesite_casing"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					disable_toast: true
+					id: "04ED730C9087EF96"
+					item: { count: 1, id: "create:andesite_alloy" }
+					type: "item"
+				}
+				{
+					id: "76E16D0BA3960DD3"
+					item: { count: 1, id: "create:andesite_casing" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"31F44A3104788DB2"
+				"75D90DFFAEC0E9F0"
+			]
+			id: "7F1A960E40339A8B"
+			rewards: [{
+				count: 3
+				id: "01D4D3D20C459D62"
+				item: {
+					count: 1
+					id: "minecraft:kelp"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "create:shifting_gears"
+				criterion: ""
+				id: "281EDA5ED3866BD7"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F1A960E40339A8B"]
+			icon: {
+				id: "create:belt_connector"
+			}
+			id: "35F70774B260854B"
+			rewards: [
+				{
+					count: 2
+					id: "399E37BD6280E15C"
+					item: {
+						count: 1
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6A9D79D0B0E30C7B"
+					item: {
+						count: 1
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4FA836765446A676"
+					item: {
+						count: 1
+						id: "create:vertical_gearbox"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "07A73C549136E97B"
+					item: { count: 1, id: "create:belt_connector" }
+					type: "item"
+				}
+				{
+					count: 2L
+					disable_toast: true
+					id: "56730C06A7843A84"
+					item: { count: 1, id: "create:cogwheel" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["35F70774B260854B"]
+			icon: {
+				id: "create:millstone"
+			}
+			id: "5A809F4CAE9EC223"
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					id: "56D802379B12802A"
+					item: { count: 1, id: "create:millstone" }
+					type: "item"
+				}
+				{
+					id: "329855DAD01DB163"
+					item: { count: 1, id: "create:wheat_flour" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

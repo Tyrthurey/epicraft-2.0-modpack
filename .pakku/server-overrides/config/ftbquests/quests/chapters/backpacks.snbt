@@ -1,0 +1,157 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "backpacks"
+	group: "03AB9AE92B52FEDD"
+	icon: {
+		components: {
+			"sophisticatedcore:number_of_inventory_slots": 108
+			"sophisticatedcore:number_of_upgrade_slots": 5
+		}
+		id: "sophisticatedbackpacks:diamond_backpack"
+	}
+	id: "0BBA08E3A4B39015"
+	images: [{
+		height: 5.0d
+		image: "kubejs:item/backpack_background"
+		rotation: 0.0d
+		width: 11.12299465240642d
+		x: 0.0d
+		y: -3.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3D6E5E563E806C62"
+			rewards: [{
+				id: "07C416AABAAFD646"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:upgrade_base"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "13E083B87E8AF9B5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:backpack)item(sophisticatedbackpacks:copper_backpack)item(sophisticatedbackpacks:iron_backpack)item(sophisticatedbackpacks:gold_backpack)item(sophisticatedbackpacks:diamond_backpack)item(sophisticatedbackpacks:netherite_backpack))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3D6E5E563E806C62"]
+			id: "76CAF63D47DEFF4C"
+			tasks: [{
+				id: "15A87E3E670086FF"
+				item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D6E5E563E806C62"]
+			id: "4B3F7FD96E80BF7C"
+			tasks: [{
+				id: "610572A9CA6D16AC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:pickup_upgrade)item(sophisticatedbackpacks:advanced_pickup_upgrade)item(sophisticatedbackpacks:magnet_upgrade)item(sophisticatedbackpacks:advanced_magnet_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3D6E5E563E806C62"]
+			id: "486EA94AFD206E94"
+			tasks: [{
+				id: "054A649521C28F6E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:jukebox_upgrade)item(sophisticatedbackpacks:advanced_jukebox_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["76CAF63D47DEFF4C"]
+			id: "31A837741B0F596E"
+			tasks: [
+				{
+					id: "12F213D5DB36E700"
+					item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:smelting_upgrade)item(sophisticatedbackpacks:auto_smelting_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "463E0B5DFC7F04D8"
+					item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:smoking_upgrade)item(sophisticatedbackpacks:auto_smoking_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "5D5E27F2392C4906"
+					item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:blasting_upgrade)item(sophisticatedbackpacks:auto_blasting_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "57DCAB025D87882C"
+					item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
+					type: "item"
+				}
+				{
+					id: "4FFA6D8ADD62D1FC"
+					item: { count: 1, id: "sophisticatedbackpacks:stonecutter_upgrade" }
+					type: "item"
+				}
+				{
+					id: "115EC262B323D5A9"
+					item: { count: 1, id: "sophisticatedbackpacks:anvil_upgrade" }
+					type: "item"
+				}
+				{
+					id: "31986976CDFC9061"
+					item: { count: 1, id: "sophisticatedbackpacks:smithing_upgrade" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4B3F7FD96E80BF7C"]
+			id: "3139A354AFC77B1D"
+			tasks: [{
+				id: "6AC6F8E79EBE5759"
+				item: { count: 1, id: "sophisticatedbackpacks:void_upgrade" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["486EA94AFD206E94"]
+			id: "6FFB571378C9E377"
+			tasks: [{
+				id: "590051AD33CBFF4F"
+				item: { count: 1, id: "sophisticatedbackpacks:battery_upgrade" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"31A837741B0F596E"
+				"3139A354AFC77B1D"
+				"6FFB571378C9E377"
+			]
+			id: "1D82D06DE54C0F25"
+			tasks: [{
+				id: "1F4C8354BD37CEBD"
+				item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+	]
+}

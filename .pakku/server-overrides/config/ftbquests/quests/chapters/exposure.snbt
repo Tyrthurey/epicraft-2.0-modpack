@@ -1,0 +1,483 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exposure"
+	group: "32E674356FEBA5BF"
+	icon: {
+		id: "exposure:camera"
+	}
+	id: "02319343C8509F74"
+	images: [{
+		height: 10.0d
+		image: "kubejs:item/exposure_background"
+		rotation: 0.0d
+		width: 18.333333333333332d
+		x: 4.0d
+		y: 0.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2DE2953449377462"
+			tasks: [{
+				id: "7D384FC6DACD476E"
+				item: { count: 1, id: "exposure:camera" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38413C6850286508"]
+			id: "177CDDE3144483F3"
+			rewards: [
+				{
+					count: 16
+					id: "4A4D9544CC148425"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6E4087FEFE5D8940"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5BB758BF4366DA37"
+				item: { count: 1, id: "exposure:lightroom" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2DE2953449377462"]
+			id: "55B7CF62B43779C9"
+			tasks: [{
+				id: "05EC81D71139AA7D"
+				item: { count: 1, id: "exposure:black_and_white_film" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["55B7CF62B43779C9"]
+			id: "1875A9F1B642F190"
+			tasks: [{
+				id: "22FF5C2F8AF739A2"
+				item: { count: 1, id: "exposure:color_film" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["55B7CF62B43779C9"]
+			id: "60F68631327D94D9"
+			rewards: [{
+				count: 2
+				id: "1D1DEC0D1FBD1297"
+				item: {
+					count: 1
+					id: "minecraft:black_dye"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "36EB19AC82219AF3"
+				item: { count: 1, id: "exposure:high_sensitivity_black_and_white_film" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60F68631327D94D9"]
+			id: "2EACA8CCF81C86D6"
+			rewards: [
+				{
+					count: 2
+					id: "0997D503691C9C4E"
+					item: {
+						count: 1
+						id: "minecraft:cyan_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "60972FE6222BD660"
+					item: {
+						count: 1
+						id: "minecraft:magenta_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5FA1014BCE189EFA"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "20050FCDF5C4D074"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DCAD4E258EEDF04"
+				item: { count: 1, id: "exposure:high_sensitivity_color_film" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["55B7CF62B43779C9"]
+			id: "70CD9A4218FCA66C"
+			tasks: [{
+				advancement: "exposure:adventure/exposure"
+				criterion: ""
+				id: "7412E35EF0E8F3E9"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70CD9A4218FCA66C"]
+			id: "2277877B79A3930E"
+			tasks: [{
+				advancement: "exposure:adventure/spotlight"
+				criterion: ""
+				id: "645CABBC36FBF1BA"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["70CD9A4218FCA66C"]
+			id: "38413C6850286508"
+			tasks: [{
+				id: "7E4EDCE200BB5038"
+				item: { count: 1, id: "exposure:developed_black_and_white_film" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38413C6850286508"]
+			icon: {
+				id: "exposure:developed_color_film"
+			}
+			id: "6452777FA5A323D3"
+			tasks: [
+				{
+					id: "215B39AB6B122134"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:mundane" } }, count: 1, id: "minecraft:potion" }
+					type: "item"
+				}
+				{
+					id: "48C3B35D300B2B7A"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:thick" } }, count: 1, id: "minecraft:potion" }
+					type: "item"
+				}
+				{
+					id: "4FB4A7FEA07AB578"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:awkward" } }, count: 1, id: "minecraft:potion" }
+					type: "item"
+				}
+				{
+					id: "6B5FC52FC0CD32B0"
+					item: { count: 1, id: "exposure:developed_color_film" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["177CDDE3144483F3"]
+			id: "647F862C0C01B11A"
+			rewards: [{
+				id: "5EBDCAC8C6B3AF3B"
+				item: {
+					count: 1
+					id: "exposure:album"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "exposure:adventure/moment_in_time"
+				criterion: ""
+				id: "0633428E5D7F534A"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70CD9A4218FCA66C"]
+			id: "7E040FEC383EE226"
+			tasks: [{
+				advancement: "exposure:adventure/splitting_the_photon"
+				criterion: ""
+				id: "79542B8CDEC969F2"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2277877B79A3930E"]
+			id: "70CF3065E400F94F"
+			rewards: [
+				{
+					count: 2
+					id: "2E1FD92AD4FD9EF0"
+					item: {
+						count: 1
+						id: "minecraft:cyan_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4FBD0F5209AE9D6B"
+					item: {
+						count: 1
+						id: "minecraft:magenta_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "24913389B6E3EBFD"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7F52164FBEB7573C"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2F76856E37682151"
+				item: { count: 1, id: "exposure:camera_stand" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["70CF3065E400F94F"]
+			id: "177649082D58FF62"
+			rewards: [
+				{
+					count: 4
+					id: "1A0487BA6BE858CB"
+					item: {
+						count: 1
+						id: "minecraft:cyan_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5943AE997AB92987"
+					item: {
+						count: 1
+						id: "minecraft:magenta_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0C4569416A5E68DF"
+					item: {
+						count: 1
+						id: "minecraft:yellow_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "65EC6A9FA87F7131"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "exposure:adventure/family_portrait"
+				criterion: ""
+				id: "3FE3A3D6EB54039C"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["647F862C0C01B11A"]
+			icon: {
+				components: {
+					"exposure:chromatic_layers": [
+						{
+							identifier: "1"
+						}
+						{
+							identifier: "2"
+						}
+						{
+							identifier: "3"
+						}
+					]
+				}
+				id: "exposure:chromatic_sheet"
+			}
+			id: "179C691F365E2ED6"
+			tasks: [
+				{
+					id: "5F21562CAEF528E8"
+					item: { count: 1, id: "minecraft:tinted_glass" }
+					type: "item"
+				}
+				{
+					id: "23506F38E69689AD"
+					item: { components: { "exposure:chromatic_layers": [{ extra_data: { biome: "minecraft:plains", day_time: 14000, dimension: "minecraft:overworld", focal_length: 18, light_level: 4, pitch: 9.184897f, pos: [ -162.4380128172994d, -60.0d, -421.4244887322808d ], shutter_speed: "1/30", timestamp: 1791066345L, weather: "Clear", yaw: -4.8547773f }, identifier: "Cobwebblocks_225243204", photographer: { name: "Cobwebblocks", uuid: [I; 1044281400, 2070170534, -1595019033, 776168100 ] } }] }, count: 1, id: "exposure:chromatic_sheet" }
+					type: "item"
+				}
+				{
+					id: "55751CBAAAAB9577"
+					item: { components: { "exposure:chromatic_layers": [ { extra_data: { biome: "minecraft:plains", day_time: 14000, dimension: "minecraft:overworld", focal_length: 18, light_level: 4, pitch: 9.184897f, pos: [ -162.4380128172994d, -60.0d, -421.4244887322808d ], shutter_speed: "1/30", timestamp: 1791066345L, weather: "Clear", yaw: -4.8547773f }, identifier: "Cobwebblocks_225243204", photographer: { name: "Cobwebblocks", uuid: [I; 1044281400, 2070170534, -1595019033, 776168100 ] } }, { extra_data: { biome: "minecraft:plains", day_time: 14000, dimension: "minecraft:overworld", focal_length: 18, light_level: 4, pitch: 9.184897f, pos: [ -162.4380128172994d, -60.0d, -421.4244887322808d ], shutter_speed: "1/30", timestamp: 1791066345L, weather: "Clear", yaw: -4.8547773f }, identifier: "Cobwebblocks_225243204", photographer: { name: "Cobwebblocks", uuid: [I; 1044281400, 2070170534, -1595019033, 776168100 ] } } ] }, count: 1, id: "exposure:chromatic_sheet" }
+					type: "item"
+				}
+				{
+					advancement: "exposure:adventure/complex_composite_compound"
+					criterion: ""
+					id: "216D10FAE900C134"
+					type: "advancement"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["70CD9A4218FCA66C"]
+			id: "17A3FDCEC847336F"
+			tasks: [{
+				advancement: "exposure:adventure/lights_up"
+				criterion: ""
+				id: "1D7D1FAA084416F4"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7E040FEC383EE226"]
+			id: "3C3B16A785614CE6"
+			rewards: [
+				{
+					count: 12
+					id: "244E579DEEA6DD7A"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "64A35A50862C433F"
+					item: {
+						count: 1
+						id: "exposure:photograph_frame"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "14EBBA82F7894D13"
+					item: { count: 1, id: "exposure:interplanar_projector" }
+					type: "item"
+				}
+				{
+					advancement: "exposure:adventure/piercing_gaze"
+					criterion: ""
+					id: "2BC129C596BF1ED2"
+					type: "advancement"
+				}
+			]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["647F862C0C01B11A"]
+			icon: {
+				components: {
+					"ftbquests:icon": "fancymenu:textures/contextmenu/icons/copy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6A47EBB9F04EB414"
+			rewards: [
+				{
+					count: 2
+					id: "684685A2A3E65F8E"
+					item: {
+						count: 1
+						id: "minecraft:black_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6ADCA691AA97B767"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "76AD2EF5166E87F1"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+	]
+}

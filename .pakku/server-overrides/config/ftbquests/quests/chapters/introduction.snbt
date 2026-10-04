@@ -1,0 +1,91 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduction"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "kubejs:item/epicraft_logo"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "0C21F9A79482ECFA"
+	images: [{
+		height: 8.0d
+		image: "minecraft:textures/gui/title/background/panorama_3.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "kubejs:item/epicraft_logo"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "279BF0B4569FBD46"
+			tasks: [{
+				id: "145D6A8A92E14EDE"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ftbquests:book"
+			}
+			id: "1486B2C9FCFF92F1"
+			tasks: [{
+				id: "08CC2C937F6E2E18"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "55FA4276E560F8BC"
+			tasks: [{
+				id: "7C581131CC025302"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "3A80ED02FCDB4722"
+			tasks: [{
+				id: "4E9B4A53D31AEE2D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ldlib2:textures/gui/icon/eye.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5254051B1633AD96"
+			tasks: [{
+				id: "0C9D63C74A6FF685"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+}

@@ -1,0 +1,638 @@
+{
+	chapter.02319343C8509F74.title: "Exposure"
+	chapter.0BBA08E3A4B39015.title: "Backpacks"
+	chapter.0C21F9A79482ECFA.title: "Introduction"
+	chapter.139FE5F534E1C682.title: "Create: Aeronautics"
+	chapter.189C0D05F202E382.title: "Transportation"
+	chapter.249F4F9632ED80A0.title: "Create: Bread Factory"
+	chapter.257D24B2A4F0B10F.title: "Macaw's Mods"
+	chapter.2FF6E328E5EB7981.title: "Decoration"
+	chapter.42C6731694648CFC.title: "Create: Crafting"
+	chapter.472C4DD9ACB99F57.title: "Redstone"
+	chapter.4C719C14A2E839DA.title: "Ice \\& Fire: Dragons"
+	chapter.4E37556099DD0D4F.title: "Locations"
+	chapter.528DEA13BDD67560.title: "Another Furniture"
+	chapter.52B5C870962D8522.title: "Create: Basics"
+	chapter.6032B36005B34092.title: "Enchanting"
+	chapter.6629643EF0D0DA6A.title: "Iron's spells"
+	chapter.7D759033AFD3C80E.title: "Storage Systems"
+	chapter.7FCD8508AB426913.title: "Create: Simulated"
+	chapter_group.03AB9AE92B52FEDD.title: "Storage"
+	chapter_group.285CAB726FA25953.title: "Magic"
+	chapter_group.28A01377EF19B2E5.title: "Create"
+	chapter_group.32E674356FEBA5BF.title: "Decoration"
+	chapter_group.3D2EDA20801141A4.title: "Ice \\& Fire"
+	quest.009111536E5723F4.quest_desc: ["Tuned note is displayed at the top of the screen."]
+	quest.009111536E5723F4.quest_subtitle: "Plays a note when powered, tune by right clicking"
+	quest.0093079DA4C7DE8B.quest_desc: [
+		"This second row is an optional part about making the wheat with a fully automatic farm"
+		""
+		"1. Place the mechanical bearing"
+		"2. Give a rotation on the back"
+		"3. Place a block on the front"
+		"4. Right click the mechanical bearing with an empty hand"
+		""
+		"You can configure stop modes by holding click on the middle of the bearing"
+	]
+	quest.0093079DA4C7DE8B.quest_subtitle: "Spinnin"
+	quest.0147422A4D35A39C.quest_subtitle: "Create enchantments with mystical agriculture (advanced)"
+	quest.036D5995B26BE86A.quest_subtitle: "Make an automatic train"
+	quest.03DE18B9B34F1780.quest_subtitle: "*Lifts pinky*"
+	quest.05CAFCEB46FE7444.quest_subtitle: "Glow in the dark"
+	quest.067794EC4D003636.quest_desc: ["Yes this chapter is highly work in progress xD"]
+	quest.067794EC4D003636.quest_subtitle: "Works great under windows"
+	quest.067794EC4D003636.title: "Get a flower box"
+	quest.0758F4318FC51800.quest_desc: [
+		"Now you can't just start flying by putting down a fire so we use these blocks to catch the warm air."
+		""
+		"Build you balloon above the burner, remember that the more weight you have the bigger inside volume your baloon has to have."
+		""
+		"oh, and don't forget to glue it."
+	]
+	quest.0758F4318FC51800.quest_subtitle: "Ponder currently broken"
+	quest.088D068B385CFDA1.quest_subtitle: "Allows the player to click to toggle redstone signal"
+	quest.09345F669CA28874.title: "Sophisticated Interaction"
+	quest.0A45854EF9407642.title: "Macaw's Bridges"
+	quest.0BEA371CB92CD1BD.quest_subtitle: "Hold sandpaper in one hand and rose quartz in the other"
+	quest.0BFB1F1B4CF6EE16.quest_subtitle: "Removes all enchantments from an item"
+	quest.0C89DE398545FA17.quest_subtitle: "This glass seem very transparent"
+	quest.0C970CC438093C31.quest_desc: [
+		"In Create, rotation is basic power."
+		""
+		"Rotations have 2 factors, speed and stress."
+		""
+		"Next step shows 2 basic rotation sources."
+	]
+	quest.0C970CC438093C31.quest_subtitle: "Spinny thing spins"
+	quest.0CF61CAE07D068F2.quest_subtitle: "Obtain Train Tracks"
+	quest.0CF61CAE07D068F2.title: "A New Gauge"
+	quest.0D377CEAB16D56A6.quest_subtitle: "The rage is over"
+	quest.0EAB8EBC103A285F.quest_desc: [
+		"Stone buttons stay on for 1 second"
+		"Wood buttons stay on for 1.5 seconds"
+	]
+	quest.0EAB8EBC103A285F.quest_subtitle: "Output short redstone signal when clicked"
+	quest.0EF1D34C80674206.quest_subtitle: "Right click blaze or blaze burner to catch blaze"
+	quest.0FC09C2E022280FF.quest_subtitle: "Combine enchantments and rename items"
+	quest.122023764324081E.quest_subtitle: "Create a boat that is actually a train"
+	quest.1237E06C1317DED0.title: "A Sophisticated Start"
+	quest.12702958194F0793.quest_subtitle: "Can shoot arrows, place water, and more"
+	quest.136D5230911BED11.quest_desc: ["In case your dragon is out of reach, use a Dragon Bone Flute to force it down! "]
+	quest.1486B2C9FCFF92F1.quest_desc: [
+		"Quests can be accessed via the inventory"
+		"{image:kubejs:item/quests_inventory_button_guide width:180 height:100 align:center}"
+		"Or via the pause screen"
+		"{image:kubejs:item/quests_pause_button_guide width:160 height:100 align:center}"
+		"If you want you can craft it as a book"
+	]
+	quest.1486B2C9FCFF92F1.quest_subtitle: "Pentagons are optional quests"
+	quest.1506C00F2A90D736.quest_desc: ["Each player has their own enderchest inventory, it is kept upon death and can be accessed from any enderchest in any dimmension. Other players can not access your enderchest storage."]
+	quest.1506C00F2A90D736.quest_subtitle: "Safekeeping"
+	quest.157DF30ECB8A4896.title: "Get a grappling hook"
+	quest.16585226F40B8837.quest_desc: [
+		"With the use of glue you can simulate more than just one block at a time, simply right click two corners of your contraption."
+		""
+		"FYI: Super glue is easier to craft"
+	]
+	quest.16585226F40B8837.quest_subtitle: "A few more blocks maybe."
+	quest.16585226F40B8837.title: "Glue"
+	quest.168F951275D0E8CF.quest_desc: ["Make an andesite casing by right clicking on a stripped log with andesite alloy."]
+	quest.168F951275D0E8CF.quest_subtitle: "Basic crafting ingredient"
+	quest.168F951275D0E8CF.title: "Andesite Casing"
+	quest.16E5C807D2A8EBFB.quest_desc: ["Simply spin the cog around the base."]
+	quest.16E5C807D2A8EBFB.quest_subtitle: "Turns wheat into wheat flour"
+	quest.177649082D58FF62.quest_subtitle: "Take a photo with a tamed cat or dog"
+	quest.177CDDE3144483F3.quest_desc: ["To use this block it has to be BRIGHT above it (light level 13)."]
+	quest.177CDDE3144483F3.quest_subtitle: "Develop photos"
+	quest.179C691F365E2ED6.quest_desc: [
+		"1. Place tinted glass on your lightroom"
+		"2. Make sure chromatic is selected in the gui (on the left)"
+		"3. Select what frame you want in red"
+		"4. Take the result and place it in the paper slot"
+		"5. Repeat steps 3 and 4 for green"
+		"6. Repeat steps 3 and 4 for blue"
+	]
+	quest.179C691F365E2ED6.quest_subtitle: "Colorized photos"
+	quest.179C691F365E2ED6.title: "Complex Composite Compound"
+	quest.17A3FDCEC847336F.quest_desc: ["{image:kubejs:item/camera_lamp width:200 height:98 align:center}"]
+	quest.17A3FDCEC847336F.quest_subtitle: "Take a photo with flash"
+	quest.1837F2AAF2CFB65B.quest_desc: [
+		"Right click two places to attach them, shift right click to remove all plungers."
+		"{image:kubejs:item/plunger_launcher_example width:160 height:100 align:center}"
+	]
+	quest.1837F2AAF2CFB65B.quest_subtitle: "A quick temporary rope"
+	quest.1875A9F1B642F190.quest_subtitle: "\"When are we getting 3D\""
+	quest.18AEA6C3E58C2A2A.quest_desc: ["The Create: Simulated and Create: Aeronautics chapters come from the same mod, you should do Create: Simulated first, it covers the basics of physics."]
+	quest.18AEA6C3E58C2A2A.quest_subtitle: "Learn Simulated first"
+	quest.194E85704E422EFC.quest_desc: ["After placement click with a block to use that block's texture. It can be removed by either breaking the block or right clicking with a create wrench."]
+	quest.194E85704E422EFC.quest_subtitle: "Easiliy crafted in a stonecutter, any texture in any shape"
+	quest.194E85704E422EFC.title: "Copycats"
+	quest.19C823FC569006CD.quest_subtitle: "Useful tool"
+	quest.1BCD2B147ADA2970.quest_subtitle: "Now that's a fancy door"
+	quest.1BCD2B147ADA2970.title: "Folding door"
+	quest.1C3F98B2881E01DE.quest_subtitle: "Remove an enchantment from an item"
+	quest.1C59DA742DC32DFA.quest_desc: [
+		"- The signal is 1/20s long"
+		"- The time between can be configured"
+		"- If powered on the back it stops sending signals"
+	]
+	quest.1C59DA742DC32DFA.quest_subtitle: "Produces a signal once every so often unless powered"
+	quest.1CF9C8FB2DD9DC17.quest_subtitle: "Multiple lines of text"
+	quest.1CF9C8FB2DD9DC17.title: "Signs"
+	quest.1D82D06DE54C0F25.title: "Glorious Evolution"
+	quest.1DBDD17747E0DDA5.quest_desc: [
+		"Similar to buttons, wood and stone stay active for different amounts of time."
+		""
+		"Can be convienient for a door opener, just be careful so a zombie doesn't open it!"
+	]
+	quest.1DBDD17747E0DDA5.quest_subtitle: "Actived for a short bit when stepped on"
+	quest.1EEC98CA6FDBC94E.title: "More slots"
+	quest.21324220756899F2.quest_subtitle: "Hedge for hedgehogs"
+	quest.220B22F65D6FD3A8.quest_desc: ["Make a brass casing by right clicking on a stripped log with a brass ingot."]
+	quest.220B22F65D6FD3A8.quest_subtitle: "Basic crafting ingredient for advanced blocks"
+	quest.2268A265C8E7BA0F.quest_subtitle: "SPLIT THE...bridge fence"
+	quest.2277877B79A3930E.quest_subtitle: "Take a selfie"
+	quest.22F8DB8565B2CE6E.title: "Functional aesthetic"
+	quest.245A14715F057473.quest_subtitle: "Right click with pickaxe to engrave"
+	quest.24815A15FA19F35E.quest_desc: ["By placing special blocks (for example a Hay Bale makes it a Banjo)"]
+	quest.24815A15FA19F35E.quest_subtitle: "Instruments in a hard way"
+	quest.249D9404EBF9609E.title: "Cloud Storage"
+	quest.24E2C009CFBD6521.quest_subtitle: "Quite obvious for a \"trap\"door"
+	quest.2641C60CC98E9D07.quest_subtitle: "Delays redstone input and only sends 1/20s signal"
+	quest.26BD6C2D28C0DACC.quest_desc: ["Obtain a Charting Map, this is the basis of Via Romana and contains a tutorial for the mod!"]
+	quest.26BD6C2D28C0DACC.quest_subtitle: "Obtain a Charting Map"
+	quest.26BD6C2D28C0DACC.title: "Via Romana"
+	quest.279BF0B4569FBD46.quest_desc: [
+		"Welcome to EPICRAFT!"
+		""
+		"On this server you will find lots of mods and lots fun."
+	]
+	quest.28D695D9D545F69C.quest_subtitle: "French fence or something"
+	quest.2A4DF387B4EEC492.title: "Big Stacks"
+	quest.2A8D6ED1E124ED21.quest_subtitle: "Works similarly to crank"
+	quest.2BFE1F64F29B0141.quest_subtitle: "Fill a balloon"
+	quest.2C4FB98F79ABF891.quest_desc: [
+		"By placing water in front of an encased fan that is blowing you can mist items with humidity."
+		""
+		"This turns wheat flour into dough."
+	]
+	quest.2C4FB98F79ABF891.quest_subtitle: "Humidifier"
+	quest.2C4FB98F79ABF891.title: "Bulk washing"
+	quest.2CBC7B8D1417C744.quest_desc: ["Curses, for example \"curse of binding\" or \"curse of vanishing\" can not be removed from an item."]
+	quest.2CBC7B8D1417C744.quest_subtitle: "Info"
+	quest.2CFCEEA369B18495.quest_desc: ["Right click to edit and sneak right click to place."]
+	quest.2CFCEEA369B18495.quest_subtitle: "Noted"
+	quest.2D385DC745C04541.quest_desc: [
+		"There are a few weight categories for blocks in this mod that influence balance"
+		"{image:kubejs:item/weight_example width:160 height:100 align:center}"
+	]
+	quest.2D385DC745C04541.quest_subtitle: "1m² Feathers ≠ 1m² Steel"
+	quest.2D580AD1BFE6558E.quest_subtitle: "Right click blaze with fuel, for example wood"
+	quest.2D8BC7C6EA23CA91.quest_desc: [
+		"1. Place this on a block"
+		"2. Right click hold "
+		"3. Pull the lever in the GUI!"
+		""
+		"Punch the block to push it around."
+		"Pull the lever back to disable physics."
+	]
+	quest.2D8BC7C6EA23CA91.quest_subtitle: "Physics!"
+	quest.2DE2953449377462.quest_desc: ["&lRight click in inventory&r to show &lcontrols&r and slots for items"]
+	quest.2DE2953449377462.quest_subtitle: "Not digital"
+	quest.2E1723732AC4ACB3.quest_subtitle: "In this tree we will go over how to make a simple baloon"
+	quest.2EACA8CCF81C86D6.quest_subtitle: " Usefull for dark places like the nether"
+	quest.2F9EAE6977445081.title: "Macaw's Trapdoors"
+	quest.3139A354AFC77B1D.title: "Auto trash"
+	quest.313A81A4A7C622D5.quest_desc: [
+		"If an amethyst block is placed next to it it acts as a relay."
+		""
+		"If a redstone source is provided on the purple side, it will only detect certain actions depending on signal strength."
+		"For example 11 singal strength makes it only detect block change states (rotation of item frame, flipped page in lectern, bell ringing, composter used)"
+	]
+	quest.313A81A4A7C622D5.quest_subtitle: "Relay vibrations and detect specific actions"
+	quest.31A837741B0F596E.quest_subtitle: "Craft all crafting blocks into upgrades"
+	quest.31A837741B0F596E.title: "Tables are overrated"
+	quest.31CF637F2D881515.quest_subtitle: "Obtain a summon minion spell"
+	quest.31CF637F2D881515.title: "TF2 spy reference"
+	quest.31F44A3104788DB2.quest_desc: ["Place with one side towards flowing water to create rotation."]
+	quest.31F44A3104788DB2.quest_subtitle: "Hydropower"
+	quest.322327E98B703D3D.quest_desc: [
+		"This staff is used to control the dragon once it’s born. The dragon can switch between 3 stances by right clicking it: "
+		"- &lEscorting:&r it will circle around you"
+		"- &lStaying:&r it will sit at the position you used it"
+		"- &lWandering:&r it will fly freely but will never leave the perimeter of its home"
+	]
+	quest.33C30CC9EDBEB352.quest_desc: [
+		"Portable storage interfaces are used for transfering items from and to contraptions, we will use this to take wheat from the machine with either a hopper or funnel."
+		"{image:kubejs:item/portable_storage_interface_1_example width:150 height:80 align:center}"
+		"{image:kubejs:item/portable_storage_interface_2_example width:150 height:80 align:center}"
+		"{image:kubejs:item/portable_storage_interface_3_example width:150 height:80 align:center}"
+	]
+	quest.33C30CC9EDBEB352.quest_subtitle: "Off the construction we go"
+	quest.357908E9B889D34F.quest_subtitle: "Your own photo on the wall (chapter: exposure)"
+	quest.35CA634686A21BAB.quest_desc: [
+		"This chapter teaches you about dragons in IaF, but if you are curios you can explore other things from IaF too with the Bestiary."
+		""
+		"Optional task, not required for chapter completion."
+	]
+	quest.35CA634686A21BAB.quest_subtitle: "Guide to other things Ice \\& Fire"
+	quest.35CA634686A21BAB.title: "The Bestiary"
+	quest.35F70774B260854B.quest_desc: [
+		"Rotation can be moved easilty with shafts straight forward."
+		""
+		"Sideways rotation:"
+		"Placing 2 small cogs next to each other makes them spin in different directions."
+		"Placing a belt allows you to hold the rotation the same."
+		"{image:kubejs:item/belt_hover_example width:100 height:100 align:center}"
+		"Belts can also be used to move items."
+	]
+	quest.35F70774B260854B.quest_subtitle: "Last step of rotation"
+	quest.35F70774B260854B.title: "Moving rotation"
+	quest.3670CCA01FB7F9B8.quest_desc: ["            Also works on cakes"]
+	quest.3670CCA01FB7F9B8.quest_subtitle: "Multiple fit in one block, light with flint\\&steel"
+	quest.3670CCA01FB7F9B8.title: "Candle"
+	quest.38413C6850286508.quest_desc: [
+		"Before you can get the photo printed you have to develop it by combining it with a water bottle."
+		""
+		"However, doing it with color film is harder."
+		""
+		"{image:kubejs:item/develop_black_and_white_film width:152 height:100 align:center}"
+	]
+	quest.38413C6850286508.quest_subtitle: "Really don't do this with digital photos."
+	quest.3935F038550EF24B.quest_desc: ["It has other functions but you can google them if you really want to know."]
+	quest.3935F038550EF24B.quest_subtitle: "Get signal from container (like chest) based on how full it is"
+	quest.3A069B770BDD7F82.quest_subtitle: "Takes any signal and amplifies it with delay between 1/20s and 1/5s"
+	quest.3A07F321FF4D6416.quest_desc: [
+		"The hot burner changes effect by redstone signal, this can be for example a crank or a analog lever."
+		""
+		"Place your hot burner and enable your redstone source and you will see the burner get more and more active."
+		"{image:kubejs:item/hot_air_burner_example width:150 height:100 align:center}"
+	]
+	quest.3A07F321FF4D6416.quest_subtitle: "Ponder currently broken"
+	quest.3A80ED02FCDB4722.quest_subtitle: "Comming soon..."
+	quest.3AB439613DFACA55.quest_subtitle: "Lantern but smol"
+	quest.3B6A3B5AFA961293.quest_subtitle: "Multiple fit in one block, light with flint\\&steel"
+	quest.3B6A3B5AFA961293.title: "Fancy candle"
+	quest.3BF0A9F051EACD74.quest_subtitle: "We do not have elytras on the server."
+	quest.3BF0A9F051EACD74.title: "Travel info"
+	quest.3C3B16A785614CE6.quest_desc: [
+		"Rename the item with an anvil to a &lPNG&r URL or file path on your computer and it will load that picture into the game."
+		""
+		"USE THIS ITEM AS A CAMERA FILTER."
+		""
+		"The maximum length is 150 characters so discord links won't work."
+		""
+		"If you are using Linux the game only has access to files in your minecraft folder so in prism right click EPICRAFT and choose folder and place it there or create a folder there for it."
+	]
+	quest.3C3B16A785614CE6.quest_subtitle: "Print external images"
+	quest.3D6E5E563E806C62.title: "Snack storage"
+	quest.3DF0D815B142CE5F.quest_subtitle: "Complete your automatic wheat farm"
+	quest.3DF0D815B142CE5F.title: "Infinite wheat"
+	quest.3E2E45648B8F7128.quest_desc: ["Use the staff to locate a &ldragon level 4 or 5&r! They are deep underground, so you will need to scan the surface using the staff. You will need to kill the dragon and if it is a &lfemale dragon&r it will drop an egg!"]
+	quest.3E2E45648B8F7128.title: "Get an egg"
+	quest.3F0207A35E7CD207.quest_subtitle: "This is too advanced for me."
+	quest.3F0207A35E7CD207.title: "Tom's Filters"
+	quest.4042B95300D221E0.quest_subtitle: "Sleep without setting spawnpoint"
+	quest.41E985E22B20E1D3.quest_desc: [
+		"Right click on two physics assemblies with a slimeball to attach them"
+		"{image:kubejs:item/slimeball_1_example width:179 height:100 align:center}"
+		"{image:kubejs:item/slimeball_2_example width:179 height:100 align:center}"
+		"{image:kubejs:item/slimeball_3_example width:179 height:100 align:center}"
+	]
+	quest.41E985E22B20E1D3.quest_subtitle: "Attach two contraptions"
+	quest.432CFF7169DD87F1.quest_desc: ["These goggles give extra information on the world around you, like how much things weigh and how much force a hot air burner is producing."]
+	quest.43E82DD23C116555.quest_desc: ["When placed on a a single fence they can be used for Via Romana."]
+	quest.43E82DD23C116555.quest_subtitle: "THAT way"
+	quest.43E82DD23C116555.title: "Way signs"
+	quest.43FFE7682F59A4E5.quest_subtitle: "Cha Cha slide to the left"
+	quest.43FFE7682F59A4E5.title: "Sliding door"
+	quest.4417E1C9EE0B3F00.quest_subtitle: "Chisel with original textures"
+	quest.4417E1C9EE0B3F00.title: "Old Chisel"
+	quest.451EAD6928170B33.quest_desc: [
+		"When this block runs over a fully grown crop it will harvest and replant it."
+		""
+		"If a chest is on the same contraption the drops will be deposited there."
+	]
+	quest.451EAD6928170B33.quest_subtitle: "Harvest season"
+	quest.45296A37665C98FA.quest_subtitle: "Two planks that someone dropped"
+	quest.45296A37665C98FA.title: "Plank path"
+	quest.45EEE24AC238A756.quest_desc: [
+		"See mixing recipe"
+		""
+		"1. Place blaze burner under basin and feed fuel (coal, wood, or blaze cake)"
+		"2. Throw copper and zinc into basin"
+		"3. Let the mechanical mixer mix togheter the metals"
+	]
+	quest.45EEE24AC238A756.quest_subtitle: "A new era"
+	quest.460EEFDAFA9855EE.title: "Macaw's Fences and Walls"
+	quest.47FC4EEF9AB72BAA.quest_desc: [
+		"Make sure they are spinning the right way for what you want to do!"
+		""
+		"While it doesn't do anything by it's own more than moving items, combined with other things (e.g. lava) it can turn into a useful machine."
+	]
+	quest.47FC4EEF9AB72BAA.quest_subtitle: "Vacuum if used \"wrong\""
+	quest.4805F957D4D1F59E.quest_subtitle: "Provides a constant redstone signal"
+	quest.481420E1E505D1BA.quest_subtitle: "Build a train"
+	quest.486EA94AFD206E94.title: "Vibes to-go"
+	quest.488DE9F9AFC3ACCC.quest_desc: ["Connected carts at lower speed"]
+	quest.488DE9F9AFC3ACCC.quest_subtitle: "Obtain a Minecart Coupling"
+	quest.488DE9F9AFC3ACCC.title: "Longcart"
+	quest.48EDA64BD4ECE541.quest_subtitle: "The classic vanilla option"
+	quest.48EDA64BD4ECE541.title: "The Chest"
+	quest.490FEC2AE86D3313.quest_subtitle: "These are ways to create a redstone signal"
+	quest.492A46244EC408C5.quest_desc: ["Item vaults are a good scalable option for a lot of storage since it is a multiblock. However it does not have a ui to access the items directly!"]
+	quest.492A46244EC408C5.quest_subtitle: "Read description"
+	quest.492A46244EC408C5.title: "Multiblock storage"
+	quest.496D2E5AF7704412.quest_desc: ["            (click the red arrow)"]
+	quest.496D2E5AF7704412.quest_subtitle: "Chapter: Ice \\& Fire: Dragons"
+	quest.496D2E5AF7704412.title: "Dragons"
+	quest.4B1BBDB72EA2268C.quest_desc: ["By crushing ores you can get nuggets of experience, these provide a &ltiny&r amount of experience or can be crafted into blocks."]
+	quest.4B1BBDB72EA2268C.quest_subtitle: "Near useless experience"
+	quest.4B3F7FD96E80BF7C.title: "The backpack IS the inventory"
+	quest.4BBC7549F8CB6648.quest_desc: [
+		"By holding your [forward movement key] over many create blocks you can see a \"ponder\" these display how to use the block."
+		"{image:kubejs:item/ponder_hover_example width:120 height:50 align:center}"
+	]
+	quest.4BBC7549F8CB6648.quest_subtitle: "Visual learning"
+	quest.4D7F2703AE73ABCA.quest_subtitle: "Reverse of redstone lamp"
+	quest.4DAA445F0273CB2D.quest_desc: ["This is a collection of mods from Sketch Macaw that focus on different aspects of building."]
+	quest.4DAA445F0273CB2D.quest_subtitle: "Knowledge"
+	quest.4E1C9539945032BE.quest_subtitle: "Wool-poster"
+	quest.4E1C9539945032BE.title: "Banner"
+	quest.4EB8499EF1F3A87E.quest_subtitle: "Automated and bigger crafting"
+	quest.4F99CD6BAFF0FDD4.quest_desc: [
+		"Light a fire in front of the fan, like how you did with the water."
+		""
+		"Don't worry, firetick is disabled on EPICRAFT so it won't spread."
+	]
+	quest.4F99CD6BAFF0FDD4.quest_subtitle: "Open oven"
+	quest.4F99CD6BAFF0FDD4.title: "Bulk smoking"
+	quest.4FDF36FCFFD66404.quest_desc: ["Redstone signals can travel a maximum of 15 blocks by default."]
+	quest.4FDF36FCFFD66404.quest_subtitle: "Redstone range"
+	quest.50E34AF44200BC62.quest_subtitle: "ₜᵢₙᵧ"
+	quest.50E34AF44200BC62.title: "The small details matter too!"
+	quest.50F707EAC9E2C297.quest_desc: ["Signal strength is decided by distance."]
+	quest.50F707EAC9E2C297.quest_subtitle: "Sends a redstone signal when movement is detected nearby"
+	quest.51E4DB8624FD1F2D.quest_subtitle: "Text BIG"
+	quest.51E4DB8624FD1F2D.title: "Nameplate"
+	quest.51F6615570BD5BD6.quest_subtitle: "Throw a music disc into the clouds"
+	quest.5254051B1633AD96.quest_desc: [
+		"&lOwner&r: Happy"
+		"&lCo-lead&r: Dwa \\& Cobweb"
+		"&lMod tester&r: Happy"
+		"&lPakku \\& Packwiz&r: Cobweb \\& Tyr"
+		"&lWipe system&r: Happy \\& Tyr"
+		"&lHosting&r: Tyr \\& talon.host"
+		""
+		"&n&lQuests&r&r"
+		"&lQuests \\& Images&r: Cobwebblocks"
+		"&lDragon quests&r: Dwa"
+		""
+		"&n&lConfigs&r&r"
+		"&lFancymenu&r: Cobweb"
+		"&lGuide and Rules&r: EL_Mo9"
+		"&lOther configs&r: EL_Mo9, Flix, \\& Happy"
+		""
+		"ₛₑᵣᵥₑᵣ ₜₒₘₒᵣᵣₒᵥᵥ . ⱼᵤₗᵢₑₜₜₑ"
+	]
+	quest.53067197A85F3025.quest_subtitle: "That's metal"
+	quest.5440DAD84DDED32A.quest_subtitle: "Shoot an arrow on to activate"
+	quest.54590866EEBC92C8.quest_subtitle: "They don't even do damage"
+	quest.54E256EF1D0DE24E.title: "Cable Management"
+	quest.5544CF8527DA1D7C.quest_desc: [
+		"Place this on a contraption or assembly and right click it."
+		""
+		"On the left there are some toggles to change what information is displayed."
+	]
+	quest.5544CF8527DA1D7C.quest_subtitle: "Who knew getting Center of mass could be so pretty"
+	quest.55B7CF62B43779C9.quest_desc: [
+		"Right click the camera in your inventory and place the film in the camera."
+		"This is the same menu that shows controls when you hover over different parts of the camera."
+		"{image:kubejs:item/adding_film_to_camera width:100 height:110 align:center}"
+		"Protip: films can be renamed for free by right clicking them while held in hand."
+	]
+	quest.55B7CF62B43779C9.quest_subtitle: "Classic style"
+	quest.55FA4276E560F8BC.quest_desc: [
+		"You can open the rules and an &lolder&r guide by clicking the button in the pause menu"
+		""
+		"{image:kubejs:item/rules_pause_button_guide width:165 height:102 align:center}"
+	]
+	quest.55FA4276E560F8BC.quest_subtitle: "Same as /guide"
+	quest.560DAA26513567BB.quest_subtitle: "Tama wishes goo night"
+	quest.560DAA26513567BB.title: "Fancy bed"
+	quest.561FF6789E04EB47.quest_desc: ["Write on it like a normal sign or right click with an item or block on it to put it on the sign."]
+	quest.561FF6789E04EB47.quest_subtitle: "Medieval vibes"
+	quest.561FF6789E04EB47.title: "Hanging signs"
+	quest.564C54EEA1B8B7E5.quest_desc: [
+		"This staff improves &lrange&r and filters to only show &lliving&r dragons."
+		""
+		"Optional task, not required for chapter completion."
+	]
+	quest.597E4E003E399509.quest_subtitle: "Randomly picks one of 326 paintings"
+	quest.59882786CCB064B2.title: "Another Upgrade"
+	quest.59D9DCD97231E669.quest_subtitle: "Obtain a Minecart"
+	quest.5A809F4CAE9EC223.quest_subtitle: "Check the ponder for millstone!"
+	quest.5BBE92D62C2208CA.title: "Macaw's Paths and Pavings"
+	quest.5F9559B9C631C87D.quest_subtitle: "Right click with shovel to flatten (like grass)"
+	quest.5F9559B9C631C87D.title: "Pavable path blocks"
+	quest.6029A803E572332B.quest_subtitle: "Obtain arcane essence"
+	quest.6029A803E572332B.title: "Humble beginnings"
+	quest.6084FF200AE19916.quest_desc: [
+		"This allows you to rotate multiple connected blocks with a mechanical bearing, simply right click with glue in two corners to attach into one and then right click the mechanical bearing."
+		""
+		"Pro tip: if you don't have slime, combine the dough you have with lime dye."
+	]
+	quest.6084FF200AE19916.quest_subtitle: "Rotate more than 1 block"
+	quest.60B29C06A0BF70D6.quest_subtitle: "Not a Project Hail Mary reference"
+	quest.60B29C06A0BF70D6.title: "Rocky path"
+	quest.60F63ED4A1B5EEC9.quest_subtitle: "It's easier to pull than to punch"
+	quest.60F68631327D94D9.quest_subtitle: "Perfect for horrors in caves"
+	quest.6243103955E14375.quest_subtitle: "Chisel that fits in"
+	quest.6243103955E14375.title: "Modern Chisel"
+	quest.6352715729391E86.quest_subtitle: "Blocks sculk signals"
+	quest.6452777FA5A323D3.quest_desc: ["{image:kubejs:item/develop_color_film width:152 height:100 align:center}"]
+	quest.6452777FA5A323D3.quest_subtitle: "A use for those potions"
+	quest.6452777FA5A323D3.title: "Developed Color Film"
+	quest.647F862C0C01B11A.quest_desc: [
+		"This is done in a lightroom and requires ink."
+		""
+		"After this you can put it in an &lalbum&r, a &lframe&r, or &lsave it&r to your computer."
+	]
+	quest.647F862C0C01B11A.quest_subtitle: "Print a photo"
+	quest.64EF1EDAAD21AF89.quest_subtitle: "Takes a short signal to toggle another signal"
+	quest.6505C5249821832A.title: "OG item movement"
+	quest.65679469CD88609A.quest_subtitle: "Also do Create: Basics and maybe bread factory first"
+	quest.667F8D53D110EE7D.quest_desc: ["This is a quickly made guide to redstone, mostly vanilla but some modded blocks too. This is not extensive."]
+	quest.667F8D53D110EE7D.quest_subtitle: "Think of this like a cable"
+	quest.6748D6C7055EEA31.quest_desc: ["Yes I read changelogs for when they added supprots for that subtitle."]
+	quest.6748D6C7055EEA31.quest_subtitle: "Supporting bridges since 2021"
+	quest.68A666F35D61BE68.quest_subtitle: "Pushes blocks in front when powered"
+	quest.6917B3C1A036CA06.quest_subtitle: "Delays signal start by 1/10s and signal end delay is configurable"
+	quest.6A47EBB9F04EB414.quest_desc: [
+		"Black and white photos:"
+		"{image:kubejs:item/copy_black_and_white_photo width:160 height:100 align:center}"
+		""
+		"Color photos:"
+		"{image:kubejs:item/copy_color_photo width:180 height:100 align:center}"
+	]
+	quest.6A47EBB9F04EB414.quest_subtitle: "NFT bros hate this simple trick"
+	quest.6AFDF1ED5DDF3C64.quest_subtitle: "Deposit the item in your hand"
+	quest.6C09E3BBF37E0CB8.quest_subtitle: "Makes it possible to use any shape on any woodtype"
+	quest.6CAF68AB20538733.quest_subtitle: "When provided a redstone signal these do things"
+	quest.6D7A98A3310E55A5.quest_desc: ["A Dragon Horn will allow you to put your dragon in your pocket basically. You can use it to make sure your dragon stays safe!"]
+	quest.6F28CDB1A881B4DD.quest_desc: [
+		"Your dragon may be tanky, but it can still die! Make sure it never happens by protecting it!"
+		"The armor is composed of 4 different parts: the Head, Neck, Body and Tail. To equip it, sneak + right click on your dragon to open its interface!"
+	]
+	quest.6F28CDB1A881B4DD.quest_subtitle: "Armor for your dragon"
+	quest.6F28CDB1A881B4DD.title: "Full Iron Dragon Armor"
+	quest.6F7606506CF4C8F7.quest_subtitle: "Torch but smol"
+	quest.6FFB571378C9E377.quest_desc: ["               (in this modpack)"]
+	quest.6FFB571378C9E377.quest_subtitle: "Craft the battery upgrade, the only one which has no uses."
+	quest.6FFB571378C9E377.title: "Well, that's useless"
+	quest.70CD9A4218FCA66C.quest_subtitle: "Take a photo"
+	quest.70CF3065E400F94F.quest_desc: [
+		"The camera stand can be activated remotly with a redstone signal."
+		""
+		"The camera stand can be placed in a boat or minecart."
+	]
+	quest.70CF3065E400F94F.quest_subtitle: "Workaround for wobbly hands"
+	quest.70D7A2177149AC38.quest_desc: [
+		"To get your own dragon, you will need to find a level 4 or 5 female dragon. You can find them by using this staff. "
+		"To find dragon skulls, explore the wilds to find dragon skeletons or level 3 dragons on the outside! Prepare yourself for a fierce fight."
+		""
+		"This guide is also available as a google doc, click icon above this task."
+	]
+	quest.70D7A2177149AC38.title: "Dragon Seeker Staff"
+	quest.70EAC93359E87810.title: "Get a glider"
+	quest.7100256E360D22B2.quest_subtitle: "Bookshevels around enchanting table and get to level 30"
+	quest.7100256E360D22B2.title: "Max level enchants"
+	quest.72DAC4DE3C6617C0.quest_desc: [
+		"Try to put togheter a full chain, in which you input wheat and get bread."
+		""
+		"You can mist and bake bread while it is on a belt, but it has to be &lin humidity/heat for a few seconds&r!"
+		"          --------------------"
+		"{image:kubejs:item/millstone_input_output width:120 height:100 align:center}"
+		"&lFunnels&r are usefull for automating machines that don't work on the belt, "
+		"simply place a funnel going from a belt to a millstone and back out."
+	]
+	quest.72E827A159F42635.quest_desc: ["     Power with redstone to activate"]
+	quest.72E827A159F42635.quest_subtitle: "Magent physics"
+	quest.72E9B458868CD90C.quest_desc: ["In this chapter we will build your first mini-factory. An automatic bread bakery! From wheat to loaf, &loptionally&r even an automatic wheat farm."]
+	quest.72E9B458868CD90C.quest_subtitle: "BREAD"
+	quest.7373B9885193C6DF.quest_desc: [
+		"1. Place your redstone links within 256 blocks of each other"
+		"2. Place two of the same block in both link's red slot"
+		"3. Place two of the same block in both link's blue slot"
+		"4. Use a create wrench on the one you want to recive"
+	]
+	quest.7373B9885193C6DF.quest_subtitle: "Wireless redstone"
+	quest.75D90DFFAEC0E9F0.quest_desc: ["Useful for when you need to spin something quickly on the go, uses hunger."]
+	quest.75D90DFFAEC0E9F0.quest_subtitle: "Manual power"
+	quest.75DFBD1487B175B7.quest_desc: ["&lIn a loom&r use a &ldye&r, &lbanner pattern&r, and &lbanner&r to get a fancy banner."]
+	quest.75DFBD1487B175B7.quest_subtitle: "Multiple patterns can be used"
+	quest.75DFBD1487B175B7.title: "Banner patterns"
+	quest.79115394662EEC85.quest_subtitle: "Drops an item when powered"
+	quest.79382B00D33E2221.quest_subtitle: "Obtain a Minecart with Dispenser"
+	quest.79382B00D33E2221.title: "A strage new cart"
+	quest.79851999686F3D57.quest_subtitle: "This is my priced possession"
+	quest.79B7684DB76DC725.quest_subtitle: "Crush crimsite between Crushing Wheels"
+	quest.7A49FFACD57BD796.quest_subtitle: "Steampunk vibes"
+	quest.7AF950A12B837023.quest_subtitle: "Do not push"
+	quest.7B959B877C947B3D.quest_subtitle: "Eepy"
+	quest.7B959B877C947B3D.title: "Basic bed"
+	quest.7CBE6C9DFB078AEC.quest_subtitle: "Obtain a Controller Rail"
+	quest.7CBE6C9DFB078AEC.title: "A set-speed system"
+	quest.7D1753DD37011593.quest_subtitle: "Not quite a neon sign"
+	quest.7D1753DD37011593.title: "Glowing signs"
+	quest.7D9BF3D6443C241C.quest_desc: [
+		"Normally it is recommended to learn this mod in creative and if you want you can open a singleplayer world and do that."
+		""
+		"But some important details to think about when building in survival is:"
+		"- Slowly increase forces, don't build a massive balloon for a small carriage."
+		"- Stand or sit on your creation, the best way to prevent it from flying away is to be on it."
+		"- Once you get high enough the hot air density, atmosphere air density, and weight will balance out and you will stop going up."
+	]
+	quest.7D9BF3D6443C241C.quest_subtitle: "Don't let it all fly away"
+	quest.7DACF94F487B97CE.quest_subtitle: "Powered toggle latch but can only be disabled from the sides"
+	quest.7E040FEC383EE226.quest_desc: ["{image:kubejs:item/camera_red_filter width:219 height:100 align:center}"]
+	quest.7E040FEC383EE226.quest_subtitle: "Use a red, green, or blue filter on B/W film"
+	quest.7F1A960E40339A8B.quest_desc: [
+		"Speed can be increased by placing a large cog connected to a small cog (like in real life). The faster a machine runs the more stress it uses."
+		"{image:kubejs:item/shifting_gears_example width:154 height:100 align:center}"
+		"The only way to increase stress capacity is to build more rotation sources. "
+	]
+	quest.7F1A960E40339A8B.quest_subtitle: "Make a rotation faster"
+	quest.7F1A960E40339A8B.title: "Shifting Gears"
+	quest.7FDB3CCD947E217A.quest_desc: [
+		""
+		"{image:kubejs:item/rope_connector_example width:160 height:100 align:center}"
+	]
+	quest.7FDB3CCD947E217A.quest_subtitle: "Rope physics"
+	reward_table.017C9833A56B701B.title: "Jukeboxes"
+	task.0016281545120E4D.title: "Honey or Super Glue"
+	task.00E92E292D0AC687.title: "Wired fence"
+	task.0194BDB1EA7D56D5.title: "Conductor Instructor"
+	task.02FACA00F83EDFEE.title: "Any #minecraft:signs"
+	task.08CC2C937F6E2E18.title: "Accessing Quests"
+	task.0A29695EAF649365.title: "Pressure plate"
+	task.0C9D63C74A6FF685.title: "Credits"
+	task.0D1FDA9C37ED0F7C.title: "This chapter is Work in progress"
+	task.0D984D57AE62F882.title: "Hot Air Envelope"
+	task.111797F49413608D.title: "Any #supplementaries:candle_holders"
+	task.1317683477A53523.title: "Wool"
+	task.13A3644C7A046459.title: "Bridge support"
+	task.13D6D11A5FD276DC.title: "Being careful"
+	task.145D6A8A92E14EDE.title: "EPICRAFT"
+	task.169F344C97FA2AD0.title: "Chapter description"
+	task.19175F4E6AE31DD4.title: "Ponders"
+	task.1BB8B25FAC62827C.title: "Visit The Floating Island"
+	task.1C610610CE7B18E4.title: "Trapdoor print"
+	task.202C733995F2D000.title: "Any #supplementaries:way_signs"
+	task.226A0123B4241819.title: "Your first balloon"
+	task.22CBE580B8F9E511.title: "Glass trapdoor"
+	task.2547AD6AEBF30AB5.title: "Any item from Macaw's Trapdoors"
+	task.2737C754ECFD5B54.title: "Blocks under noteblocks"
+	task.2777917F41A5A756.title: "Any #c:loom_patterns"
+	task.293FFE210E40110A.title: "Path blocks"
+	task.31223206D2F16D45.title: "Weight"
+	task.316EE107DACE8BE9.title: "Info"
+	task.34F5BD0D0D76B1C8.title: "Signal Strength and Logic"
+	task.3552C76A91AC7989.title: "Bridge stair"
+	task.356B5FCB954F1B52.title: "Sleeping bag"
+	task.3646ECCAC2C9B54F.title: "Sand Paper"
+	task.3BBE840CA3127ACE.title: "Any #yo_hooks:hooks"
+	task.3BDD4CB8BDC76FA1.title: "Visit Community Hall"
+	task.3D9BFC754A7DCB72.title: "Any item from Macaw's Fences and Walls"
+	task.3DB3D01CEA4B3FDC.title: "Dragon Egg"
+	task.3E0550446E73C5A6.title: "Wooden doors"
+	task.3F0F456B98B39AA4.title: "Crank or Analog lever"
+	task.3FE2B58C9258A97E.title: "Redstone Input"
+	task.3FE69385EB2447DE.title: "Simulated and Aeronautics"
+	task.410DFBE62D48BCD2.title: "Any #curios:glider"
+	task.41347952D4454F89.title: "Any #minecraft:candles"
+	task.42FFF436523977ED.title: "Any Copycat block"
+	task.4E9B4A53D31AEE2D.title: "Creative server"
+	task.4FEAAFBD8631D6CD.title: "Any #another_furniture:flower_boxes"
+	task.50857071F244BF42.title: "Visit The Guild"
+	task.50CA96193588EA9D.title: "Any #minecraft:banners"
+	task.51129AE1D8E75DEA.title: "Metal fence"
+	task.5410CE1BE7FED4BC.title: "Rope bridge"
+	task.54BF642947A83FDD.title: "12x Bookshelves"
+	task.5C8FBE78CB2ED5C1.title: "Cheval De Frise"
+	task.5D76439082F34395.title: "TrainBoat 2000"
+	task.5F370BBD934BC9B5.title: "Any #minecraft:hanging_signs"
+	task.6D7BB9823B2D6366.title: "Automatic bakery"
+	task.70B2FBA98AB10AEE.title: "Redstone Output"
+	task.73D98451F582C878.title: "Rotation making"
+	task.76AD2EF5166E87F1.title: "Duplicating photographs"
+	task.76AFF6A5EB5303D1.title: "Any item from Macaw's Paths and Pavings"
+	task.773B090973565A33.title: "Hedge"
+	task.77B74C1EC839D943.title: "Any item from Macaw's Bridges"
+	task.7C581131CC025302.title: "Rules and Guide"
+	task.7C91FCBA5D739CA0.title: "Buttons"
+	task.7D04D0990B269FF6.title: "completed"
+	task.7D4F36899993A802.title: "Any #simulated:nameplate_items"
+	task.7E0A2ED2B3E1E96F.title: "All Aboard!"
+	task.7E9213A4DAEA472E.title: "Curses"
+}

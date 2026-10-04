@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_continued"
+	group: "28A01377EF19B2E5"
+	icon: {
+		id: "create:brass_casing"
+	}
+	id: "42C6731694648CFC"
+	images: [{
+		height: 6.0d
+		image: "kubejs:item/andesite_casing_7x3_background"
+		rotation: 0.0d
+		width: 14.0d
+		x: 1.5d
+		y: 0.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4EB8499EF1F3A87E"]
+			id: "330E4E7580882959"
+			shape: "gear"
+			tasks: [{
+				id: "584850046E4A6443"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["330E4E7580882959"]
+			id: "4B1BBDB72EA2268C"
+			rewards: [{
+				id: "44424B93D02A7AA0"
+				item: {
+					count: 1
+					id: "create:experience_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B49D74786C2A143"
+				item: { count: 1, id: "create:experience_nugget" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["24D38CD57E598F00"]
+			id: "23816FDEC474E240"
+			rewards: [{
+				id: "62DA411C6323220F"
+				item: {
+					count: 1
+					id: "create:basin"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "669009DD02BF3988"
+				item: { count: 1, id: "create:mechanical_mixer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"23816FDEC474E240"
+				"2D580AD1BFE6558E"
+			]
+			id: "45EEE24AC238A756"
+			tasks: [{
+				id: "6CE688DF73EE0B94"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52B5C870962D8522"]
+			id: "5493FC53B8BB5E46"
+			shape: "gear"
+			tasks: [{
+				id: "31534926AD0A3BFB"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0BEA371CB92CD1BD"
+				"220B22F65D6FD3A8"
+			]
+			id: "4EB8499EF1F3A87E"
+			shape: "gear"
+			tasks: [{
+				id: "22D2BDF2BD41F4A4"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52B5C870962D8522"]
+			id: "4186E7C49324AFC8"
+			tasks: [{
+				icon: {
+					id: "create:sand_paper"
+				}
+				id: "3646ECCAC2C9B54F"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create:sandpaper)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4186E7C49324AFC8"]
+			id: "0BEA371CB92CD1BD"
+			tasks: [{
+				id: "6B858B691F8FD3F9"
+				item: { count: 1, id: "create:polished_rose_quartz" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5493FC53B8BB5E46"]
+			id: "24D38CD57E598F00"
+			tasks: [{
+				id: "5C320D16E5A8EB2C"
+				item: { count: 1, id: "create:iron_sheet" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ldlib2:textures/gui/icon/information.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "65679469CD88609A"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "0D1FDA9C37ED0F7C"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0EF1D34C80674206"]
+			id: "2D580AD1BFE6558E"
+			tasks: [{
+				id: "5C615E39FECF4DF6"
+				item: { count: 1, id: "create:blaze_burner" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52B5C870962D8522"]
+			id: "0EF1D34C80674206"
+			tasks: [{
+				id: "497F69325750EE0F"
+				item: { count: 1, id: "create:empty_blaze_burner" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["45EEE24AC238A756"]
+			id: "220B22F65D6FD3A8"
+			tasks: [{
+				id: "63448899B148E831"
+				item: { count: 1, id: "create:brass_casing" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["330E4E7580882959"]
+			id: "79B7684DB76DC725"
+			tasks: [{
+				id: "39E2F051E35131C3"
+				item: { count: 1, id: "create:crushed_raw_iron" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5493FC53B8BB5E46"]
+			id: "2D806462CA15D15C"
+			tasks: [{
+				id: "5259A0B74D3BFB6E"
+				item: { count: 1, id: "create:golden_sheet" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2D806462CA15D15C"]
+			id: "19C823FC569006CD"
+			shape: "gear"
+			tasks: [{
+				id: "25153F13F8F71040"
+				item: { count: 1, id: "create:wrench" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+}

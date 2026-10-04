@@ -1,0 +1,362 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "redstone"
+	group: "285CAB726FA25953"
+	icon: {
+		id: "minecraft:redstone"
+	}
+	id: "472C4DD9ACB99F57"
+	images: [{
+		height: 20.0d
+		image: "kubejs:item/redstone_background"
+		rotation: 0.0d
+		width: 12.91445874337623d
+		x: 3.5d
+		y: 1.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "667F8D53D110EE7D"
+			tasks: [{
+				id: "19DC1204855E42B2"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["490FEC2AE86D3313"]
+			id: "4805F957D4D1F59E"
+			tasks: [{
+				id: "74B00FC0AE46DAC4"
+				item: { count: 1, id: "minecraft:redstone_block" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6CAF68AB20538733"]
+			id: "68A666F35D61BE68"
+			tasks: [{
+				id: "7F1E3DDCE4F7C858"
+				item: { count: 1, id: "minecraft:piston" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["68A666F35D61BE68"]
+			id: "055E9AFB99903B9B"
+			tasks: [{
+				id: "1BDC5B4BC08B2382"
+				item: { count: 1, id: "minecraft:sticky_piston" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["490FEC2AE86D3313"]
+			id: "088D068B385CFDA1"
+			tasks: [{
+				id: "087A0DC339FCD5C9"
+				item: { count: 1, id: "minecraft:lever" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["667F8D53D110EE7D"]
+			id: "4FDF36FCFFD66404"
+			tasks: [{
+				id: "34F5BD0D0D76B1C8"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["667F8D53D110EE7D"]
+			id: "490FEC2AE86D3313"
+			tasks: [{
+				id: "3FE2B58C9258A97E"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["667F8D53D110EE7D"]
+			id: "6CAF68AB20538733"
+			tasks: [{
+				id: "70B2FBA98AB10AEE"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6CAF68AB20538733"]
+			id: "1A94F154C3451338"
+			tasks: [{
+				id: "2682A6DA21B0713A"
+				item: { count: 1, id: "minecraft:redstone_lamp" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["490FEC2AE86D3313"]
+			id: "5440DAD84DDED32A"
+			tasks: [{
+				id: "24D13F7E4C07A734"
+				item: { count: 1, id: "minecraft:target" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4FDF36FCFFD66404"]
+			id: "35E609196EA69F1B"
+			tasks: [{
+				id: "551D852D63E847F0"
+				item: { count: 1, id: "supplementaries:crank" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4FDF36FCFFD66404"]
+			id: "3A069B770BDD7F82"
+			tasks: [{
+				id: "40618A285251B74B"
+				item: { count: 1, id: "minecraft:repeater" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4FDF36FCFFD66404"]
+			id: "3935F038550EF24B"
+			tasks: [{
+				id: "02203320FEFD0A4C"
+				item: { count: 1, id: "minecraft:comparator" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1A94F154C3451338"]
+			id: "4D7F2703AE73ABCA"
+			tasks: [{
+				id: "1C29E11CE9D50C02"
+				item: { count: 1, id: "supplementaries:redstone_illuminator" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6CAF68AB20538733"]
+			id: "79115394662EEC85"
+			tasks: [{
+				id: "07ABEA7873DFF4AE"
+				item: { count: 1, id: "minecraft:dropper" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["79115394662EEC85"]
+			id: "12702958194F0793"
+			tasks: [{
+				id: "6A28F15B97F88088"
+				item: { count: 1, id: "minecraft:dispenser" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["088D068B385CFDA1"]
+			id: "0EAB8EBC103A285F"
+			tasks: [{
+				id: "7C91FCBA5D739CA0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:buttons)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0EAB8EBC103A285F"]
+			id: "1DBDD17747E0DDA5"
+			tasks: [{
+				id: "0A29695EAF649365"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:wooden_pressure_plates)item(minecraft:stone_pressure_plate)item(minecraft:polished_blackstone_pressure_plate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["490FEC2AE86D3313"]
+			id: "50F707EAC9E2C297"
+			tasks: [{
+				id: "79C8CEB171E7EB18"
+				item: { count: 1, id: "minecraft:sculk_sensor" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["50F707EAC9E2C297"]
+			id: "313A81A4A7C622D5"
+			tasks: [{
+				id: "0E4B4B68426EBFE7"
+				item: { count: 1, id: "minecraft:calibrated_sculk_sensor" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["50F707EAC9E2C297"]
+			id: "6352715729391E86"
+			tasks: [{
+				id: "1317683477A53523"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wool)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6CAF68AB20538733"]
+			id: "009111536E5723F4"
+			tasks: [{
+				id: "4EB510949F697C6F"
+				item: { count: 1, id: "minecraft:note_block" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["490FEC2AE86D3313"]
+			id: "1C59DA742DC32DFA"
+			tasks: [{
+				id: "26A914F727BF655A"
+				item: { count: 1, id: "create:pulse_timer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"088D068B385CFDA1"
+				"35E609196EA69F1B"
+			]
+			id: "2A8D6ED1E124ED21"
+			tasks: [{
+				id: "0AA63B5620D16C07"
+				item: { count: 1, id: "create:analog_lever" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["667F8D53D110EE7D"]
+			icon: {
+				id: "create:redstone_link"
+			}
+			id: "7373B9885193C6DF"
+			optional: true
+			shape: "pentagon"
+			tasks: [
+				{
+					id: "0EC8EFCAA0B61D68"
+					item: { count: 1, id: "create:redstone_link" }
+					type: "item"
+				}
+				{
+					id: "092E467DFEE81531"
+					item: { count: 1, id: "create:wrench" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4FDF36FCFFD66404"]
+			id: "64EF1EDAAD21AF89"
+			tasks: [{
+				id: "3C6CA3B22DEE002E"
+				item: { count: 1, id: "create:powered_toggle_latch" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["64EF1EDAAD21AF89"]
+			id: "7DACF94F487B97CE"
+			tasks: [{
+				id: "04A78660837D0C08"
+				item: { count: 1, id: "create:powered_latch" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3A069B770BDD7F82"]
+			id: "2641C60CC98E9D07"
+			tasks: [{
+				id: "48F671B6926B8399"
+				item: { count: 1, id: "create:pulse_repeater" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2641C60CC98E9D07"]
+			id: "6917B3C1A036CA06"
+			tasks: [{
+				id: "418811A05088710A"
+				item: { count: 1, id: "create:pulse_extender" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["009111536E5723F4"]
+			id: "24815A15FA19F35E"
+			tasks: [{
+				id: "2737C754ECFD5B54"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+	]
+}

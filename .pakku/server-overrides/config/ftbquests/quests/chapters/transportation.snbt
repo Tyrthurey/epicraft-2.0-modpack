@@ -1,0 +1,228 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "transportation"
+	group: ""
+	icon: {
+		id: "minecraft:minecart"
+	}
+	id: "189C0D05F202E382"
+	images: [{
+		height: 16.0d
+		image: "kubejs:item/transport_background"
+		rotation: 0.0d
+		width: 16.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3BF0A9F051EACD74"
+			optional: true
+			tasks: [{
+				id: "4B560AB01E3E1D07"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "26BD6C2D28C0DACC"
+			size: 1.3d
+			tasks: [{
+				id: "13765A8159276297"
+				item: { count: 1, id: "via_romana:charting_map" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "59D9DCD97231E669"
+			size: 1.3d
+			tasks: [{
+				id: "1E4256DCF5AC892C"
+				item: { count: 1, id: "minecraft:minecart" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["59D9DCD97231E669"]
+			id: "488DE9F9AFC3ACCC"
+			tasks: [{
+				id: "384FDBE4598FC978"
+				item: { count: 1, id: "create:minecart_coupling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			id: "0CF61CAE07D068F2"
+			size: 1.3d
+			tasks: [{
+				advancement: "create:track_0"
+				criterion: ""
+				disable_toast: true
+				id: "41F5BAC77B1AEC0C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0CF61CAE07D068F2"]
+			id: "481420E1E505D1BA"
+			tasks: [{
+				advancement: "create:train"
+				criterion: ""
+				disable_toast: true
+				id: "7E0A2ED2B3E1E96F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["481420E1E505D1BA"]
+			id: "036D5995B26BE86A"
+			tasks: [{
+				advancement: "create:conductor"
+				criterion: ""
+				id: "0194BDB1EA7D56D5"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			id: "157DF30ECB8A4896"
+			size: 1.3d
+			tasks: [{
+				id: "3BBE840CA3127ACE"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(yo_hooks:hooks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "70EAC93359E87810"
+			size: 1.3d
+			tasks: [{
+				id: "410DFBE62D48BCD2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(curios:glider)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "63C9C3289D049CDD"
+			size: 1.3d
+			tasks: [{
+				id: "0FAE44E05619A386"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:teleport", index: 0, level: 1, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 0b } }, count: 1, id: "irons_spellbooks:scroll" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3A4A221BBBCBE3A6"]
+			id: "1A5B5BF07267CE65"
+			tasks: [{
+				id: "01D0AB82B7628055"
+				item: { count: 1, id: "irons_spellbooks:teleportation_amulet" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["481420E1E505D1BA"]
+			icon: {
+				id: "minecraft:oak_boat"
+			}
+			id: "122023764324081E"
+			tasks: [{
+				id: "5D76439082F34395"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["70EAC93359E87810"]
+			id: "67DDEFA8F280EAA3"
+			tasks: [{
+				id: "1E0A6ECF4E9947A2"
+				item: { count: 1, id: "vc_gliders:paraglider_netherite" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["157DF30ECB8A4896"]
+			id: "19DD92110D4A48B5"
+			tasks: [{
+				id: "29C17C69A5E29ADF"
+				item: { count: 1, id: "yo_hooks:netherite_grappling_hook" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			id: "3A4A221BBBCBE3A6"
+			size: 1.3d
+			tasks: [{
+				id: "3BD757D2B8E6ABD2"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["59D9DCD97231E669"]
+			id: "7CBE6C9DFB078AEC"
+			tasks: [{
+				id: "5ABFA143FE40A28A"
+				item: { count: 1, id: "create:controller_rail" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["59D9DCD97231E669"]
+			id: "79382B00D33E2221"
+			tasks: [{
+				id: "302F7374011C2F2A"
+				item: { count: 1, id: "supplementaries:dispenser_minecart" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C719C14A2E839DA"]
+			id: "496D2E5AF7704412"
+			size: 1.3d
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_staff"
+				criterion: ""
+				id: "0055076B3643A061"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

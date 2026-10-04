@@ -1,0 +1,116 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting"
+	group: "285CAB726FA25953"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "6032B36005B34092"
+	images: [{
+		height: 10.0d
+		image: "kubejs:item/enchanting_background"
+		rotation: 0.0d
+		width: 16.486187845303867d
+		x: 2.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7A10336C95126FF8"
+			tasks: [{
+				id: "3E2F54FA71EC0720"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A10336C95126FF8"]
+			id: "1A04860519E9A4DF"
+			tasks: [{
+				id: "0B081776F92A1F39"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A04860519E9A4DF"]
+			id: "7100256E360D22B2"
+			tasks: [
+				{
+					count: 12L
+					id: "54BF642947A83FDD"
+					item: { count: 1, id: "minecraft:bookshelf" }
+					type: "item"
+				}
+				{
+					id: "319C858BEA5C0537"
+					points: false
+					type: "xp"
+					value: 30L
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0FC09C2E022280FF"]
+			id: "1C3F98B2881E01DE"
+			tasks: [{
+				id: "046A88DD9518742D"
+				item: { count: 1, id: "disenchanting:disenchanter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "0FC09C2E022280FF"
+			tasks: [{
+				id: "58D0CB8E4DB4496F"
+				item: { count: 1, id: "minecraft:anvil" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1A04860519E9A4DF"]
+			id: "0BFB1F1B4CF6EE16"
+			tasks: [{
+				id: "2083890195A764E7"
+				item: { count: 1, id: "minecraft:grindstone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			id: "0147422A4D35A39C"
+			optional: true
+			shape: "pentagon"
+			tasks: [{
+				id: "43642FAF83126B1E"
+				item: { count: 1, id: "mysticalagriculture:enchanter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "2CBC7B8D1417C744"
+			tasks: [{
+				id: "7E9213A4DAEA472E"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+	]
+}

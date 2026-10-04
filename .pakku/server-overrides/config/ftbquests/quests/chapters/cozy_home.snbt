@@ -1,0 +1,371 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cozy_home"
+	group: "32E674356FEBA5BF"
+	icon: {
+		components: {
+			"ftbquests:icon": "ftblibrary:icons/color_rgb"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "2FF6E328E5EB7981"
+	images: [{
+		height: 15.0d
+		image: "kubejs:item/decorations_background"
+		rotation: 0.0d
+		width: 25.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6243103955E14375"
+			tasks: [{
+				id: "74A4BFC866988837"
+				item: { count: 1, id: "rechiseled:chisel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "4417E1C9EE0B3F00"
+			tasks: [{
+				id: "5E2FB348F7F0203A"
+				item: { count: 1, id: "chisel:chisel" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B959B877C947B3D"]
+			id: "560DAA26513567BB"
+			tasks: [{
+				id: "7692F7CCF61BA3D5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(cluttered:darkwood_bed_geometric)item(cluttered:darkwood_bed_quilted)item(cluttered:darkwood_bed_southern_flair)item(cluttered:pastel_bed)item(cluttered:blue_mushroom_bed)item(cluttered:red_mushroom_bed)item_tag(handcrafted:fancy_beds))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "597E4E003E399509"
+			tasks: [{
+				id: "34690569D7BB518C"
+				item: { count: 1, id: "minecraft:painting" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["597E4E003E399509"]
+			id: "0D377CEAB16D56A6"
+			tasks: [{
+				id: "699DCDBBD7EE62C3"
+				item: { count: 1, id: "selectable_painting:selectable_painting" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["597E4E003E399509"]
+			id: "03DE18B9B34F1780"
+			tasks: [{
+				id: "28927C0A3F522727"
+				item: { count: 1, id: "handcrafted:fancy_painting" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "194E85704E422EFC"
+			tasks: [{
+				id: "42FFF436523977ED"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(copycats)item(create:copycat_step)item(create:copycat_panel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "3670CCA01FB7F9B8"
+			tasks: [{
+				id: "41347952D4454F89"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:candles)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3670CCA01FB7F9B8"]
+			id: "3B6A3B5AFA961293"
+			tasks: [{
+				id: "111797F49413608D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(supplementaries:candle_holders)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "1CF9C8FB2DD9DC17"
+			tasks: [{
+				id: "02FACA00F83EDFEE"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:signs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1CF9C8FB2DD9DC17"]
+			id: "7D1753DD37011593"
+			tasks: [
+				{
+					id: "0258F6BC7C181A51"
+					item: { count: 1, id: "minecraft:glow_ink_sac" }
+					type: "item"
+				}
+				{
+					advancement: "minecraft:husbandry/make_a_sign_glow"
+					criterion: ""
+					id: "23D2652EF5684A68"
+					type: "advancement"
+				}
+			]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1CF9C8FB2DD9DC17"]
+			id: "51E4DB8624FD1F2D"
+			tasks: [{
+				id: "7D4F36899993A802"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(simulated:nameplate_items)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2CFCEEA369B18495"]
+			id: "7A49FFACD57BD796"
+			tasks: [
+				{
+					id: "65F373ECB2E462A9"
+					item: { count: 1, id: "create:nixie_tube" }
+					type: "item"
+				}
+				{
+					id: "5F6F607D7F01EE75"
+					item: { count: 1, id: "bits_n_bobs:large_nixie_tube" }
+					type: "item"
+				}
+				{
+					id: "017652F62033FBE0"
+					item: { count: 1, id: "bits_n_bobs:nixie_board" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1CF9C8FB2DD9DC17"]
+			id: "2CFCEEA369B18495"
+			tasks: [{
+				id: "1C13A1CC49025085"
+				item: { count: 1, id: "create:clipboard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1CF9C8FB2DD9DC17"]
+			id: "561FF6789E04EB47"
+			tasks: [{
+				id: "5F370BBD934BC9B5"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:hanging_signs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1CF9C8FB2DD9DC17"]
+			id: "43E82DD23C116555"
+			tasks: [{
+				id: "202C733995F2D000"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(supplementaries:way_signs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "4E1C9539945032BE"
+			rewards: [{
+				id: "4E3F759FF07BD361"
+				item: {
+					count: 1
+					id: "minecraft:loom"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "50CA96193588EA9D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:banners)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4E1C9539945032BE"]
+			id: "75DFBD1487B175B7"
+			tasks: [{
+				id: "2777917F41A5A756"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:loom_patterns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "7B959B877C947B3D"
+			tasks: [{
+				id: "74F7781AE965D4FD"
+				item: { components: { "ftbfiltersystem:filter": "mod(minecraft)item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"647F862C0C01B11A"
+				"79851999686F3D57"
+			]
+			id: "357908E9B889D34F"
+			tasks: [{
+				id: "1716B8F2210D672A"
+				item: { count: 1, id: "exposure:photograph_frame" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "79851999686F3D57"
+			tasks: [{
+				id: "6CEC9C8A49604716"
+				item: { count: 1, id: "minecraft:item_frame" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79851999686F3D57"]
+			id: "05CAFCEB46FE7444"
+			tasks: [{
+				id: "632D4D4AF89E3D6E"
+				item: { count: 1, id: "minecraft:glow_item_frame" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["357908E9B889D34F"]
+			id: "0C89DE398545FA17"
+			tasks: [{
+				id: "52430B1682F9C9EF"
+				item: { count: 1, id: "exposure:glass_photograph_frame" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "543C4E89D10E5226"
+			tasks: [{
+				id: "3E0550446E73C5A6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:wooden_doors)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["543C4E89D10E5226"]
+			id: "7AF950A12B837023"
+			tasks: [{
+				id: "4A96580E60424564"
+				item: { count: 1, id: "create:framed_glass_door" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"194E85704E422EFC"
+				"543C4E89D10E5226"
+			]
+			id: "1BCD2B147ADA2970"
+			tasks: [{
+				id: "11137C2C87D0BD92"
+				item: { count: 1, id: "copycats:copycat_folding_door" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"194E85704E422EFC"
+				"543C4E89D10E5226"
+			]
+			id: "43FFE7682F59A4E5"
+			tasks: [{
+				id: "2DECB6E5C3D375C7"
+				item: { count: 1, id: "copycats:copycat_sliding_door" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["194E85704E422EFC"]
+			id: "50E34AF44200BC62"
+			tasks: [{
+				id: "4DE01E7F1EBF6A67"
+				item: { count: 1, id: "copycats:copycat_corner_slice" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7B959B877C947B3D"]
+			id: "4042B95300D221E0"
+			tasks: [{
+				id: "356B5FCB954F1B52"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(comforts:sleeping_bags)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}
