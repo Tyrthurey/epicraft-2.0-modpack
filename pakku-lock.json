@@ -4129,7 +4129,7 @@
             ]
         },
         {
-            "pakku_id": "jVNQXkkdJbfPRHLL",
+            "pakku_id": "210whp25tyKJVngX",
             "pakku_links": [
                 "z279g7P89PxKRQsG",
                 "SxeM3dac1hCPryAH"
@@ -4137,43 +4137,15 @@
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "create-aeronautics",
                 "modrinth": "create-aeronautics"
             },
             "name": {
-                "curseforge": "Create Aeronautics",
                 "modrinth": "Create Aeronautics"
             },
             "id": {
-                "curseforge": "676721",
                 "modrinth": "oWaK0Q19"
             },
-            "redistributable": false,
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8763/471/create-aeronautics-bundled-1.21.1-1.3.2.jar",
-                    "id": "8763471",
-                    "parent_id": "676721",
-                    "hashes": {
-                        "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
-                        "md5": "d866c3be71910c633f68f17543f11e8e"
-                    },
-                    "required_dependencies": [
-                        "1312371",
-                        "328085"
-                    ],
-                    "size": 33123131,
-                    "date_published": "2026-08-29T18:45:11.323Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
