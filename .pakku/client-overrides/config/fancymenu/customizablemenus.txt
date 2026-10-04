@@ -9,3 +9,6 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 immersive_melodies.client.gui.ImmersiveMelodiesScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
