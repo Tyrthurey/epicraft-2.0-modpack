@@ -11395,7 +11395,7 @@
         {
             "pakku_id": "gYksBxHIOdTjhS18",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "konkrete",
                 "modrinth": "konkrete"
