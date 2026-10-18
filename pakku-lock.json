@@ -4848,6 +4848,77 @@
             ]
         },
         {
+            "pakku_id": "4BKDKtKwsLnkjDAQ",
+            "pakku_links": [
+                "TqqjAMB0beoIQlNa",
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "create-nowheel",
+                "modrinth": "create-nowheel"
+            },
+            "name": {
+                "curseforge": "Create: Nowheel",
+                "modrinth": "Create: Nowheel"
+            },
+            "id": {
+                "curseforge": "1544167",
+                "modrinth": "c47YxuuI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "nowheel-2.1.1+1.21.1neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8942/574/nowheel-2.1.1+1.21.1neoforge.jar",
+                    "id": "8942574",
+                    "parent_id": "1544167",
+                    "hashes": {
+                        "sha1": "83c6885a3e980ffbd458e89b6e5bcceb410e6840",
+                        "md5": "8b85107165fab1e343ee6caa4fceab14"
+                    },
+                    "required_dependencies": [
+                        "448233",
+                        "328085"
+                    ],
+                    "size": 86568,
+                    "date_published": "2026-09-21T20:28:11.240Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "nowheel-2.1.1+1.21.1neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/c47YxuuI/versions/3NKOvEei/nowheel-2.1.1+1.21.1neoforge.jar",
+                    "id": "3NKOvEei",
+                    "parent_id": "c47YxuuI",
+                    "hashes": {
+                        "sha512": "87e71aa5c7db450c4f42242922cf192537be99ff041ae8c959c219938ddebc06455858693afe9a536c8d7fcfd6fda136a8d0f017c050e4f27d04350b7cb43956",
+                        "sha1": "83c6885a3e980ffbd458e89b6e5bcceb410e6840"
+                    },
+                    "required_dependencies": [
+                        "NNAgCjsB",
+                        "LNytGWDc"
+                    ],
+                    "size": 86568,
+                    "date_published": "2026-09-21T20:28:10.280956Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DOaELe0SCq2DISdY",
             "pakku_links": [
                 "SxeM3dac1hCPryAH"
