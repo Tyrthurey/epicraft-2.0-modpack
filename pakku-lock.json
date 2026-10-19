@@ -7525,6 +7525,74 @@
             ]
         },
         {
+            "pakku_id": "IpLEJS9qYP1qeuxk",
+            "pakku_links": [
+                "cg9uHGIK1V2eoAkQ"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "emotecraft-borrow-their-emote",
+                "modrinth": "emotecraft-borrow-their-emote"
+            },
+            "name": {
+                "curseforge": "Emotecraft: Borrow Their Emote (EBTE)",
+                "modrinth": "Emotecraft: Borrow Their Emote (EBTE)"
+            },
+            "id": {
+                "curseforge": "1590584",
+                "modrinth": "KM1YbXvb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8612/98/emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge.jar",
+                    "id": "8612098",
+                    "parent_id": "1590584",
+                    "hashes": {
+                        "sha1": "e2cf8d40b01a06ec39e5d5a4674962a1045c5dae",
+                        "md5": "ada21f312969ae5c3009b4b6c3b5ff15"
+                    },
+                    "required_dependencies": [
+                        "1399257"
+                    ],
+                    "size": 304401,
+                    "date_published": "2026-08-09T21:11:04.010Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KM1YbXvb/versions/uP1IVrPC/emotecraft-borrow-their-emote-1.0.1+1.21.1+neoforge.jar",
+                    "id": "uP1IVrPC",
+                    "parent_id": "KM1YbXvb",
+                    "hashes": {
+                        "sha512": "d557c8d2c8c330ed80523e681493986f8e167739915bb874792a5f2cb54296f9248ccd296cedc7cf4d50b9b8873ee77030dbab879806fc19107289c811596a54",
+                        "sha1": "e2cf8d40b01a06ec39e5d5a4674962a1045c5dae"
+                    },
+                    "required_dependencies": [
+                        "ffLDUGbm"
+                    ],
+                    "size": 304401,
+                    "date_published": "2026-08-09T21:11:04.041872Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "V1d6WlTDOpoPiaLz",
             "pakku_links": [
                 "avDDvuEJVxDcvx8x",
