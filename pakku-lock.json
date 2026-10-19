@@ -14519,6 +14519,68 @@
             ]
         },
         {
+            "pakku_id": "cg9uHGIK1V2eoAkQ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mossylib",
+                "modrinth": "mossylib"
+            },
+            "name": {
+                "curseforge": "MossyLib",
+                "modrinth": "MossyLib"
+            },
+            "id": {
+                "curseforge": "1399257",
+                "modrinth": "ffLDUGbm"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MossyLib-1.6.0+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8938/982/MossyLib-1.6.0+1.21.1+neoforge.jar",
+                    "id": "8938982",
+                    "parent_id": "1399257",
+                    "hashes": {
+                        "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d",
+                        "md5": "291d26e2c78d12ea64e2b4d8b855df86"
+                    },
+                    "required_dependencies": [],
+                    "size": 179468,
+                    "date_published": "2026-09-21T11:18:46.530Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MossyLib-1.6.0+1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/r1b2ODLf/MossyLib-1.6.0+1.21.1+neoforge.jar",
+                    "id": "r1b2ODLf",
+                    "parent_id": "ffLDUGbm",
+                    "hashes": {
+                        "sha512": "5cb30ec2cedc30bb96d5cfb238359e843a6ccdc203cf93dea4a87f3878b82735374552f331870e58fe86b04a64cbb778d8691b3e8ff05b216680bc6b597b74ed",
+                        "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d"
+                    },
+                    "required_dependencies": [],
+                    "size": 179468,
+                    "date_published": "2026-09-21T11:18:45.730165Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "c2ZC2FwFMnqabrNL",
             "pakku_links": [
                 "ARtKNL5qWutdWq2f"
