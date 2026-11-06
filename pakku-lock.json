@@ -7910,6 +7910,31 @@
             },
             "files": [
                 {
+                    "type": "curseforge",
+                    "file_name": "enigmaticlegacyplus-1.21.1-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9141/458/enigmaticlegacyplus-1.21.1-1.1.2.jar",
+                    "id": "9141458",
+                    "parent_id": "1391021",
+                    "hashes": {
+                        "sha1": "717add3fabab571b88d97eadcfabafe6a27ad1e8",
+                        "md5": "ff9661c731d3f4456178961e5ab662cd"
+                    },
+                    "required_dependencies": [
+                        "308989",
+                        "309927",
+                        "306770"
+                    ],
+                    "size": 7294944,
+                    "date_published": "2026-10-12T02:35:27.923Z"
+                },
+                {
                     "type": "modrinth",
                     "file_name": "enigmaticlegacyplus-1.21.1-1.0.0.jar",
                     "mc_versions": [
@@ -7933,31 +7958,6 @@
                     ],
                     "size": 6893186,
                     "date_published": "2026-05-10T15:39:31.564870Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "enigmaticlegacyplus-1.21.1-1.0.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8067/612/enigmaticlegacyplus-1.21.1-1.0.0.jar",
-                    "id": "8067612",
-                    "parent_id": "1391021",
-                    "hashes": {
-                        "sha1": "a23057e5dfd92c3e8ca9378dcf542f8794b82251",
-                        "md5": "c9d8a172be0091116b680039d7615c53"
-                    },
-                    "required_dependencies": [
-                        "309927",
-                        "306770",
-                        "308989"
-                    ],
-                    "size": 6893186,
-                    "date_published": "2026-05-10T09:43:03.990Z"
                 }
             ]
         },
