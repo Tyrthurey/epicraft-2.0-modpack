@@ -8024,67 +8024,6 @@
             ]
         },
         {
-            "pakku_id": "ssk1zEBHyGeLqT8d",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "envelope",
-                "modrinth": "envelope"
-            },
-            "name": {
-                "curseforge": "Envelope",
-                "modrinth": "Envelope"
-            },
-            "id": {
-                "curseforge": "1281170",
-                "modrinth": "bINSbhYK"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "envelope-neoforge-1.21.1-0.6.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/bINSbhYK/versions/MmLbWZuv/envelope-neoforge-1.21.1-0.6.2.jar",
-                    "id": "MmLbWZuv",
-                    "parent_id": "bINSbhYK",
-                    "hashes": {
-                        "sha512": "c6c076e40ec421eb276b3ef6529d73482dfa2b59fe22871f47acc534ed9c2179b6c0f03d611ab2893701ded271334b61daa83a70c7ecdf57b03efe87e2380ed9",
-                        "sha1": "4a651cb23ae3200760d3f2da442749834537a112"
-                    },
-                    "required_dependencies": [],
-                    "size": 1639440,
-                    "date_published": "2026-06-11T02:52:00.087128Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "envelope-neoforge-1.21.1-0.6.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8229/722/envelope-neoforge-1.21.1-0.6.2.jar",
-                    "id": "8229722",
-                    "parent_id": "1281170",
-                    "hashes": {
-                        "sha1": "4a651cb23ae3200760d3f2da442749834537a112",
-                        "md5": "4a1ffddc356fce26668a2e68590ed440"
-                    },
-                    "required_dependencies": [],
-                    "size": 1639440,
-                    "date_published": "2026-06-11T02:52:00.420Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Hz2tUEoewaGU6ggL",
             "pakku_links": [
                 "vm7whLV6C6hkDOBK"
