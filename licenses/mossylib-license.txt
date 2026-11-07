@@ -1,0 +1,8 @@
+Licensed under CC BY-ND 4.0
+MossyLib by LopyTwich on Curseforge
+
+Curseforge mod link: https://www.curseforge.com/minecraft/mc-mods/mossylib
+
+Curseforge author link: https://www.curseforge.com/members/lopytwich/projects
+
+License link: https://creativecommons.org/licenses/by-nd/4.0/
