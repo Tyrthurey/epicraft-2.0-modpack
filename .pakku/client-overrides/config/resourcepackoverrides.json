@@ -6,12 +6,14 @@
     "moonlight:merged_pack",
     "mod/iceandfire:resourcepacks/iaf_legacy",
     "file/More_Advancement_Sounds.zip",
-    "file/Epic-Day-Panorama.zip"
+    "file/Epic-Day-Panorama.zip",
+    "file/true-ending-dragon-music-v1.zip"
   ],
   "pack_overrides": {
     "1": [
       "file/More_Advancement_Sounds.zip",
       "file/Epic-Day-Panorama.zip",
+      "file/true-ending-dragon-music-v1.zip",
       "server",
       "supplementaries:darker_ropes"
     ],
