@@ -1,0 +1,12 @@
+Licensed under CC BY 4.0
+Battlemusic by NekoTune on Curseforge and Modrinth
+
+Changes were made (modified neoforge.mods.toml to allow older neoforge versions and compressed some audio to fit under 100MB)
+
+Curseforge mod link: https://www.curseforge.com/minecraft/mc-mods/battlemusic
+Modrinth mod link: https://modrinth.com/mod/battlemusic
+
+Curseforge author link: https://www.curseforge.com/members/nekotune/projects
+Modrinth author link: https://modrinth.com/user/nekotune
+
+License link: https://creativecommons.org/licenses/by/4.0/
